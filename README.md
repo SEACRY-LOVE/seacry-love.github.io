@@ -22,7 +22,7 @@ Peacera respects the privacy, and legal issues on human matters.
 
 ## Contributing
 
-Contribution are welcome on this repository. You can edit pages inside the `leaders.io/` folder. You can also clone this repository and run it locally. To do so, [install Jekyll](https://jekyllrb.com/docs/installation/) and run:
+Contribution are welcome on this repository. You can edit pages inside the `aychome.io/` folder. You can also clone this repository and run it locally. To do so, [install Jekyll](https://jekyllrb.com/docs/installation/) and run:
 
 ```
 jekyll serve
