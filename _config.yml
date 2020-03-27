@@ -1,12 +1,12 @@
 # Site settings
-title: "A Y C H P I"
-description: 'Read AYCHPI in Plain English online.
+title: "A Y C H O M E"
+description: 'Read AYCHOME in plain text online.
 
-The AYCHPI is a fresh version of Peacera for Mindfulness practice. Repeat, practice. This is a meditation manual, a nuts-and-bolts, step-by-step guide to Insight meditation. It is meant to be practical. It is meant for use.'
+The AYCHOME is a fresh version of accessing AYCH inc services and products. This is a manual, step-by-step guide, towards management and software products. It is meant to be practical. It is meant for use.'
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://aychpi.github.io" # the base hostname & protocol for your site
+url: "https://aychome.github.io" # the base hostname & protocol for your site
 github_username: Creditbox
-github_url:  https://github.com/peacera/peacera.io
+github_url:  https://github.com/aychome/aychome.io
 permalink: pretty
 exlude:
   - css/style.styl
