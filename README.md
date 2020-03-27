@@ -1,9 +1,9 @@
-# PEACERA 2020
+# AYCHPI 
 
-The Peacera is a project of AYCHDeveloper, under the license of AGPL-3.0.
-The project is a modern Web publication of the free version of the book _Mindfulness in Plain English.
+The AYCHPI is a project of AYCHDeveloper, under the license of AGPL-3.0.
+The project is a modern Web publication of the free version of the Peacera for Mindfulness practice. It is written in Plain English.
 
-[We made](https://github.com/peacera/peacera/) this online for the peace lovers around the world. I have discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to AYCHDeveloper and the mindfulness publication. Visit us on [peacera.blogspot.com](https://peacera.blogspot.com/) for a grateful note.
+[AYCHPI](https://aychpi.github.io/) this online for the peace lovers around the world. I have discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to AYCHDeveloper and the Peacera practice for mindfulness. Visit us on [peacera.blogspot.com](https://peacera.blogspot.com/) for a grateful note.
 
 
 ## Code of conduct
@@ -20,4 +20,4 @@ jekyll serve
 
 Then visit your local version of the site at http://localhost:4000/
 
-At the same time, you are invited to join Peacera for developers at "https://gitter.im/peacerg/".
+At the same time, you are invited to join AYCHPI for developers at "https://gitter.im/peacerg/".
