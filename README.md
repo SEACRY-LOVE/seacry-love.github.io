@@ -20,4 +20,4 @@ jekyll serve
 
 Then visit your local version of the site at http://localhost:4000/
 
-At the same time, you are invited to join AYCHPI for developers at "https://gitter.im/peacerg/".
+At the same time, you are invited to join AYCHPI for developers at "https://gitter.im/aychr/aychat".
