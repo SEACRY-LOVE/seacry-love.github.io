@@ -9,10 +9,10 @@ This publication online includes management projects and software development up
 ## AYCHOME, a customer-driven project
 The AYCH inc is built on a status of customer-driven approach. This is applied in all of its activities.
 
-Mindful practice at:
+A little practice for the Mind at:
 [AYCHPI](https://aychpi.github.io/) this is a simple practice for your mind. This is a free of charge to show how AYCH inc cares about you. You can read plain text and practice as per your schedule.
 
-Join AYCHOME at:
+Join AYCH inc through:
 [AYCHOME](https://github.com/apps/aychome/) this is a place to access AYCH inc services and products. All you need to do is follow the link and complete a simple step. You are on the go!🐩🐩
 
 
