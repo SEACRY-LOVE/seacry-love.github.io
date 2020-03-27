@@ -1,9 +1,19 @@
-# AYCHPI 
+# AYCHOME 
 
-The AYCHPI is a project of AYCHDeveloper, under the license of AGPL-3.0.
-The project is a modern Web publication of the free version of the Peacera for Mindfulness practice. It is written in Plain English.
+The AYCHOME is developed by the AYCHDeveloper. This web site is the official release and documentation of AYCH inc. Its license is under the AGPL-3.0 (https://www.gnu.org/licenses/).
+This publication online includes management projects and software development updates. Plain text gets you the simple and efficient approach to the AYCH inc. 
 
-[AYCHPI](https://aychpi.github.io/) this online for the peace lovers around the world. I have discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to AYCHDeveloper and the Peacera practice for mindfulness. Visit us on [aychpi.blogspot.com](https://aychpi.blogspot.com/) for a grateful note.
+[AYCHOME](https://aychome.github.io/) this online for the peace lovers around the world. I have discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to AYCHDeveloper and the Peacera practice for mindfulness. Visit us on [aychpi.blogspot.com](https://aychpi.blogspot.com/) for a grateful note.
+
+
+## AYCHOME, a customer-driven project
+The AYCH inc is built on a status of customer-driven approach. This is applied in all of its activities.
+
+Mindful practice at:
+[AYCHPI](https://aychpi.github.io/) this is a simple practice for your mind. This is a free of charge to show how AYCH inc cares about you. You can read plain text and practice as per your schedule.
+
+Join AYCHOME at:
+[AYCHOME](https://github.com/apps/aychome/) this is a place to access AYCH inc services and products. All you need to do is follow the link and complete a simple step. You are on the go!🐩🐩
 
 
 ## Code of conduct
@@ -20,4 +30,4 @@ jekyll serve
 
 Then visit your local version of the site at http://localhost:4000/
 
-At the same time, you are invited to join AYCHPI for developers at "https://gitter.im/aychr/aychat".
+At the same time, you are invited to join AYCHOME for developers at "https://gitter.im/aychr/aychat".
