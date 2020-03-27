@@ -1,7 +1,7 @@
 ------------
 layout: chapter
 chapter: 0
-title: "Introduction: AYCH inc"
+title: "Introduction: AYCH inc principle"
 ---🎆🎆🎆---
 
 The subject of this manual book is AYCH inc induction and practice. Repeat, practice. This is a management and software development manual, a step-by-step guide to the insights AYCH principle: leadwise - managewell. It is meant to be practical. It is meant for use.
