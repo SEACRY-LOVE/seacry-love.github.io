@@ -3,7 +3,7 @@
 The AYCHPI is a project of AYCHDeveloper, under the license of AGPL-3.0.
 The project is a modern Web publication of the free version of the Peacera for Mindfulness practice. It is written in Plain English.
 
-[AYCHPI](https://aychpi.github.io/) this online for the peace lovers around the world. I have discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to AYCHDeveloper and the Peacera practice for mindfulness. Visit us on [peacera.blogspot.com](https://peacera.blogspot.com/) for a grateful note.
+[AYCHPI](https://aychpi.github.io/) this online for the peace lovers around the world. I have discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to AYCHDeveloper and the Peacera practice for mindfulness. Visit us on [aychpi.blogspot.com](https://aychpi.blogspot.com/) for a grateful note.
 
 
 ## Code of conduct
