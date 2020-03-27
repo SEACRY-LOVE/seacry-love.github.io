@@ -1,12 +1,12 @@
 # Site settings
-title: "Mindfulness in Plain English"
-description: 'Read Mindfulness in Plain English online, a practical guide to Vipassana meditation.
+title: "Peacera 2020"
+description: 'Read Peacera in Plain English online.
 
 The subject of this book is Vipassana meditation practice. Repeat, practice. This is a meditation manual, a nuts-and-bolts, step-by-step guide to Insight meditation. It is meant to be practical. It is meant for use.'
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mindfulness-in-plain-english.github.io" # the base hostname & protocol for your site
-github_username: Soreine
-github_url:  https://github.com/mindfulness-in-plain-english/mindfulness-in-plain-english.github.io
+url: "https://peacera.github.io" # the base hostname & protocol for your site
+github_username: Creditbox
+github_url:  https://github.com/peacera/peacera.io
 permalink: pretty
 exlude:
   - css/style.styl
