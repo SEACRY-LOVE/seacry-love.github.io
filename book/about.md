@@ -5,10 +5,11 @@ title: "About the author"
 ---
 
 Jean Wallet (JW) was 14 counting back to his birth. He was born in a small countryside village in a northern province of Vietnam. 
-His preceptor was Venerable Kiribatkumbure Sonuttara Mahathera. At the age of 20 he was given higher ordination in Kandy in 1947. He received his education from Vidyalankara College and Buddhist Missionary College in Colombo. Subsequently he traveled to India for five years of missionary work for the Mahabodhi Society, serving the Harijana (Untouchable) people in Sanchi, Delhi, and Bombay. Later he spent ten years as a missionary in Malaysia, serving as religious advisor to the Sasana Abhivurdhiwardhana Society, Buddhist Missionary Society and the Buddhist Youth Federation of Malaysia. He has been a teacher in Kishon Dial School and Temple Road Girls' School and Principal of the Buddhist Institute of Kuala Lumppur.
+He is now working with AYCH inc. As a founder of AYCH inc, JW is leading a group of consultants and developers for business, enterprises and individuals. It has clients and users around the world.
+His outermost concern is how to use AYCH inc technology in order to help enterprises and businesses achieve their goals at the minimum cost.
 
-At the invitation of the Sasana Sevaka Society, Venerable Gunaratana came to the United States in 1968 to serve as Hon. General Secretary of the Buddhist Vihara Society of Washington, D.C. In 1980 he was appointed President of the Society. During his years at the Vihara, he has taught courses in Buddhism, conducted meditation retreats, and lectured widely throughout the United States, Canada, Europe, Australia and New Zealand.
+Ups and downs remain in any organizations and individuals. How do we improve our business performances?
+Resources, efforts and goals are great things to come up with. Planning always takes time and resources to do so. Improvements or challenges? I do not know exactly the answer. I know one thing is to question you here that what can we do to minimize our costs in every process of our products and services?
+I think we can do so when we are open and ready to learn from each other, share the knowledge and skills to each other through in simplest way with respect of privacy and intellectual property rights.
 
-He has also pursued his scholarly interests by earning a B.A., and M.A., and a Ph.D. in Philosophy from the American University. He taught courses in Buddhism at the American University, Georgetown University and University of Maryland. His books and articles have been published in Malaysia, India, Sri Lanka and the United States.
-
-Since 1973 he has been buddhist chaplin at The American University counseling students interested in Buddhism and Buddhist meditation. He is now president of the Bhavana Society in West Virginia in the Shenandoah Valley, about 100 miles from Washington, D.C. teaching meditation and conducting meditation retreats.
+If you would like to join AYCH inc, you are advised to click at (https://github.com/apps/aychome)
