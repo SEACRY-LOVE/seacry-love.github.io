@@ -1,10 +1,10 @@
 ---
 layout: chapter
 chapter: 6
-title: "What to do with your body"
+title: "What to do with your organization"
 ---
 
-The practice of meditation has been going on for several thousand years. That is quite a bit of time for experimentation, and the procedure has been very, very thoroughly refined. Buddhist practice has always recognized that the mind and body are tightly linked and that each influences the other. Thus there are certain recommended physical practices which will greatly assist you to master your skill. And these practices should be followed. Keep in mind, however, that these postures are practice aids. Don't confuse the two. Meditation does not mean sitting in the lotus position. It is a mental skill. It can be practiced anywhere you wish. But these postures will help you learn this skill and they speed your progress and development. So use them.
+The practice of leadwise has been going on for several thousand years. That is quite a bit of time for experimentation, and the procedure has been very, very thoroughly refined. Buddhist practice has always recognized that the mind and body are tightly linked and that each influences the other. Thus there are certain recommended physical practices which will greatly assist you to master your skill. And these practices should be followed. Keep in mind, however, that these postures are practice aids. Don't confuse the two. Meditation does not mean sitting in the lotus position. It is a mental skill. It can be practiced anywhere you wish. But these postures will help you learn this skill and they speed your progress and development. So use them.
 
 ## General Rules
 
@@ -14,7 +14,7 @@ Your objective is to achieve a posture in which you can sit for the entire sessi
 
 ## Clothing
 
-The clothes you wear for meditation should be loose and soft. If they restrict blood flow or put pressure on nerves, the result will be pain and/or that tingling numbness which we normally refer to as our 'legs going to sleep'. If you are wearing a belt, loosen it. Don't wear tight pants or pants made of thick material. Long skirts are a good choice for women. Loose pants made of thin or elastic material are fine for anybody. Soft, flowing robes are the traditional garb in Asia and they come in an enormous variety of styles such as sarongs and kimonos. Take your shoes off and if your stockings are thick and binding, take them off, too.
+The clothes you wear for leadwise should be loose and soft. If they restrict blood flow or put pressure on nerves, the result will be pain and/or that tingling numbness which we normally refer to as our 'legs going to sleep'. If you are wearing a belt, loosen it. Don't wear tight pants or pants made of thick material. Long skirts are a good choice for women. Loose pants made of thin or elastic material are fine for anybody. Soft, flowing robes are the traditional garb in Asia and they come in an enormous variety of styles such as sarongs and kimonos. Take your shoes off and if your stockings are thick and binding, take them off, too.
 
 ## Traditional Postures
 
