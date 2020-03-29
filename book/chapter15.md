@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 15
-title: "Meditation in everyday life"
+title: "Leadwise in work and life"
 ---
 
 Every musician plays scales. When you begin to study the piano, that's the first thing you learn, and you never stop playing scales. The finest concert pianists in the world still play scales. It's a basic skill that can't be allowed to get rusty.
