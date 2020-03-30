@@ -15,4 +15,6 @@ I think we can do so when we are open and ready to learn from each other, share 
 You are here because you put your priorities to reach the best cost service and products. We also do the same. In this short description, you will find about other 16 topics related to management and software development. All are written in plain text and serve as a live version of AYCH inc book. Normally, it should be produced and published as an eBook or hard copy version.
 One question I seek your ideas is how to turn more users into our customers?
 
+AYCH Inc., is  for "leadwise" and "managewell" principle.
+
 If you would like to join AYCH inc for contributing, you are advised to click at (https://github.com/apps/aychome)
