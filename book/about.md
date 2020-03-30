@@ -17,4 +17,4 @@ One question I seek your ideas is how to turn more users into our customers?
 
 AYCH Inc., is  for "leadwise" and "managewell" principle.
 
-If you would like to join AYCH inc for contributing, you are advised to click at (https://github.com/apps/aychome)
+If you would like to join AYCH inc for contributing, you are advised to click at [AYCH]("https://github.com/apps/aychome/")
