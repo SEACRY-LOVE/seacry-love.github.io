@@ -210,6 +210,6 @@ Consultants and others who are of interest of AYCH inc may contribute by visitin
 
 Thank you! On behalf of AYCH inc, Jean Wallet, Founder.
 
------------------:::::🎆:::::------+----------
+-----------------:::::🎆:::::-----------------
 
 © 2020 AYCH inc. All rights reserved.
