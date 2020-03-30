@@ -37,21 +37,21 @@ These principles form the conceptual foundation for the ISO portfolio of quality
 Organizations can continue to audit their existing integrated management systems against the current revisions of ISO 9001 (2008 version) until September 2015. After that, with the ISO 9001:2015 standard in place guiding users toward better quality practices, organizations will find it easier to incorporate their quality management system into the core business processes and gain greater business benefit.
 
 
-# Suitable and successful strategy
+# Set suitable and successful strategy
 It all starts with setting the right company strategy, including these elements:
 
 Inspirational statement of purpose and direction. The old mission statements declaring your intent to be the “low-cost provider” is no longer a motivating vision for employees or customers. Engaging visions today include elements of social and environmental responsibilities, as well as economic returns to constituents.
 
-## Market and customer positioning. 
+## Market and customer positioning 
 Clearly focusing on the right market and customer profile sets your competitor differentiation. It starts with understanding the drivers of customer excitement in advocating your solution, and ways to strengthen relationships. When customers are excited, your team becomes more engaged and productive.
 
 ## Customer and employee value propositions. 
 What are the company’s solutions and practices that will be seen as win-win value by all constituents? Your managers and everyone on your team needs to understand how their actions and leadership relate to value provided. The strategy must drive leadership so that leaders can drive the strategy.
 
-## Competitive and leadership leverage. 
+## Competitive and leadership leverage 
 A good strategy provides opportunities for internal actions and leaders to optimize and extend a firm’s competitive advantage. This requires effective communication of intent, flexibility in implementation, and positive rewards for innovation and initiative in improving customer experience and quality.
 
-## Constant restructuring for future advantage. 
+## Constant restructuring for future advantage
 A strategy that does not evolve as the market changes is a losing strategy. The internal team must see a reward in fostering change and leadership, and customers must be energized by new and improved processes, practices, and solutions. The best strategies are dynamic, rather than fixed.
 
 A positive business strategy allows you to lead strategically by mastering the elements of both, separately and as an integrated whole. The authors argue that strategic leadership is an acquired capability that can and must be mastered by managers at all levels. It needs to extend to the firm’s directors, as well as investors. Everyone has to think and act strategically.
@@ -64,4 +64,4 @@ New companies are automatically global in reach and visibility, which makes a la
 Bring it all together, successful leaders focus on customer satisfaction by knowing their customers, offering personalized services, providing training of products and services, easy-made-ready interactive with customers in order to listen to their needs, company branding and socializing, and offering extra benefits for the loyalty.
 
 
-[Resources: ISO.org, Forbes.com, medium.com, businessInsider.com, smallbizclub.com, cnbc.com, tweakyourbiz.com, 
+[Resources: ISO.org, Forbes.com, medium.com, businessInsider.com, smallbizclub.com, cnbc.com, tweakyourbiz.com, investopia.com, investment.com]
