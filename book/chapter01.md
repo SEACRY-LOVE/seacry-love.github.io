@@ -4,7 +4,7 @@ chapter: 1
 title: "Customer satisfaction: Why does it bother?"
 ---
 
-Customer satisfaction is not easy. It takes time and energy of the whole organization. It also takes grit, determination and discipline. A whole picture of organization can be manifested by adapting general guides and management principles. These are the key resources for vision, cores of values, objectives, action plans and proceses, culture and management system.
+Customer satisfaction is not easy. It takes time and energy of the whole organization. It also takes grit, determination and discipline. A whole picture of organization can be manifested by adapting general guides and management principles. These are the key resources for vision, cores of values, objectives, action plans and proceses, culture and the management system.
 
 # Backbone Management Principles
 
