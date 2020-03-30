@@ -3,13 +3,13 @@
 The AYCHOME is developed by the AYCHDeveloper. This web site is the official release and documentation of AYCH inc. Its license is under the AGPL-3.0 (https://www.gnu.org/licenses/).
 This publication online includes management projects and software development updates. Plain text gets you the simple and efficient approach to the AYCH inc. 
 
-[AYCHOME](https://aychome.github.io/) this online for the users of AYCH inc software and  management consultants around the world. One interesting has been discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to Developers on world leading bigPlatforms and AYCHDeveloper for our inheritageds. By the way, this is a benefit plus for those who would need other than software and management, then there is a mindful practice  on [aychpi.blogspot.com](https://aychpi.blogspot.com/) for a grateful note.
+[AYCHOME](https://aychome.github.io/) this online for the users of AYCH inc software and  management consultants around the world. One interesting has been discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to Developers on world leading bigPlatforms and AYCHDeveloper for our inheritances.
 
 
 ## AYCHOME, a customer-driven project
 The AYCH inc is built on a status of customer-driven approach. This is applied in all of its activities.
 
-A little practice for the Mind at:
+There is a topic other than software and management for those who need concentration through Mindful practice at:
 [AYCHPI](https://aychpi.github.io/) this is a simple practice for your mind. This is a free of charge to show how AYCH inc cares about you. You can read plain text and practice as per your schedule.
 
 Join AYCH inc through:
