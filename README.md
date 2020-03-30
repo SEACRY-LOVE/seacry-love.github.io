@@ -17,12 +17,12 @@ Join AYCH inc through:
 
 
 ## Code of conduct
-Peacera respects the privacy, and legal issues on human matters.  
+AYCH inc respects the privacy, and legal issues on business and human matters.  
 
 
 ## Contributing
 
-Contribution are welcome on this repository. You can edit pages inside the `aychome.io/` folder. You can also clone this repository and run it locally. To do so, [install Jekyll](https://jekyllrb.com/docs/installation/) and run:
+Contribution are welcome on this project. You can edit pages inside the `aychome.io/` folder. You can also clone this repository and run it locally. To do so, [install Jekyll](https://jekyllrb.com/docs/installation/) and run:
 
 ```
 jekyll serve
@@ -30,7 +30,7 @@ jekyll serve
 
 Then visit your local version of the site at http://localhost:4000/
 
-At the same time, you are invited to contribute to AYCHOME at "https://gitter.im/aychr/aychat".
+For those who would need to contribute to AYCH inc, they are invited to catch AYCHOME at "https://gitter.im/aychr/aychat".
 
 
 ------------:::::🎆:::::------------
