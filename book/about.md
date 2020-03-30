@@ -5,7 +5,7 @@ title: "About the author"
 ---
 
 Jean Wallet (JW) was 14 years old in 1990 counting back to his birth. He was born in a small countryside village in a northern province of Vietnam. 
-He is now working with AYCH inc. As a founder of AYCH inc, JW is leading a group of consultants and developers for business, enterprises and individuals. It has clients and users around the world.
+He is now working with AYCH inc. As a founder, JW is leading a group of consultants and developers for business, enterprises and individuals. It has clients and users around the world.
 His outermost concern is how to use AYCH inc technology in order to help enterprises and businesses achieve their goals at the minimum cost.
 
 Ups and downs remain in any organizations and individuals. How do we improve our business performances?
