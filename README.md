@@ -3,7 +3,7 @@
 The AYCHOME is developed by the AYCHDeveloper. This web site is the official release and documentation of AYCH inc. Its license is under the AGPL-3.0 (https://www.gnu.org/licenses/).
 This publication online includes management projects and software development updates. Plain text gets you the simple and efficient approach to the AYCH inc. 
 
-[AYCHOME](https://aychome.github.io/) this online for the peace lovers around the world. I have discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to AYCHDeveloper and the Peacera practice for mindfulness. Visit us on [aychpi.blogspot.com](https://aychpi.blogspot.com/) for a grateful note.
+[AYCHOME](https://aychome.github.io/) this online for the users of AYCH inc software and  management consultants around the world. One interesting has been discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to Developers on world leading bigPlatforms and AYCHDeveloper for our inheritageds. By the way, this is a benefit plus for those who would need other than software and management, then there is a mindful practice  on [aychpi.blogspot.com](https://aychpi.blogspot.com/) for a grateful note.
 
 
 ## AYCHOME, a customer-driven project
@@ -30,4 +30,9 @@ jekyll serve
 
 Then visit your local version of the site at http://localhost:4000/
 
-At the same time, you are invited to join AYCHOME for developers at "https://gitter.im/aychr/aychat".
+At the same time, you are invited to contribute to AYCHOME at "https://gitter.im/aychr/aychat".
+
+
+------------:::::🎆:::::------------
+
+© 2020 AYCH inc. All rights reserved.
