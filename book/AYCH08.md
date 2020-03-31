@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 8
+layout: AYCH
+AYCH: 8
 title: "Structuring your organization"
 ---
 
