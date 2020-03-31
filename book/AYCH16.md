@@ -25,7 +25,7 @@ The principle of "leadwise" - "managewell" has helped AYCH inc to rethink about 
 "AYCH inc is like a sand in the Shahara desert, but without it the desert is not full".
 
 The term ERM is deployed by AYCH inc. We believe in ourselves and trust in our relationships with our clients / customers.
-When an enterprise expects to a software application, we always ask them why do you need to do so? (We, and our people are trained not to handle other's responsibility rather than give an advice when some one is willing to listen to.
+When an enterprise expects to a software APPLICATION, we always ask them why do you need to do so? (We, and our people are trained not to handle other's responsibility rather than give an advice when some one is willing to listen to.
 
 Whenever you need some one to take care of your business, you may leave an email to (tokeneconomy@eclipso.eu, or leave a message at [AYCH] (https://gitter.im/yachr/Aychat".)
 
@@ -41,6 +41,7 @@ Departmental or functional customization resource management available are:
 - Sales,
 - ....
 The simple answer is technology can help resolve the issue.
+If you would need to join us or make a contribution, you are advised to [join us] (https://github.com/aych-inc/contributing/)
 
 
 © 2020 AYCH inc. All right reserved.
