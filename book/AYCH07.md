@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 7
+layout: AYCH
+AYCH: 7
 title: "What to do with your mindset"
 ---
 
