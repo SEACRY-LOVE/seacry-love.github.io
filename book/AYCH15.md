@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 15
+layout: AYCH
+AYCH: 15
 title: "Leadwise in work and life"
 ---
 
