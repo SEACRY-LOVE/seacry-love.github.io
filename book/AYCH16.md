@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 16
+layout: AYCH
+AYCH: 16
 title: "What's in it for your organization"
 ---
 
