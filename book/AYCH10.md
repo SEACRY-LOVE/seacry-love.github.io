@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 10
+layout: AYCH
+AYCH: 10
 title: "Dealing with customer complaints"
 ---
 
