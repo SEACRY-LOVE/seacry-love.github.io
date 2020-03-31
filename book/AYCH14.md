@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 14
+layout: AYCH
+AYCH: 14
 title: "Leadwise versus managewell"
 ---
 
