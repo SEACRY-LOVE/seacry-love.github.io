@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 3
+layout: AYCH
+AYCH: 3
 title: "What leadwise is"
 ---
 
