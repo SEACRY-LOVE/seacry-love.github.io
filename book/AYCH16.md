@@ -13,6 +13,8 @@ Those things that we called hindrances or defilements are more than just unpleas
 Continuous improvement is a bilateral trust in business and individual contacts nowadays.
 ISO standards? FAO standards? ILO standards? WHO standards? WTO standards? And other related standards for humans and businesses.
 Visit us at [AYCH] (https://aychome.github.io)
+- International management standards such as IDO9001, ISO14001, ISO22000, ISO45000, SA8000, EUCODE, 55/Kaizen, Best performance practices, etc.
+- Training of internal management auditing, improvement team, cost effectiveness and managerial accounting practices.
 
 
 # AYCH Technology-as-a-Service (TaaS)
