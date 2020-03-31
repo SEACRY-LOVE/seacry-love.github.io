@@ -1,6 +1,6 @@
 ------------
-layout: chapter
-chapter: 0
+layout: AYCH
+AYCH: 0
 title: "Introduction: AYCH inc Principle"
 ---🎆🎆🎆---
 
