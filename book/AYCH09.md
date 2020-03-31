@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 9
+layout: AYCH
+AYCH: 9
 title: "Set up leadwise practices"
 ---
 
