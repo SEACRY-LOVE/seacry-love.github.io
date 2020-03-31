@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 6
+layout: AYCH
+AYCH: 6
 title: "What to do with your organization"
 ---
 
