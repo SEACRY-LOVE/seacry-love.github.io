@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 13
+layout: AYCH
+AYCH: 13
 title: "Managewell (5s)"
 ---
 
