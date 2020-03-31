@@ -29,7 +29,7 @@ The principle of "leadwise" - "managewell" has helped AYCH inc to rethink about 
 The term ERM is deployed by AYCH inc. We believe in ourselves and trust in our relationships with our clients / customers.
 When an enterprise expects to a software APPLICATION, we always ask them why do you need to do so? (We, and our people are trained not to handle other's responsibility rather than give an advice when some one is willing to listen to.
 
-Whenever you need some one to take care of your business, you may leave an email to (tokeneconomy@eclipso.eu, or leave a message at [AYCH] (https://gitter.im/yachr/Aychat".)
+Whenever you need some one to take care of your business, you may leave an email to (tokeneconomy@eclipso.eu, or leave a message at [AYCH] (https://gitter.im/yachr/Aychat).
 
 A suggestion for ERM or ERP: Whole package or partial package (s):
 - Whole package of enterprise resource management:
@@ -45,7 +45,7 @@ Departmental or functional customization resource management available are:
 The simple answer is technology can help resolve the issue.
 If you would need to join us or make a contribution, you are advised to [join us] (https://github.com/aych-inc/contributing/)
 
-
+uhh
 © 2020 AYCH inc. All right reserved.
 
 <p class="tc mt5 i">End</p>
