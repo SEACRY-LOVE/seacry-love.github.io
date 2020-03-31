@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 12
+layout: AYCH
+AYCH: 12
 title: "Dealing with nonconformities - II"
 ---
 
