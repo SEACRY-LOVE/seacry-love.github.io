@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 5
+layout: AYCH
+AYCH: 5
 title: "The practice"
 ---
 
