@@ -1,6 +1,6 @@
 ---
-layout: chapter
-chapter: 4
+layout: AYCH
+AYCH: 4
 title: "Attitude"
 ---
 
