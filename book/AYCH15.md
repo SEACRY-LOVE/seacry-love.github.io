@@ -4,6 +4,8 @@ AYCH: 15
 title: "Leadwise in work and life"
 ---
 
+
+# Enlightenment
 Every musician plays scales. When you begin to study the piano, that's the first thing you learn, and you never stop playing scales. The finest concert pianists in the world still play scales. It's a basic skill that can't be allowed to get rusty.
 
 Every baseball player practices batting. It's the first thing you learn in Little League, and you never stop practicing. Every World Series game begins with batting practice. Basic skills must always remain sharp.
