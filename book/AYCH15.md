@@ -15,29 +15,14 @@ You may be a computer whiz, a scientific genius, or a master of mathematical the
 - Written Communication Skills (82%)
 - Problem Solving Skills (80.9%)
 - Ability to Work in a Team (78.7%)
-- Interestingly, technical skills (59.6%) and computer skills (55.1%), often considered among the most important skills an applicant can possess in today’s high-tech job market, ranked quite low by comparison. The results make it clear that employers are paying much closer attention to soft skills in the workplace than they did in years past. In response to the demand for employees who also possess emotional intelligence, some postsecondary schools are incorporating soft skills in scientific and technical specialties. For example, Penn State’s Engineering Department offers a career development class for junior and senior engineering students that includes such topics as team-building skills, communication skills, and leadership strategies.
+
+Interestingly, technical skills (59.6%) and computer skills (55.1%), often considered among the most important skills an applicant can possess in today’s high-tech job market, ranked quite low by comparison. The results make it clear that employers are paying much closer attention to soft skills in the workplace than they did in years past. In response to the demand for employees who also possess emotional intelligence, some postsecondary schools are incorporating soft skills in scientific and technical specialties. For example, Penn State’s Engineering Department offers a career development class for junior and senior engineering students that includes such topics as team-building skills, communication skills, and leadership strategies.
 
 
 # What are Soft Skills and Why are They Important?
 Soft skills are broadly classified as a combination of personality traits, behaviors, and social attitudes that allow people to communicate effectively, collaborate, and successfully manage conflict. People with good soft skills tend to have strong situational awareness and emotional intelligence that allows them to navigate difficult working environments while still producing positive results. This is especially important for leadership positions because good leadership is more about managing people and directing their efforts toward a desired outcome rather than bringing any specific technical skills to bear.
 
 Another benefit of soft skills in the workplace is that they help people to adapt to changing circumstances. Being able to communicate effectively during a time of uncertainty or collaborate with others when solutions aren’t immediately obvious is hugely important whether someone is in a leadership position or not. Given their many applications, it’s hardly a surprise that organizations are doing more to assess a candidate’s soft skills during the interview process.
-
-
-## How are softtskills assessed?
-You may be a computer whiz, a scientific genius, or a master of mathematical theories.  However, to be successful, you need more than just expertise in your given specialty. In fact, according to the National Association of Colleges and Employees (NACE), when participating employers were asked to name the attributes they seek in candidates, they gave their highest scores to the following three traits:
-
-- Written Communication Skills (82%)
-- Problem Solving Skills (80.9%)
-- Ability to Work in a Team (78.7%)
-- Interestingly, technical skills (59.6%) and computer skills (55.1%), often considered among the most important skills an applicant can possess in today’s high-tech job market, ranked quite low by comparison. The results make it clear that employers are paying much closer attention to soft skills in the workplace than they did in years past. In response to the demand for employees who also possess emotional intelligence, some postsecondary schools are incorporating soft skills in scientific and technical specialties. For example, Penn State’s Engineering Department offers a career development class for junior and senior engineering students that includes such topics as team-building skills, communication skills, and leadership strategies.
-
-
-## What are Soft Skills and Why are They Important?
-Soft skills are broadly classified as a combination of personality traits, behaviors, and social attitudes that allow people to communicate effectively, collaborate, and successfully manage conflict. People with good soft skills tend to have strong situational awareness and emotional intelligence that allows them to navigate difficult working environments while still producing positive results. This is especially important for leadership positions because good leadership is more about managing people and directing their efforts toward a desired outcome rather than bringing any specific technical skills to bear.
-
-Another benefit of soft skills in the workplace is that they help people to adapt to changing circumstances. Being able to communicate effectively during a time of uncertainty or collaborate with others when solutions aren’t immediately obvious is hugely important whether someone is in a leadership position or not. Given their many applications, it’s hardly a surprise that organizations are doing more to assess a candidate’s soft skills during the interview process.
-
 
 The 7 Soft Skills You Need in Today’s Workforce
 ### 1. Leadership Skills
@@ -62,12 +47,6 @@ In the 21st century, companies need to make rapid (and sometimes drastic) change
 This is a broad category of “people skills” and includes the ability to build and maintain relationships, develop rapport, and use diplomacy. It also includes the ability to give and receive constructive criticism, be tolerant and respectful regarding the opinions of others, and empathize with them. Of all the soft skills examples, this is among the most important because it is central to building teams with a strong foundation of trust and accountability.
 
 
-# Successful Soft Skills Development
-But suppose you don’t have these skills? It’s never too late to develop them. For example, you can learn a lot just by observing other people within a company who excel in these seven areas. Also, offering to take on more responsibilities at work (serving on committees, planning events, etc.) can help you gain valuable experience. In addition, consider taking online soft-skills courses. Developing emotional intelligence will make you a more valuable employee, and increase your chances of career success.
-
-Employee assessments can also reveal areas where improvements could be made, which makes it easier to put together a development plan to address those needs. People often focus specifically on technical skills or competencies when planning their development, but neglecting soft skills can make it difficult to succeed in future positions that require a high degree of emotional intelligence and social interaction (in other words, just about any leadership position).
-
-
 # How are softskills identified?
 
 Here are Interview Questions to identify soft skills
@@ -83,23 +62,28 @@ The workplace has evolved an interpersonal dynamic that can't be ignored. The ac
 
 It's important for you to recognize the vital role soft skills play within your team and not only work on developing them within yourself, but encourage their development throughout the organization. Areas to examine and evaluate include:
 
-Personal accountability.
-The degree of collaboration.
-Interpersonal negotiation   skills.
-Conflict resolution  .
-People's adaptability and flexibility.
-The clarity of communications  .
-Creative thinking.
-Inclusion.
-Coaching   and mentoring  .
+- Personal accountability.
+- The degree of collaboration.
+- Interpersonal negotiation   skills.
+- Conflict resolution  .
+- People's adaptability and flexibility.
+- The clarity of communications  .
+- Creative thinking.
+- Inclusion.
+- Coaching   and mentoring  .
+
 The more of these things you see around you, the better people's soft skills are likely to be within your organization. These all have a significant impact on the attitude a person brings to interactions with clients, customers, colleagues, supervisors, and other stakeholders. The more positive someone's attitude is, the better that person's relationships will be. That's what fosters great team performance, and leads people to contribute strongly to the organization's vision and strategy.
 
 
+# How to Plan a Successful Soft Skills Development?
+But suppose you don’t have these skills? It’s never too late to develop them. For example, you can learn a lot just by observing other people within a company who excel in these seven areas. Also, offering to take on more responsibilities at work (serving on committees, planning events, etc.) can help you gain valuable experience. In addition, consider taking online soft-skills courses. Developing emotional intelligence will make you a more valuable employee, and increase your chances of career success.
+
+Employee assessments can also reveal areas where improvements could be made, which makes it easier to put together a development plan to address those needs. People often focus specifically on technical skills or competencies when planning their development, but neglecting soft skills can make it difficult to succeed in future positions that require a high degree of emotional intelligence and social interaction (in other words, just about any leadership position).
 
 
 
 
-
+😀😁😂
 
 ## 2. Postures
 
