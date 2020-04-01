@@ -8,12 +8,15 @@ Every musician plays scales. When you begin to study the piano, that's the first
 
 Every baseball player practices batting. It's the first thing you learn in Little League, and you never stop practicing. Every World Series game begins with batting practice. Basic skills must always remain sharp.
 
+
+# An Outlook of Skills for a Career Path
 You may be a computer whiz, a scientific genius, or a master of mathematical theories.  However, to be successful, you need more than just expertise in your given specialty. In fact, according to the National Association of Colleges and Employees (NACE), when participating employers were asked to name the attributes they seek in candidates, they gave their highest scores to the following three traits:
 
 - Written Communication Skills (82%)
 - Problem Solving Skills (80.9%)
 - Ability to Work in a Team (78.7%)
 - Interestingly, technical skills (59.6%) and computer skills (55.1%), often considered among the most important skills an applicant can possess in today’s high-tech job market, ranked quite low by comparison. The results make it clear that employers are paying much closer attention to soft skills in the workplace than they did in years past. In response to the demand for employees who also possess emotional intelligence, some postsecondary schools are incorporating soft skills in scientific and technical specialties. For example, Penn State’s Engineering Department offers a career development class for junior and senior engineering students that includes such topics as team-building skills, communication skills, and leadership strategies.
+
 
 # What are Soft Skills and Why are They Important?
 Soft skills are broadly classified as a combination of personality traits, behaviors, and social attitudes that allow people to communicate effectively, collaborate, and successfully manage conflict. People with good soft skills tend to have strong situational awareness and emotional intelligence that allows them to navigate difficult working environments while still producing positive results. This is especially important for leadership positions because good leadership is more about managing people and directing their efforts toward a desired outcome rather than bringing any specific technical skills to bear.
