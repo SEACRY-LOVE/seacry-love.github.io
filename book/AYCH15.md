@@ -81,11 +81,10 @@ But suppose you don’t have these skills? It’s never too late to develop them
 Employee assessments can also reveal areas where improvements could be made, which makes it easier to put together a development plan to address those needs. People often focus specifically on technical skills or competencies when planning their development, but neglecting soft skills can make it difficult to succeed in future positions that require a high degree of emotional intelligence and social interaction (in other words, just about any leadership position).
 
 
+# How to Practice Softskills?
+There are various ways of practicing and achieving softskills.
 
-
-😀😁😂
-
-## 2. Postures
+## Postures
 
 The goal of our practice is to become fully aware of all facets of our experience in an unbroken, moment-to-moment flow. Much of what we do and experience is completely unconscious in the sense that we do it with little or no attention. Our minds are on something else entirely. We spend most of our time running on automatic pilot, lost in the fog of day-dreams and preoccupations.
 
@@ -93,7 +92,7 @@ One of the most frequently ignored aspects of our existence is our body. The tec
 
 Your body goes through all kinds of contortions in the course of a single day. You sit and you stand. You walk and lie down. You bend, run, crawl, and sprawl. Meditation teachers urge you to become aware of this constantly ongoing dance. As you go through your day, spend a few seconds every few minutes to check your posture. Don't do it in a judgmental way. This is not an exercise to correct your posture, or to improve you appearance. Sweep your attention down through the body and feel how you are holding it. Make a silent mental note of 'Walking' or 'Sitting' or 'Lying down' or 'Standing'. It all sounds absurdly simple, but don't slight this procedure. This is a powerful exercise. If you do it thoroughly, if you really instil this mental habit deeply, it can revolutionize your experience. It taps you into a whole new dimension of sensation, and you feel like a blind man whose sight has been restored.
 
-## 3. Slow-Motion Activity
+## Slow-Motion Activity
 
 Every action you perform is made up of separate components. The simple action of tying your shoelaces is made up of a complex series of subtle motions. Most of these details go unobserved. In order to promote the overall habit of mindfulness, you can perform simple activities at very low speed--making an effort to pay full attention to every nuance of the act.
 
@@ -103,28 +102,17 @@ This same tactic can be applied to many of your daily activities. Intentionally 
 
 We will find a great deal of this information surprising, much of it disturbing, but all of it useful. Bare attention brings order into the clutter that collects in those untidy little hidden corners of the mind. As you achieve clear comprehension in the midst of life's ordinary activities, you gain the ability to remain rational and peaceful while you throw the penetrating light of mindfulness into those irrational mental nooks and crannies. You start to see the extent to which you are responsible for your own mental suffering. You see your own miseries, fears, and tensions as self-generated. You see the way you cause your own suffering, weakness, and limitations. And the more deeply you understand these mental processes, the less hold they have on you.
 
-## 4. Breath Coordination
+## Breath Coordination
 
 In seated meditation, our primary focus is the breath. Total concentration on the ever-changing breath brings us squarely into the present moment. The same principle can be used in the midst of movement. You can coordinate the activity in which you are involved with your breathing. This lends a flowing rhythm to your movement, and it smooths out many of the abrupt transitions. Activity becomes easier to focus on, and mindfulness is increased. Your awareness thus stays more easily in the present. Ideally, meditation should be a 24 hour-a-day practice. This is a highly practical suggestion.
 
 A state of mindfulness is a state of mental readiness. The mind is not burdened with preoccupations or bound in worries. Whatever comes up can be dealt with instantly. When you are truly mindful, your nervous system has a freshness and resiliency which fosters insight. A problem arises and you simply deal with it, quickly, efficiently, and with a minimum of fuss. You don't stand there in a dither, and you don't run off to a quiet corner so you can sit down and meditate about it. You simply deal with it. And in those rare circumstances when no solution seems possible, you don't worry about that. You just go on to the next thing that needs your attention. Your intuition becomes a very practical faculty.
 
-## 5. Stolen Moments
+## Stolen Moments
 
 The concept of wasted time does not exist for a serious meditator. Little dead spaces during your day can be turned to profit. Every spare moment can be used for meditation. Sitting anxiously in the dentist's office, meditate on your anxiety. Feeling irritated while standing in a line at the bank, meditate on irritation. Bored, twiddling you thumbs at the bus stop, meditate on boredom. Try to stay alert and aware throughout the day. Be mindful of exactly what is taking place right now, even if it is tedious drudgery. Take advantage of moments when you are alone. Take advantage of activities that are largely mechanical. Use every spare second to be mindful. Use all the moments you can.
 
-## 6. Concentration On All Activities
-
-
-
-😀😁😂
-
-
-
-
-
-
-
+## Concentration On All Activities or other term is mindfulness.
 
 You should try to maintain mindfulness of every activity and perception through the day, starting with the first perception when you awake, and ending with the last thought before you fall asleep. This is an incredibly tall goal to shoot for. Don't expect to be able to achieve this work soon. Just take it slowly and let you abilities grow over time. The most feasible way to go about the task is to divide your day up into chunks. Dedicate a certain interval to mindfulness of posture, then extend this mindfulness to other simple activities: eating, washing, dressing, and so forth. Some time during the day, you can set aside 15 minutes or so to practice the observation of specific types of mental states: pleasant, unpleasant, and neutral feelings, for instance; or the hindrances, or thoughts. The specific routine is up to you. The idea is to get practice at spotting the various items, and to preserve your state of mindfulness as fully as you can throughout the day.
 
@@ -139,6 +127,7 @@ If you are moving through your daily activities and you find yourself in a state
 Meditating your way through the ups and downs of daily life is the whole point of Vipassana. This kind of practice is extremely rigorous and demanding, but it engenders a state of mental flexibility that is beyond comparison. A meditator keeps his mind open every second. He is constantly investigating life, inspecting his own experience, viewing existence in a detached and inquisitive way. Thus he is constantly open to truth in any form, from any source, and at any time. This is the state of mind you need for Liberation.
 
 It is said that one may attain enlightenment at any moment if the mind is kept in a state of meditative readiness. The tiniest, most ordinary perception can be the stimulus: a view of the moon, the cry of a bird, the sound of the wind in the trees. it's not so important what is perceived as the way in which you attend to that perception. The state of open readiness is essential. It could happen to you right now if you are ready. The tactile sensation of this book in your fingers could be the cue. The sound of these words in your head might be enough. You could attain enlightenment right now, if you are ready.
+
 
 
 [ Resources: mindtools.com, skillsyouned.com, omniagroup.com, ]
