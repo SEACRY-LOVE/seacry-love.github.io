@@ -8,39 +8,95 @@ Every musician plays scales. When you begin to study the piano, that's the first
 
 Every baseball player practices batting. It's the first thing you learn in Little League, and you never stop practicing. Every World Series game begins with batting practice. Basic skills must always remain sharp.
 
-Seated meditation is the arena in which the meditator practices his own fundamental skills. The game the meditator is playing is the experience of his own life, and the instrument upon which he plays is his own sensory apparatus. Even the most seasoned meditator continues to practice seated meditation, because it tunes and sharpens the basic mental skills he needs for his particular game. We must never forget, however, that seated meditation itself is not the game. It's the practice. The game in which those basic skills are to be applied is the rest of one's experiential existence. Meditation that is not applied to daily living is sterile and limited.
+You may be a computer whiz, a scientific genius, or a master of mathematical theories.  However, to be successful, you need more than just expertise in your given specialty. In fact, according to the National Association of Colleges and Employees (NACE), when participating employers were asked to name the attributes they seek in candidates, they gave their highest scores to the following three traits:
 
-The purpose of Vipassana meditation is nothing less than the radical and permanent transformation of your entire sensory and cognitive experience. It is meant to revolutionize the whole of your life experience. Those periods of seated practice are times set aside for instilling new mental habits. You learn new ways to receive and understand sensation. You develop new methods of dealing with conscious thought, and new modes of attending to the incessant rush of your own emotions. These new mental behaviors must be made to carry over into the rest of your life.
+- Written Communication Skills (82%)
+- Problem Solving Skills (80.9%)
+- Ability to Work in a Team (78.7%)
+- Interestingly, technical skills (59.6%) and computer skills (55.1%), often considered among the most important skills an applicant can possess in today’s high-tech job market, ranked quite low by comparison. The results make it clear that employers are paying much closer attention to soft skills in the workplace than they did in years past. In response to the demand for employees who also possess emotional intelligence, some postsecondary schools are incorporating soft skills in scientific and technical specialties. For example, Penn State’s Engineering Department offers a career development class for junior and senior engineering students that includes such topics as team-building skills, communication skills, and leadership strategies.
 
-Otherwise, meditation remains dry and fruitless, a theoretical segment of your existence that is unconnected to all the rest. Some effort to connect these two segments is essential. A certain amount of carry-over will take place spontaneously, but the process will be slow and unreliable. You are very likely to be left with the feeling that you are getting nowhere and to drop the process as unrewarding.
+# What are Soft Skills and Why are They Important?
+Soft skills are broadly classified as a combination of personality traits, behaviors, and social attitudes that allow people to communicate effectively, collaborate, and successfully manage conflict. People with good soft skills tend to have strong situational awareness and emotional intelligence that allows them to navigate difficult working environments while still producing positive results. This is especially important for leadership positions because good leadership is more about managing people and directing their efforts toward a desired outcome rather than bringing any specific technical skills to bear.
 
-One of the most memorable events in your meditation career is the moment when you first realize that you are meditation in the midst of some perfectly ordinary activity. You are driving down the freeway or carrying out the trash and it just turns on by itself. This unplanned outpouring of the skills you have been so carefully fostering is a genuine joy. It gives you a tiny window on the future. You catch a spontaneous glimpse of what the practice really means. The possibility strikes you that this transformation of consciousness could actually become a permanent feature of your experience. You realize that you could actually spend the rest of your days standing aside from the debilitating clamoring of your own obsessions, no longer frantically hounded by your own needs and greed. You get a tiny taste of what it is like to just stand aside and watch it all flow past. It's a magic moment.
+Another benefit of soft skills in the workplace is that they help people to adapt to changing circumstances. Being able to communicate effectively during a time of uncertainty or collaborate with others when solutions aren’t immediately obvious is hugely important whether someone is in a leadership position or not. Given their many applications, it’s hardly a surprise that organizations are doing more to assess a candidate’s soft skills during the interview process.
 
-That vision is liable to remain unfulfilled, however, unless you actively seek to promote the carry-over process. The most important moment in meditation is the instant you leave the cushion. When your practice session is over, you can jump up and drop the whole thing, or you can bring those skills with you into the rest of your activities.
 
-It is crucial for you to understand what meditation is. It is not some special posture, and it's not just a set of mental exercises. Meditation is a cultivation of mindfulness and the application of that mindfulness once cultivated. You do not have to sit to meditate. You can meditate while washing the dishes. You can meditate in the shower, or roller skating, or typing letters. Meditation is awareness, and it must be applied to each and every activity of one's life. This isn't easy.
+## How are softtskills assessed?
+You may be a computer whiz, a scientific genius, or a master of mathematical theories.  However, to be successful, you need more than just expertise in your given specialty. In fact, according to the National Association of Colleges and Employees (NACE), when participating employers were asked to name the attributes they seek in candidates, they gave their highest scores to the following three traits:
 
-We specifically cultivate awareness through the seated posture in a quiet place because that's the easiest situation in which to do so. Meditation in motion is harder. Meditation in the midst of fast-paced noisy activity is harder still. And meditation in the midst of intensely egoistic activities like romance or arguments is the ultimate challenge. The beginner will have his hands full with less stressful activities.
+- Written Communication Skills (82%)
+- Problem Solving Skills (80.9%)
+- Ability to Work in a Team (78.7%)
+- Interestingly, technical skills (59.6%) and computer skills (55.1%), often considered among the most important skills an applicant can possess in today’s high-tech job market, ranked quite low by comparison. The results make it clear that employers are paying much closer attention to soft skills in the workplace than they did in years past. In response to the demand for employees who also possess emotional intelligence, some postsecondary schools are incorporating soft skills in scientific and technical specialties. For example, Penn State’s Engineering Department offers a career development class for junior and senior engineering students that includes such topics as team-building skills, communication skills, and leadership strategies.
 
-Yet the ultimate goal of practice remains: to build one's concentration and awareness to a level of strength that will remain unwavering even in the midst of the pressures of life in contemporary society. Life offers many challenges and the serious meditator is very seldom bored.
 
-Carrying your meditation into the events of your daily life is not a simple process. Try it and you will see. That transition point between the end of your meditation session and the beginning of 'real life' is a long jump. It's too long for most of us. We find our calm and concentration evaporating within minutes, leaving us apparently no better off than before. In order to bridge this gulf, Buddhists over the centuries have devised an array of exercises aimed at smoothing the transition. They take that jump and break it down into little steps. Each step can be practiced by itself.
+## What are Soft Skills and Why are They Important?
+Soft skills are broadly classified as a combination of personality traits, behaviors, and social attitudes that allow people to communicate effectively, collaborate, and successfully manage conflict. People with good soft skills tend to have strong situational awareness and emotional intelligence that allows them to navigate difficult working environments while still producing positive results. This is especially important for leadership positions because good leadership is more about managing people and directing their efforts toward a desired outcome rather than bringing any specific technical skills to bear.
 
-## 1. Walking Meditation
+Another benefit of soft skills in the workplace is that they help people to adapt to changing circumstances. Being able to communicate effectively during a time of uncertainty or collaborate with others when solutions aren’t immediately obvious is hugely important whether someone is in a leadership position or not. Given their many applications, it’s hardly a surprise that organizations are doing more to assess a candidate’s soft skills during the interview process.
 
-Our everyday existence is full of motion and activity. Sitting utterly motionless for hours on end is nearly the opposite of normal experience. Those states of clarity and tranquility we foster in the midst of absolute stillness tend to dissolve as soon as we move. We need some transitional exercise that will teach us the skill of remaining calm and aware in the midst of motion. Walking meditation helps us make that transition from static repose to everyday life. It's meditation in motion, and it is often used as an alternative to sitting. Walking is especially good for those times when you are extremely restless. An hour of walking meditation will often get you through that restless energy and still yield considerable quantities of clarity. You can then go on to the seated meditation with greater profit.
 
-Standard Buddhist practice advocates frequent retreats to complement your daily sitting practice. A retreat is a relatively long period of time devoted exclusively to meditation. One or two day retreats are common for lay people. Seasoned meditators in a monastic situation may spend months at a time doing nothing else. Such practice is rigorous, and it makes sizable demands on both mind and body. Unless you have been at it for several years, there is a limit to how long you can sit and profit. Ten solid hours of the seated posture will produce in most beginners a state of agony that far exceeds their concentration powers. A profitable retreat must therefore be conducted with some change of posture and some movement. The usual pattern is to intersperse blocks of sitting with blocks of walking meditation. An hour of each with short breaks between is common.
+The 7 Soft Skills You Need in Today’s Workforce
+### 1. Leadership Skills
+Companies want employees who can supervise and direct other workers. They want employees who can cultivate relationships up, down, and across the organizational chain. Leaders must not only assess, motivate, encourage, and discipline workers but also build teams, resolve conflicts, and cultivate the organization’s desired culture. Understanding how to influence people and accommodate their needs is an essential element of leadership, which all too many companies overlook when they simply place someone with the most technical expertise in a position of authority. Soft skills development is often a key component of leadership training.
 
-To do the walking meditation, you need a private place with enough space for at least five to ten paces in a straight line. You are going to be walking back and forth very slowly, and to the eyes of most Westerners, you'll look curious and disconnected from everyday life. This is not the sort of exercise you want to perform on the front lawn where you'll attract unnecessary attention. Choose a private place.
+### 2. Teamwork
+Most employees are part of a team/department/division, and even those who are not on an official team need to collaborate with other employees. You may prefer to work alone, but it’s important to demonstrate that you understand and appreciate the value of joining forces and working in partnership with others to accomplish the company’s goals. This shows that you possess the soft skills necessary to engage in productive collaboration.
 
-The physical directions are simple. Select an unobstructed area and start at one end. Stand for a minute in an attentive position. Your arms can be held in any way that is comfortable, in front, in back, or at your sides. Then while breathing in, lift the heel of one foot. While breathing out, rest that foot on its toes. Again while breathing in, lift that foot, carry it forward and while breathing out, bring the foot down and touch the floor. Repeat this for the other foot. Walk very slowly to the opposite end, stand for one minute, then turn around very slowly, and stand there for another minute before you walk back. Then repeat the process. Keep you head up and you neck relaxed. Keep your eyes open to maintain balance, but don't look at anything in particular. Walk naturally. Maintain the slowest pace that is comfortable, and pay no attention to your surroundings. Watch out for tensions building up in the body, and release them as soon as you spot them. Don't make any particular attempt to be graceful. Don't try to look pretty. This is not an athletic exercise, or a dance. It is an exercise in awareness. Your objective is to attain total alertness, heightened sensitivity and a full, unblocked experience of the motion of walking. Put all of your attention on the sensations coming from the feet and legs. Try to register as much information as possible about each foot as it moves. Dive into the pure sensation of walking, and notice every subtle nuance of the movement. Feel each individual muscle as it moves. Experience every tiny change in tactile sensation as the feet press against the floor and then lift again.
+### 3. Communication Skills
+Successful communication involves five components. Verbal communication refers to your ability to speak clearly and concisely. Nonverbal communication includes the capacity to project positive body language and facial expressions.  Written communication refers to your skillfulness in composing text messages, reports, and other types of documents. Visual communication involves your ability to relay information using pictures and other visual aids. Active listening should also be considered a key communication soft skill because it helps you listen to and actually hear what others are saying. You need to be able to listen in order to understand how to best communicate with someone. Without strong listening skills, any communication efforts will be one-way and probably ineffective.
 
-Notice the way these apparently smooth motions are composed of complex series of tiny jerks. Try to miss nothing. In order to heighten your sensitivity, you can break the movement down into distinct components. Each foot goes through a lift, a swing; and then a down tread. Each of these components has a beginning, middle, and end. In order to tune yourself in to this series of motions, you can start by making explicit mental notes of each stage.
+### 4. Problem Solving Skills 
+Many applicants try to minimize problems because they don’t understand that companies hire employees to solve problems. Glitches, bumps in the road, and stumbling blocks are all part of the job and represent learning opportunities. The ability to use your knowledge to find answers to pressing problems and formulate workable solutions will demonstrate that you can handle – and excel in – your job. Discussing mistakes and what you learned from them is an important part of building a soft skills resume.
 
-Make a mental note of "lifting, swinging, coming down, touching floor, pressing" and so on. This is a training procedure to familiarize you with the sequence of motions and to make sure that you don't miss any. As you become more aware of the myriad subtle events going on, you won't have time for words. You will find yourself immersed in a fluid, unbroken awareness of motion. The feet will become your whole universe. If your mind wanders, note the distraction in the usual way, then return your attention to walking. Don't look at your feet while you are doing all of this, and don't walk back and forth watching a mental picture of your feet and legs. Don't think, just feel. You don't need the concept of feet and you don't need pictures. Just register the sensations as they flow. In the beginning, you will probably have some difficulties with balance. You are using the leg muscles in a new way, and a learning period is natural. If frustration arises, just note that and let it go.
+### 5. Work Ethic 
+While you may have a manager, companies don’t like to spend time micromanaging employees. They expect you to be responsible and do the job that you’re getting paid to do, which includes being punctual when you arrive at work, meeting deadlines, and making sure that your work is error-free. And going the extra mile shows that you’re committed to performing your work with excellence. 
 
-The Vipassana walking technique is designed to flood your consciousness with simple sensations, and to do it so thoroughly that all else is pushed aside. There is no room for thought and no room for emotion. There is no time for grasping, and none for freezing the activity into a series of concepts. There is no need for a sense of self. There is only the sweep of tactile and kinesthetic sensation, an endless and ever-changing flood of raw experience. We are learning here to escape into reality, rather than from it. Whatever insights we gain are directly applicable to the rest of our notion-filled lives.
+### 6. Flexibility/Adaptability
+In the 21st century, companies need to make rapid (and sometimes drastic) changes to remain competitive. So they want workers who can also shift gears or change direction as needed. As organizations have become less hierarchical and agile over the last decade, it’s more important than ever for employees to be able to handle many different tasks and demonstrate a willingness to take on responsibilities that might lay outside their area of expertise. 
+
+### 7. Interpersonal Skills
+This is a broad category of “people skills” and includes the ability to build and maintain relationships, develop rapport, and use diplomacy. It also includes the ability to give and receive constructive criticism, be tolerant and respectful regarding the opinions of others, and empathize with them. Of all the soft skills examples, this is among the most important because it is central to building teams with a strong foundation of trust and accountability.
+
+
+# Successful Soft Skills Development
+But suppose you don’t have these skills? It’s never too late to develop them. For example, you can learn a lot just by observing other people within a company who excel in these seven areas. Also, offering to take on more responsibilities at work (serving on committees, planning events, etc.) can help you gain valuable experience. In addition, consider taking online soft-skills courses. Developing emotional intelligence will make you a more valuable employee, and increase your chances of career success.
+
+Employee assessments can also reveal areas where improvements could be made, which makes it easier to put together a development plan to address those needs. People often focus specifically on technical skills or competencies when planning their development, but neglecting soft skills can make it difficult to succeed in future positions that require a high degree of emotional intelligence and social interaction (in other words, just about any leadership position).
+
+
+# How are softskills identified?
+
+Here are Interview Questions to identify soft skills
+
+When your workforce has lots of technical skills but an absence of soft skills, you have a soft skills gap. Soft skills are what accompany the hard skills, and help your organization use its technical expertise to full advantage.
+
+If you're really good at getting clients, and not so good at retaining them, chances are you have a soft skills gap.
+If you have lots of staff turnover and have to keep retraining people, chances are you have a soft skills gap.
+When you have lots of managers but no real leaders – that's a soft skills gap.
+In fact, whenever you are unable to capitalize on the wealth of knowledge, experience and proficiency within your team, then you should be assessing the level of communication and interpersonal skills that are present in your organization.
+
+The workplace has evolved an interpersonal dynamic that can't be ignored. The acts of listening, presenting ideas, resolving conflict, and fostering an open and honest work environment all come down to knowing how to build and maintain relationships with people. It's those relationships that allow people to participate fully in team projects, show appreciation for others, and enlist support for their projects.
+
+It's important for you to recognize the vital role soft skills play within your team and not only work on developing them within yourself, but encourage their development throughout the organization. Areas to examine and evaluate include:
+
+Personal accountability.
+The degree of collaboration.
+Interpersonal negotiation   skills.
+Conflict resolution  .
+People's adaptability and flexibility.
+The clarity of communications  .
+Creative thinking.
+Inclusion.
+Coaching   and mentoring  .
+The more of these things you see around you, the better people's soft skills are likely to be within your organization. These all have a significant impact on the attitude a person brings to interactions with clients, customers, colleagues, supervisors, and other stakeholders. The more positive someone's attitude is, the better that person's relationships will be. That's what fosters great team performance, and leads people to contribute strongly to the organization's vision and strategy.
+
+
+
+
+
+
+
 
 ## 2. Postures
 
@@ -72,6 +128,17 @@ The concept of wasted time does not exist for a serious meditator. Little dead s
 
 ## 6. Concentration On All Activities
 
+
+
+😀😁😂
+
+
+
+
+
+
+
+
 You should try to maintain mindfulness of every activity and perception through the day, starting with the first perception when you awake, and ending with the last thought before you fall asleep. This is an incredibly tall goal to shoot for. Don't expect to be able to achieve this work soon. Just take it slowly and let you abilities grow over time. The most feasible way to go about the task is to divide your day up into chunks. Dedicate a certain interval to mindfulness of posture, then extend this mindfulness to other simple activities: eating, washing, dressing, and so forth. Some time during the day, you can set aside 15 minutes or so to practice the observation of specific types of mental states: pleasant, unpleasant, and neutral feelings, for instance; or the hindrances, or thoughts. The specific routine is up to you. The idea is to get practice at spotting the various items, and to preserve your state of mindfulness as fully as you can throughout the day.
 
 Try to achieve a daily routine in which there is as little difference as possible between seated meditation and the rest of your experience. Let the one slide naturally into the other. Your body is almost never still. There is always motion to observe. At the very least, there is breathing. Your mind never stops chattering, except in the very deepest states of concentration. There is always something coming up to observe. If you seriously apply your meditation, you will never be at a loss for something worthy of your attention.
@@ -85,3 +152,6 @@ If you are moving through your daily activities and you find yourself in a state
 Meditating your way through the ups and downs of daily life is the whole point of Vipassana. This kind of practice is extremely rigorous and demanding, but it engenders a state of mental flexibility that is beyond comparison. A meditator keeps his mind open every second. He is constantly investigating life, inspecting his own experience, viewing existence in a detached and inquisitive way. Thus he is constantly open to truth in any form, from any source, and at any time. This is the state of mind you need for Liberation.
 
 It is said that one may attain enlightenment at any moment if the mind is kept in a state of meditative readiness. The tiniest, most ordinary perception can be the stimulus: a view of the moon, the cry of a bird, the sound of the wind in the trees. it's not so important what is perceived as the way in which you attend to that perception. The state of open readiness is essential. It could happen to you right now if you are ready. The tactile sensation of this book in your fingers could be the cue. The sound of these words in your head might be enough. You could attain enlightenment right now, if you are ready.
+
+
+[ Resources: mindtools.com, skillsyouned.com, omniagroup.com, ]
