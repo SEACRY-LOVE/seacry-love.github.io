@@ -131,5 +131,14 @@ Meditating your way through the ups and downs of daily life is the whole point o
 It is said that one may attain enlightenment at any moment if the mind is kept in a state of meditative readiness. The tiniest, most ordinary perception can be the stimulus: a view of the moon, the cry of a bird, the sound of the wind in the trees. it's not so important what is perceived as the way in which you attend to that perception. The state of open readiness is essential. It could happen to you right now if you are ready. The tactile sensation of this book in your fingers could be the cue. The sound of these words in your head might be enough. You could attain enlightenment right now, if you are ready.
 
 
+# Key points:
+
+Soft skills are increasingly becoming the hard skills of today's workforce. It's just not enough to be highly trained in technical skills, without developing the softer, interpersonal and relationship-building skills that help people to communicate and collaborate effectively.
+
+These people skills are more critical than ever as organizations struggle to find meaningful ways to remain competitive and be productive. Teamwork, leadership, and communication are underpinned by soft skills development. Since each is an essential element for organizational and personal success, developing these skills is very important and does matter.
+
+Traditionally, people don't receive adequate soft skills training – either during vocational instruction or as part of on-the-job training. That's why services like AYCHConsultant are great for helping people build great people-skills.
+
+
 
 [ Resources: aychpi, mindtools.com, skillsyouned.com, omniagroup.com, ]
