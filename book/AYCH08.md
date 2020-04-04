@@ -4,7 +4,6 @@ AYCH: 8
 title: "Structuring your organization"
 ---
 
-Everything up to this point has been theory. Now let's dive into the actual practice. Just how do we go about this thing called meditation.
 
 First of all, you need to establish a formal practice schedule, a specific period when you will do AYCH leadwise and nothing else. When you were a baby, you did not know how to walk. Somebody went to a lot of trouble to teach you that skill. They dragged you by the arms. They gave you lots of encouragement. Made you put one foot in front of the other until you could do it by yourself. Those periods of instruction constituted a formal practice in the art of walking.
 
@@ -12,46 +11,108 @@ In leadwise, we follow the same basic procedure. We set aside a certain time, sp
 
 That does not mean that we have to do anything to force this settling. It is a natural process that happens by itself. The very act of sitting still being mindful causes this settling. In fact, any effort on our part to force this settling is counterproductive. That is repression, and it does not work. Try to force things out of the mind and you merely add energy to them You may succeed temporarily, but in the long run you will only have made them stronger. They will hide in the unconscious until you are not watching, then they will leap out and leave you helpless to fight them off.
 
-The best way to clarify the mental fluid is to just let it settle all by itself. Don't add any energy to the situation. Just mindfully watch the mud swirl, without any involvement in the process. Then, when it settles at last, it will stay settled. We exert energy in meditation, but not force. Our only effort is gently, patient mindfulness.
 
-The meditation period is like a cross-section of your whole day. Everything that happens to you is stored away in the mind in some form, mental or emotional. During normal activity, you get so caught up in the press of events that the basic issues with which you are dealing are seldom thoroughly handled. They become buried in the unconscious, where they seethe and foam and fester. Then you wonder where all that tension came from. All of this material comes forth in one form or another during your meditation. You get a chance to look at it, see it for what it is, and let it go. We set up a formal meditation period in order to create a conducive environment for this release. We re- establish our mindfulness at regular intervals. We withdraw from those events which constantly stimulate the mind. We back out of all the activity that prods the emotions. We go off to a quiet place and we sit still, and it all comes bubbling out. Then it goes away. The net effect is like recharging a battery. Meditation recharges your mindfulness.
+Management system guidance
+9.0 Performance Evaluation
+ISO Navigator Pro™ is a free tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
 
-## Where To Sit
+Our range of templates cover the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, and offer an easy way to implement your next management system.
+9.3	Management review
+9.3.1	Management review - general
+The guidance shown on this page is relevant to ISO 9001, ISO 14001 and ISO 45001. Top management must periodically review the management system to ensure its continuing suitability, adequacy, and effectiveness. The frequency or intervals of the Top management’s formal review must be defined. The management review must address the possible need for changes to policy, objectives, targets, and other elements of the management system.
 
-Find yourself a quiet place, a secluded place, a place where you will be alone. It doesn't have to be some ideal spot in the middle of a forest. That's nearly impossible for most of us, but it should be a pace where you feel comfortable, and where you won't be disturbed. It should also be a place where you won't feel on display. You want all of your attention free for meditation, not wasted on worries about how you look to others. Try to pick a spot that is as quiet as possible. It doesn't have to be a soundproof room, but there are certain noises that are highly distracting, and they should be avoided. Music and talking are about the worst. The mind tends to be sucked in by these sounds in an uncontrollable manner, and there goes your concentration.
+Here's what management systems stanards are really all about: defining a policy and creating a plan with relevant objectives. You then implement the system according to the plan and begin auditing, monitoring and measuring performance against the plan and reacting to your findings. As such; management review meetings provide useful insight into the operation of the management system and its processes to enable Top management to respond to issues and to recommend improvements.
 
-There are certain traditional aids that you can employ to set the proper mood. A darkened room with a candle is nice. Incense is nice. A little bell to start and end your sessions is nice. These are paraphernalia, though. They provide encouragement to some people, but they are by no means essential to the practice.
+Who should attend management review meetings?
+As per Clause 5.1 of the standards, it is important that a member of Top management chairs the management review meetings. It is imperative that everyone involved with the management review process fully understand and appreciate the management review requirements from Clause 9.3.
 
-You will probably find it helpful to sit in the same place each time. A special spot reserved for meditation and nothing else is an aid for most people. You soon come to associate that spot with the tranquility of deep concentration, and that association helps you to reach deep states more quickly. The main thing is to sit in a place that you feel is conductive to your own practice. That requires a bit of experimentation. Try several spots until you find one where you feel comfortable. You only need to find a place where you don't feel self-conscious, and where you can meditate without undue distraction.
+Other attendees at management review meetings should include functional management, line management, process owners, process champions, lead process users, and action owners within the scope of the quality management system, as appropriate, and the internal auditor(s) should also attend.
 
-Many people find it helpful and supportive to sit with a group of other meditators. The discipline of regular practice is essential, and most people find it easier to sit regularly if they are bolstered by a commitment to a group sitting schedule. You've given your word, and you know you are expected. Thus the 'I'm too busy' syndrome is cleverly skirted. You may be able to locate a group of practicing meditators in your area. It doesn't matter if they practice a different form of meditation, so long as it's one of the silent forms. On the other hand, you also should try to be self-sufficient in your practice. Don't rely on the presence of a group as your sole motivation to sit. Properly done, sitting is a pleasure. Use the group as an aid, not as a crutch.
+The management review process must ensure that the necessary information is collected ahead of time to allow management to effectively carry out an evaluation prior to the meeting. Note taking and action recording is often undertaken by the Management Representative who will forward minutes of the management review meeting to those on the distribution list and to those with actions.
 
-## When To Sit
+How often should we have management review meetings?
+There are no specified time periods applicable to conducting management review meetings. However, they should be organized with a frequency and format commensurate to the level of risks and the complexity of your organization.
 
-The most important rule here is this: When it comes to sitting, the description of Buddhism as the Middle Way applies. Don't overdo it. Don't underdo it. This doesn't mean you just sit whenever the whim strikes you. It means you set up a practice schedule and keep to it with a gently, patient tenacity. Setting up a schedule acts as an encouragement. If, however, you find that your schedule has ceased to be an encouragement and become a burden, then something is wrong. Meditation is not a duty, nor an obligation.
+Critical management review agenda items, such as; process performance, customer feedback and monitoring and measuring results should be reviewed monthly, while less critical agenda items, such as reviewing the quality policy and objectives should be undertaken less frequently, perhaps every quarter.
 
-Leadwise is psychological activity. You will be dealing with the raw stuff of feelings and emotions. Consequently, it is an activity which is very sensitive to the attitude with which you approach each session. What you expect is what you are most likely to get. Your practice will therefore go best when you are looking forward to sitting. If you sit down expecting grinding drudgery, that is probably what will occur. So set up a daily pattern that you can live with. Make it reasonable. Make it fit with the rest of your life. And if it starts to feel like you're on an uphill treadmill toward liberation, then change something.
+This approach minimizes the length of each management review meeting, covers all of the required management review inputs over the duration of the management review programme, and allows for the analysis of trends in data while the information is contemporary. Our management system templates include this type of management review programme, you can download a copy for free.
 
-First thing in the morning is a great time to meditate. Your mind is fresh then, before you've gotten yourself buried in responsibilities. Morning meditation is a fine way to start the day. It tunes you up and gets you ready to deal with things efficiently. You cruise through the rest of the day just a bit more lightly. Be sure you are thoroughly awake, though. You won't make much progress if you are sitting there nodding off, so get enough sleep. Wash your face, or shower before you begin. You may want to do a bit of exercise beforehand to get the circulation flowing. Do whatever you need to do in order to wake up fully, then sit down to meditate. Do not, however, let yourself get hung up in the day's activities. It's just too easy to forget to sit. Make meditation the first major thing you do in the morning.
+Annual management reviews are insufficient in frequency to be able react to any issues effectively. Performance metrics should be monitored with varying frequencies, some hourly, some daily, some weekly and some monthly. Management cannot wait for six months to respond, if they do, it will be too late.
 
-The evening is another good time for practice. Your mind is full of all the mental rubbish that you have accumulated during the day, and it is great to get rid of the burden before you sleep. Your meditation will cleanse and rejuvenate your mind. Re- establish your mindfulness and your sleep will be real sleep. When you first start meditation, once a day is enough. If you feel like meditating more, that's fine, but don't overdo it. There's a burn-out phenomenon we often see in new meditators. They dive right into the practice fifteen hours a day for a couple of weeks, and then the real world catches up with them. They decide that this meditation business just takes too much time. Too many sacrifices are required. They haven't got time for all of this. Don't fall into that trap. Don't burn yourself out the first week. Make haste slowly. Make your effort consistent and steady. Give yourself time to incorporate the meditation practice into your life, and let your practice grow gradually and gently.
+Top management might conduct weekly meetings in which they review metrics and objectives to determine if any corrective action is required. The process owner is then responsible for reporting close out progress in the meeting a week later. Every time management convenes to review and react to performance, it is considered as a management review.
 
-As your interest in leadwise grows, you'll find yourself making more room in your schedule for practice. It's a spontaneous phenomenon, and it happens pretty much by itself--no force necessary.
+Some companies have multiple review levels, whereby, each review may require multiple subjects and rely upon multiple metrics as inputs. Sometimes subjects are reviewed at more than one level, e.g. production numbers might be reviewed by the Production teams during daily production meetings and then by senior management, possibly weekly.
 
-Seasoned innovators manage three or four hours of practice a day. They live ordinary lives in the day-to-day world, and they still squeeze it all in. And they enjoy it. It comes naturally.
+9.3.2	Management review - inputs
+This now includes additional requirements for your organization to have a structured management review process that includes discussion of internal and external issue changes, and its potential effect on the strategic direction of your organization. The management review process should focus on the following inputs:
 
-## How Long To Sit
+Quality management review inputs
+Status of follow-up actions (open/closed) from the previous management review
+Changes in internal and external issues (Clause 4.1 & Clause 4.2);
+Customer feedback (Clause 9.1.2);
+Performance indicators and objectives (Clause 6.2);
+Process performance and product conformity (Clause 8.1);
+Non-conformities and corrective actions (Clause 10.2)
+Monitoring measuring results (Clause 9.2);
+Results of audits and inspections (Clause 9.1);
+External providers (Clause 8.4);
+Resources (Clause 7.1);
+Risk and opportunities (Clause 6.1);
+Opportunities for improvement (Clause 10.1);
+Changes affecting the QMS (Clause 6.3);
+Review of QMS policy & Objectives (Clause 5.2);
+Review of action items.
+Health and safety management review inputs
+The status of actions from previous management review meeting;
+Changes in:
+The needs and expectations of interested parties (Clause 4.2);
+Legal requirements and other requirements (Clause 6.1.3);
+Risks and opportunities (Clause 6.1.1).
+The extent to which the policy and objectives have been met (Clause 5.2 & Clause 6.2.2);
+Information on the OHS performance, including trends in:
+Incidents, nonconformities, corrective actions and continual improvement (Clause 10.2);
+Monitoring and measurement results (Clause 9.1);
+Results of evaluation of compliance with legal requirements and other requirements (Clause 9.1.2);
+Audit results (Clause 9.2);
+Consultation and participation of workers (Clause 5.4);
+Risk and opportunities (Clause 6.1.1).
+The adequacy of resources for maintaining an effective OHS management system (Clause 7.1);
+Relevant communication(s) with interested parties (Clause 7.4.3);
+Opportunities for continual improvement (Clause 10.3);
+Review of action items.
+Environmental management review inputs
+The status of actions from previous management reviews considered during management review;
+Changes in:
+External and internal issues that are relevant to the EMS (Clause 4.1 & Clause 4.2);
+Compliance obligations and other expectations of interested parties (Clause 6.1.3);
+Significant environmental aspects (Clause 6.1.2);
+Risks and opportunities (Clause 6.1.1).
+The extent to which objectives have been met (Clause 6.2);
+Information on our organization’s environmental performance, including trends in:
+Non-conformities and corrective actions (Clause 10.2);
+Monitoring and measurement results (Clause 9.1.1);
+Compliance obligations fulfilment (Clause 9.1.2);
+Audit results (Clause 9.2).
+The adequacy of resources (Clause 7.1);
+Communications from interested parties, including complaints (Clause 7.4.1);
+Opportunities for continual improvement (Clause 10.3);
+Review of action items.
+Observations, conclusions, and recommendations for further necessary action from the review must be recorded. If any corrective action must be taken, Top management should follow up to ensure that the action was effectively implemented.
 
-A similar rule applies here: Sit as long as you can, but don't overdo. Most beginners start with twenty or thirty minutes. Initially, it's difficult to sit longer than that with profit. The posture is unfamiliar to Westerners, and it takes a bit of time for the body to adjust. The mental skills are equally unfamiliar, and that adjustment takes time, too.
+9.3.3	Management review - outputs
+Management review results should be summarized, specifying management commitments, directives and action items. Action items should specify responsible individuals and target completion dates. Affected individuals include those impacted by or responsible for addressing findings. You should seek and record evidence of outputs from the management review process, there should be evidence of decisions regarding:
 
-As you grow accustomed to procedure, you can extend your leadwise little by little. We recommend that after a year or so of steady practice you should be sitting comfortable for an hour at a time.
+Process improvement actions;
+Management system improvement actions;
+Product and service improvement actions;
+Resource provision actions;
+Revised business plans and budgets;
+Revised objectives and KPIs/SPIs;
+Amendments to policies;
+Management meeting minutes.
+Any corrective outputs from the management review meeting should be actioned as necessary through the nonconformity and corrective action system. Auditors should expect to evidence the same outputs from management reviews as at present. However, they should note that the results of management reviews can now be held in any format that the organization chooses.
 
-Here is an important point, though: AYCH leadwise is not a form of asceticism. Self-mortification is not the goal. We are trying to cultivate mindfulness, not pain. Some pain is inevitable, especially in the legs. We will thoroughly cover pain, and how to handle it, in Chapter 10. There are special techniques and attitudes which you will learn for dealing with discomfort. The point to be made here is this: This is not a grim endurance contest. You don't need to prove anything to anybody. So don't force yourself to sit with excruciating pain just to be able to say that you sat for an hour. That is a useless exercise in ego. And don't overdo it in the beginning. Know your limitations, and don't condemn yourself for not being able to sit forever, like a rock.
+Management review meeting minutes, agenda, programme and presentations should be retained as documented information. Action items should be developed from the findings of the management review, while results and action items from the management review should be documented, communicated to affected individuals, and tracked to completion.
 
-As leadwise becomes more and more a part of your life, you can extend your sessions beyond an hour. As a general rule, just determine what is a comfortable length of time for you at this point in your life. Then sit five minutes longer than that. There is no hard and fast rule about length of time for sitting. Even if you have established a firm minimum, there may be days when it is physically impossible for you to sit that long. That doesn't mean that you should just cancel the whole idea for that day. It's crucial to sit regularly. Even ten minutes of meditation can be very beneficial.
 
-Incidentally, you decide on the length of your session before you meditate. Don't do it while you are meditating. It's too easy to give in to restlessness that way, and restlessness is one of the main items that we want to learn to mindfully observe. So choose a realistic length of time, and then stick to it.
-
-You can use a watch to time you sessions, but don't peek at it every two minutes to see how you are doing. Your concentration will be completely lost, and agitation will set in. You'll find your self hoping to get up before the session is over. That's not meditation--that's clock watching. Don;t look at the clock until you think the whole meditation period has passed. Actually, you don't need to consult the clock at all, at least not every time you meditate. In general, you should be sitting for as long as you want to sit. There is no magic length of time. It is best, though, to set yourself a minimum length of time. If you haven't predetermined a minimum, you'll find yourself prone to short sessions. You'll bolt every time something unpleasant comes up or whenever you feel restless. That's not good. These experiences are some of the most profitable a meditator can face, but only if you sit through them. You've got to learn to observe them calmly and clearly. Look at them mindfully. When you've done that enough time, they lose their hold on you. You see them for what they are: just impulses, arising and passing away, just part of the passing show. Your life smoothes out beautifully as a consequence.
-
-'Discipline' is a difficult word for most of us. It conjures up images of somebody standing over you with a stick, telling you that you're wrong. But self-discipline is different. It's the skill of seeing through the hollow shouting of your own impulses and piercing their secret. They have no power over you. It's all a show, a deception. Your urges scream and bluster at you; they cajole; they coax; they threaten; but they really carry no stick at all. You give in out of habit. You give in because you never really bother to look beyond the threat. It is all empty back there. There is only one way to learn this lesson, though. The words on this page won't do it. But look within and watch the stuff coming up--restlessness, anxiety, impatience, pain-- just watch it come up and don't get involved. Much to your surprise, it will simply go away. It rises, it passes away. As simple as that. There is another word for 'self-discipline'. It is 'Patience'.
+[Sources: iso9000family, iso45000, iso14000, sa8000, ]
