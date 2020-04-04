@@ -4,58 +4,155 @@ AYCH: 7
 title: "What to do with your mindset"
 ---
 
-The leadwise we teach is called **Insight Leadwise**. As we have already said, the variety of possible objects of meditation is nearly unlimited, and human beings have used an enormous number down through the ages. Even within the Vipassana tradition there are variances. There are meditation teachers who teach their students to follow the breath by watching the rise and fall of the abdomen. Others recommend focusing attention on the touch of the body against the cushion, or hand against hand, or the feeling of one leg against the other. The method we are explaining here, however, is considered the most traditional and is probably what Gotama Buddha taught his students. The Satipatthana Sutta, the Buddha's original discourse on mindfulness, specifically says that one must begin by focusing the attention on the breathing and then go on to note all other physical and mental phenomena which arise.
+The leadwise we teach is called **Insight Leadwise**. 
 
-We sit, watching the air going in and out of our noses. At first glance, this seems an exceedingly odd and useless procedure. Before going on to specific instructions, let us examine the reason behind it. The first question we might address is why use any focus of attention at all? We are, after all, trying to develop awareness. Why not just sit down and be aware of whatever happens to be present in the mind? In fact there are meditations of that nature. They are sometimes referred to as unstructured meditation and they are quite difficult. The mind is tricky. Thought is an inherently complicated procedure. By that we mean we become trapped, wrapped up, and stuck in the thought chain. One thought leads to another which leads to another, and another, and another, and so on. Fifteen minutes later we suddenly wake up and realize we spent that whole time stuck in a daydream or sexual fantasy or a set of worries about our bills or whatever.
 
-There is a difference between being aware of a thought and thinking a thought. That difference is very subtle. It is primarily a matter of feeling or texture. A thought you are simply aware of with bare attention feels light in texture; there is a sense of distance between that thought and the awareness viewing it. It arises lightly like a bubble, and it passes away without necessarily giving rise to the next thought in that chain. Normal conscious thought is much heavier in texture. It is ponderous, commanding, and compulsive. It sucks you in and grabs control of consciousness. By its very nature it is obsessional, and it leads straight to the next thought in the chain, apparently with no gap between them.
+# Leadership commitment
+Management system guideline
 
-Conscious thought sets up a corresponding tension in the body, such as muscular contraction or a quickening of the heartbeat. But you won't feel tension until it grows to actual pain, because normal conscious thought is also greedy. It grabs all your attention and leaves none to notice its own effect. The difference between being aware of the thought and thinking the thought is very real. But it is extremely subtle and difficult to see. Concentration is one of the tools needed to be able to see this difference.
+5.0 Leadership
+"Leadwise" principle introduces the ISO tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
 
-Deep concentration has the effect of slowing down the thought process and speeding up the awareness viewing it. The result is the enhanced ability to examine the thought process. Concentration is our microscope for viewing subtle internal states. We use the focus of attention to achieve one-pointedness of mind with calm and constantly applied attention. Without a fixed reference point you get lost, overcome by the ceaseless waves of change flowing round and round within the mind.
+Our range of templates cover the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, and offer an easy way to implement your next management system.
+5.1 Leadership and commitment
+5.1.1 General
+Top management must ensure that the requirements of the management system, including the policies and objectives, are consistent with the strategic context and direction of your organization, and that the policies and objectives are established whilst ensuring that the human and financial resources needed for implementing the management system are available.
 
-We use breath as our focus. It serves as that vital reference point from which the mind wanders and is drawn back. Distraction cannot be seen as distraction unless there is some central focus to be distracted from. That is the frame of reference against which we can view the incessant changes and interruptions that go on all the time as a part of normal thinking.
+You should look for evidence that Top management has taken a ‘hands-on’ approach to the management system during interviews and whilst recording compliance to other requirements e.g. determining organizational context, policies, objectives, management review minutes, provision of resources etc.
 
-Ancient Pali texts liken meditation to the process of taming a wild elephant. The procedure in those days was to tie a newly captured animal to a post with a good strong rope. When you do this the elephant is not happy. He screams and tramples, and pulls against the rope for days. Finally it sinks through his skull that he can't get away, and he settles down. At this point you can begin to feed him and to handle him with some measure of safety. Eventually you can dispense with the rope and post altogether, and train your elephant for various tasks. Now you've got a tamed elephant that can be put to useful work. In this analogy the wild elephant is your wildly active mind, the rope is mindfulness, and the post is our object of meditation-- breathing. The tamed elephant who emerges from this process is a well trained, concentrated mind that can then be used for the exceedingly tough job of piercing the layers of illusion that obscure reality. Meditation tames the mind.
+How are policies and objectives established?
+Do they align with the strategic direction and the organizational context?
+How are policies and objectives communicated within the organization?
+Can you demonstrate how policies are understood and applied?
+How are the requirements of the QMS integrated into the business processes?
+How is awareness of the process approach promoted?
+How are resources determined?
+How do you communicate the importance of effective QMS management, and conforming to QMS requirements;
+How do you ensure that the QMS achieves its intended results?
+How do you engage, direct and support people who contribute to the effectiveness of the QMS?
+How is continual improvement promoted?
+How are other relevant management roles supported to demonstrate leadership in their areas of responsibility?
+Without solid management commitment, you will not have a successful management system. This is not a commitment in words; it is the continuous and active demonstration to everyone in the organization that the need to meet customers' expectations is vital. The actions required of Top management must include:
 
-The next question we need to address is: Why choose breathing as the primary object of meditation? Why not something a bit more interesting? Answers to this are numerous. A useful object of meditation should be one that promotes mindfulness. It should be portable, easily available and cheap. It should also be something that will not embroil us in those states of mind from which we are trying to free ourselves, such as greed, anger and delusion. Breathing satisfies all these criteria and more. Breathing is something common to every human being. We all carry it with us wherever we go. It is always there, constantly available, never ceasing from birth till death, and it costs nothing.
+Supporting the management system and actively promote the agenda;
+Encouraging the goal of meeting, customer, regulatory and statutory requirements;
+Developing and supporting the management system by defining and communicating policies;
+Establishing organizational objectives;
+Ensuring appropriate resources are available.
+Implementing and improving the management system by encouraging employees to achieve requirements;
+Reviewing management system performance;
+Ensuring resources are available to improve the management system.
+5.1.2 Customer focus
+Customer focus involves determining customer requirements and ensuring that processes exist to meet the requirements and achieve customer satisfaction. Enhance customer satisfaction by ensuring that customer requirements are identified.
 
-Breathing is a non-conceptual process, a thing that can be experienced directly without a need for thought. Furthermore, it is a very living process, an aspect of life that is in constant change. The breath moves in cycles--inhalation, exhalation, breathing in and breathing out. Thus it is miniature model of life itself.
+## The principal message that Top management must convey is that the objective of the business is to satisfy your customers by ensuring a process exists to achieve the following:
 
-The sensation of breath is subtle, yet it is quite distinct when you learn to tune into it. It takes a bit of an effort to find it. Yet anybody can do it. You've got to work at it, but not too hard. For all these reasons, breathing makes an ideal object of meditation. Breathing is normally an involuntary process, proceeding at its own pace without a conscious will. Yet a single act of will can slow it down or speed it up. Make it long and smooth or short and choppy. The balance between involuntary breathing and forced manipulation of breath is quite delicate. And there are lessons to be learned here on the nature of will and desire. Then, too, that point at the tip of the nostril can be viewed as a sort of a window between the inner and outer worlds. It is a nexus point and energy-transfer spot where stuff from the outside world moves in and becomes a part of what we call 'me', and where a part of me flows forth to merge with the outside world. There are lessons to be learned here about self- concept and how we form it.
+Identifying customer requirements;
+Meeting customer requirements;
+Enhancing customer satisfaction.
+When auditing customer focus, you should assess whether customer satisfaction is adequately determined and whether appropriate corrective action is undertaken when things go wrong.
 
-Breath is a phenomenon common to all living things. A true experiential understanding of the process moves you closer to other living beings. It shows you your inherent connectedness with all of life. Finally, breathing is a present-time process. By that we mean it is always occurring in the here-and-now. We don't normally live in the present, of course. We spend most of our time caught up in memories of the past or leaping ahead to the future, full of worries and plans. The breath has none of that 'other-timeness'. When we truly observe the breath, we are automatically placed in the present. We are pulled out of the morass of mental images and into a bare experience of the here- and-now. In this sense, breath is a living slice of reality. A mindful observation of such a miniature model of life itself leads to insight that are broadly applicable to the rest of our experience.
+The customer feedback process should be audited as a process in its own right and not just as a clause in the standard. Determine how this process is planned, implemented and improved as these factors will affect the processes’ ability to provide meaningful information about the effectiveness of the management system.
 
-The first step in using the breath as an object of meditation is to find it. What you are looking for is the physical, tactile sensation of the air that passes in and out of the nostrils. This is usually just inside the tip of the nose. But the exact spot varies from one person to another, depending on the shape of the nose. To find your own point, take a quick deep breath and notice the point just inside the nose or on the upper lip where you have the most distinct sensation of passing air. Now exhale and notice the sensation at the same point. It is from this point that you will follow the whole passage of breath. Once you have located your own breath point with clarity, don't deviate from that spot. Use this single point in order to keep your attention fixed. Without having selected such a point, you will find yourself moving in and out of the nose, going up and down the windpipe, eternally chasing after the breath which you can never catch because it keeps changing, moving and flowing.
+Top management must also ensure that customer and applicable statutory and regulatory requirements are identified and consistently met and that the focus on enhancing customer satisfaction is maintained.
 
-If you ever sawed wood you already know the trick. As a carpenter, you don't stand there watching the saw blade going up and down. You will get dizzy. You fix your attention on the spot where the teeth of the blade dig into the wood. It is the only way you can saw a straight line. As a meditator, you focus your attention on that single spot of sensation inside the nose. From this vantage point, you watch the entire movement of breath with clear and collected attention. Make no attempt to control the breath. This is not a breathing exercise of the sort done in Yoga. Focus on the natural and spontaneous movement of the breath. Don't try to regulate it or emphasize it in any way. Most beginners have some trouble in this area. In order to help themselves focus on the sensation, they unconsciously accentuate their breathing. The results is a forced and unnatural effort that actually inhibits concentration rather than helping it. Don't increase the depth of your breath or its sound. This latter point is especially important in group meditation. Loud breathing can be a real annoyance to those around you. Just let the breath move naturally, as if you were asleep. Let go and allow the process to go along at its own rhythm.
+Top management must also determine and address the risks and opportunities that can affect conformity of products and services and the organization’s ability to enhance customer satisfaction.
 
-This sounds easy, but it is trickier than you think. Do not be discouraged if you find your own will getting in the way. Just use that as an opportunity to observe the nature of conscious intention. Watch the delicate interrelation between the breath, the impulse to control the breath and the impulse to cease controlling the breath. You may find it frustrating for a while, but it is highly profitable as a learning experience, and it is a passing phase. Eventually, the breathing process will move along under its own steam. And you will feel no impulse to manipulate it. At this point you will have learned a major lesson about your own compulsive need to control the universe.
+You should seek and record evidence that Top management is taking a ‘hands-on’ approach to the management of the management system, be prepared to constructively challenge Top management’s commitment.
 
-Breathing, which seems so mundane and uninteresting at first glance, is actually an enormously complex and fascinating procedure. It is full of delicate variations, if you look. There is inhalation and exhalation, long breath and short breath, deep breath, shallow breath, smooth breath and ragged breath. These categories combine with one another in subtle and intricate ways. Observe the breath closely. Really study it. You find enormous variations and constant cycle of repeated patterns. It is like a symphony. Don't observe just the bare outline of the breath. There is more to see here than just an in-breath and an out-breath. Every breath has a beginning middle and end. Every inhalation goes through a process of birth, growth and death and every exhalation does the same. The depth and speed of your breathing changes according to your emotional state, the thought that flows through your mind and the sounds you hear. Study these phenomena. You will find them fascinating.
+## Top management's commitment can likely be demonstrated by their actions, and by their views on the what the EHQMS policies mean to the everyday activties of your organization, as well as policies relationship with organization's strategic direction.
 
-This does not mean, however, that you should be sitting there having little conversations with yourself inside your head: "There is a short ragged breath and there is a deep long one. I wonder what's next?" No, that is not Vipassana. That is thinking. You will find this sort of thing happening, especially in the beginning. This too is a passing phase. Simply note the phenomenon and return your attention toward the observation of the sensation of breath. Mental distractions will happen again. But return your attention to your breath again, and again, and again, and again, for as long as it takes until it does not happen anymore.
+Are Top management attending management review meetings?
+Do they support the QMS Manager during day-to-day activities and with improvement initiatives?
+Do they lead the way and take accountability for the effectiveness of the QMS?
+Have they ensured that responsibilities and authorities for relevant roles are assigned and understood?
+Have they ensured that responsibilities and authorities are communicated?
+Have they established, implemented and maintained policies and objectives?
 
-When you first begin this procedure, expect to face some difficulties. Your mind will wander off constantly, darting around like a drunken bumblebee and zooming off on wild tangents. Try not to worry. The monkey-minded phenomenon is well known. It is something that every advanced meditator has had to deal with. They have pushed through it one way or another, and so can you. When it happens, just not the fact that you have been thinking, day-dreaming, worrying, or whatever. Gently, but firmly, without getting upset or judging yourself for straying, simply return to the simple physical sensation of the breath. Then do it again the next time, and again, an again, and again.
 
-Somewhere in this process, you will come face-to-face with the sudden and shocking realization that you are completely crazy. Your mind is a shrieking, gibbering madhouse on wheels barreling pell-mell down the hill, utterly out of control and hopeless. No problem. You are not crazier than you were yesterday. It has always been this way, and you just never noticed. You are also no crazier than everybody else around you. The only real difference is that you have confronted the situation; they have not. So they still feel relatively comfortable. That does not mean that they are better off. Ignorance may be bliss, but it does not lead to liberation. So don't let this realization unsettle you. It is a milestone actually, a sigh of real progress. The very fact that you have looked at the problem straight in the eye means that you are on your way up and out of it.
+# Organization Policy
+5.2 Quality policy
+5.2.1 Establish the quality policy
+ISO 9001:2015 requires your organization’s quaity policy to be appropriate to both its purpose and context. This means that once your organization has determined its context and the relevant requirements of its interested parties, Top management must review the quality policy in light of that information.
 
-In the wordless observation of the breath, there are two states to be avoided: thinking and sinking. The thinking mind manifests most clearly as the monkey-mind phenomenon we have just been discussing. The sinking mind is almost the reverse. As a general term, sinking mind denotes any dimming of awareness. At its best, it is sort of a mental vacuum in which there is no thought, no observation of the breath, no awareness of anything. It is a gap, a formless mental gray area rather like a dreamless sleep. Sinking mind is a void. Avoid it.
+You should review your organization's existing quality policy to determine whether it is appropriate to the context of the organization and its purpose, that there is a commitment to continually improving the quality management system, and the quality objectives are consistent with the quality policy. Top management should demonstrate that the quality policy is compatible with the strategic direction and context of the organization, as required by Clause 5.1.1b.
 
-Vipassana meditation is an active function. Concentration is a strong, energetic attention to one single item. Awareness is a bright clean alertness. Samahdhi and Sati--these are the two faculties we wish to cultivate. And sinking mind contains neither. At its worst, it will put you to sleep. Even at its best it will simply waste your time.
+Your organization will need to review its policies as necessary to ensure that any changes in context, interested parties or their requirements is reflected in the quality policy and whether your organization’s objectives are effected (6.2.1 a). The policy does not have to include objectives but should create a framework for establishing them.
 
-When you find you have fallen into a state of sinking mind, just note the fact and return your attention to the sensation of breathing. Observe the tactile sensation of the in-breath. Feel the touch sensation of the out-breath. Breathe in, breathe out and watch what happens. When you have been doing that for some time--perhaps weeks or months--you will begin to sense the touch as a physical object. Simply continue the process--breathe in and breathe out. Watch what happens. As your concentration deepens you will have less and less trouble with monkey-mind. Your breathing will slow down and you will track it more and more clearly, with fewer and fewer interruptions. You begin to experience a state of great calm in which you enjoy complete freedom from those things we call psychic irritants. No greed, lust, envy, jealousy or hatred. Agitation goes away. Fear flees. These are beautiful, clear, blissful states of mind. They are temporary, and they will end when meditation ends. Yet even these brief experiences will change your life. This is not liberation, but these are stepping stones on the path that leads in that direction. Do not, however, expect instant bliss. Even these stepping stones take time and effort and patience.
+The policy should be stated in such a way that it aims toward continual improvement. It should be reviewed and possibly revised to meet higher aspirations. Develop and implement a policy that is consistent with the company’s codes of conduct and business practices. The policy should be signed by senior management and commit to:
 
-The meditation experience is not a competition. There is a definite goal. But there is no timetable. What you are doing is digging your way deeper and deeper through the layers of illusion toward realization of the supreme truth of existence. The process itself is fascinating and fulfilling. It can be enjoyed for its own sake. There is no need to rush.
+Preventing process loss or quality impacts;
+Complying with obligations and legal requirements;
+Promoting continual improvement;
+Adopting best practice;
+Creation of measurable and achievable targets for performance improvement;
+Providing resources to achieve targets;
+Communicating and consulting with all stakeholders regarding the QMS;
+Meeting customer requirements.
+Certification does not require that the quality policy includes the words ‘continual improvement’; however it must be ascertained that processes of continual improvement are implied and known throughout the organization. To meet the intent of this clause, the auditor would be looking for clearly defined management system quality policy that are sufficiently detailed to provide a framework for the subsequent objectives that can be monitored for continual improvement.
 
-At the end of a well-done meditation session you will feel a delightful freshness of mind. It is peaceful, buoyant, and joyous energy which you can then apply to the problems of daily living. This in itself is reward enough. The purpose of meditation is not to deal with problems, however, and problem- solving ability is a fringe benefit and should be regarded as such. If you place too much emphasis on the problem-solving aspect, you will find your attention turning to those problems during the session sidetracking concentration. Don't think about your problems during your practice. Push them aside very gently.
+The auditor’s intent is not just conformance to the requirements but also to assist an organization in meeting their business objectives, better customer satisfaction and eventually more market share, which, in time, brings more profits for the organization.
 
-Take a break from all that worrying and planning. Let your meditation be a complete vacation. Trust yourself, trust your own ability to deal with these issues later, using the energy and freshness of mind that you built up during your meditation. Trust yourself this way and it will actually occur.
+When interviewing Top management, their input into, and commitment to, the management system quality policy should to be determined. For multi-site/corporate certifications, the policies must be applicable for all sites and be fully integrated with the objectives.
 
-Don't set goals for yourself that are too high to reach. Be gently with yourself. You are trying to follow your own breathing continuously and without a break. That sounds easy enough, so you will have a tendency at the outset to push yourself to be scrupulous and exacting. This is unrealistic. Take time in small units instead. At the beginning of an inhalation, make the resolve to follow the breath just for the period of that one inhalation. Even this is not so easy, but at least it can be done. Then, at the start of the exhalation, resolve to follow the breath just for that one exhalation, all the way through. You will still fail repeatedly, but keep at it.
+5.2.2	Communicating the quality policy
+ISO 9001:2015 requires that the quality policy is maintained as documented information, refer to Clause 7.5.1a. You should check whether the policies have been communicated and understood throughout your organization. The policy must also be available to any relevant interested parties.
 
-Every time you stumble, start over. Take it one breath at a time. This is the level of the game where you can actually win. Stick at it--fresh resolve with every breath cycle, tiny units of time. Observe each breath with care and precision, taking it one split second on top of another, with fresh resolve piled one on top of the other. In this way, continuous and unbroken awareness will eventually result.
+If the personnel interviewed do not know what their measurable objectives are and/or do not know what the organizational objectives are that they have a direct effect upon, the auditor would be further directed to evaluate top management’s communication of the policies and objectives.
 
-Mindfulness of breathing is a present-time awareness. When you are doing it properly, you are aware only of what is occurring in the present. You don't look back and you don't look forward. You forget about the last breath, and you don't anticipate the next one. When the inhalation is just beginning, you don't look ahead to the end of that inhalation. You don't skip forward to the exhalation which is to follow. You stay right there with what is actually taking place. The inhalation is beginning, and that's what you pay attention to; that and nothing else.
+Inferred awareness through knowledge of procedures is not considered sufficient; otherwise why have the requirement in the first place? A quick and convenient way to promote and communicate the quality policy might be to create a shortened version of main policy; try condensing it to five key words or even a couple of short sentences. This can be posted on bulletin boards in each department.
 
-This meditation is a process of retraining the mind. The state you are aiming for is one in which you are totally aware of everything that is happening in your own perceptual universe, exactly the way it happens, exactly when it is happening; total, unbroken awareness in the present time. This is an incredibly high goal, and not to be reached all at once. It takes practice, so we start small. We start by becoming totally aware of one small unit of time, just one single inhalation. And, when you succeed, you are on your way to a whole new experience of life.
+You could even add it to the reverse side of staff security passes or ID badges. If an auditor asks an employee whether they are aware of the quality policy; they can point to the bulletin board, or point to it on their badge. The employee can further elaborate to the auditor, what the policy means to them and how it influences their work.
+
+Auditors will wish to determine if the quality policy meets the intent and are understood, by interviewing personnel at all levels. Although the exact content of the quality policy does not need to be recited by interviewees, the awareness of the policies and how their job affects the company objectives should be determined.
+
+This does not require your employees to memorize the quality policy but it does mean they should be aware of it, know where it may be found and be able to paraphrase, or give an interpretation as it applies to them.
+
+
+# Roles, Responsibilities and Authorities
+
+5.3 Roles, responsibility and authority
+The guidance shown on this page is relevant to ISO 9001, ISO 14001 and ISO 45001. Each employee needs to know who is responsible for the various elements of the management system to ensure a successful implementation. Develop an organization chart and create job descriptions to satisfy the requirements in order to clearly define roles, responsibilities and authorities and communicate those responsibilities and authorities throughout your organization.
+
+You should develop and make available to all employees a list of key personnel and their job descriptions, responsibilities, along with an organization chart of key employees as they relate to your management system. This should effectively define, document, and communicate the organizational structure of the management system. Please note that this method is a suggestion, and other ways of meeting the requirement for organizational structure may be used.
+
+There is no longer a requirement for appointment of Management Representative, though the duties currently assigned to the MR under ISO 9001:2008 or ISO 14001:2004 must still be undertaken but can be assigned to different personnel, or to the quality system manager. Examples of objective evidence to verify implementation might include:
+
+Communication of roles, responsibilities and authority;
+Processes and procedures to fulfil requirements are adequately resourced;
+Awareness of expectations is demonstrated in all relevant levels of the organization;
+Reporting on the operation (audits & inspections) and performance of the management system is done (business meetings, KPI reviews, etc.).
+You should seek evidence that your organization’s personnel have not only been advised of their management system responsibilities and authorities, but also that they understand these in the context of the overall purpose of the management system.
+
+You should also ensure that Top management have assigned responsibility and authority for preserving the integrity of the organization’s management system during changes.
+
+
+# Customer Communication
+
+8.2 Requirements for Products and Services
+ISO Navigator Pro™ is a free tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
+
+Our range of templates cover the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, and offer an easy way to implement your next management system.
+8.2.1	Customer Communication
+This requirement is directly comparable to the requirements of ISO 9001:2008 Clause 7.2.3 Customer Communication. It has been expanded to include new requirements to obtain ‘customer views and perceptions’ instead of ‘customer feedback’. Some or all of the following specific customer communication should be observed and evidenced:
+
+Marketing information;
+Quotations and order forms;
+Confirmation of authorized orders and amended orders;
+Delivery notes and certificates of conformity;
+Invoices and credit notes;
+E-mail and general correspondence;
+Site visit reports or notes to/from customer;
+Customer feedback and complaints management process.
+You should ensure that your organization has established effective arrangements for providing the customer with product information, a means of handling inquiries and orders and a method for handling customer comments that includes both compliments and complaints. Establish processes for communicating with your customers:
+
+Develop a process to control communications with customers;
+Implement your customer communications process;
+Communicate with your customers;
+Maintain records.
+
+
+
+
+
+[Sources: iso9000family, iso45000, iso14000, ]
