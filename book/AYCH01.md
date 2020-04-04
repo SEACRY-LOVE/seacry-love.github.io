@@ -64,4 +64,25 @@ New companies are automatically global in reach and visibility, which makes a la
 Bring it all together, successful leaders focus on customer satisfaction by knowing their customers, offering personalized services, providing training of products and services, easy-made-ready interactive with customers in order to listen to their needs, company branding and socializing, and offering extra benefits for the loyalty.
 
 
+# Customer satisfaction as a requirement
+9.1.2	Customer Satisfaction
+This requirement is comparable to the requirements from ISO 9001:2008 Clause 8.2.1 – Customer Satisfaction, the change being that your organization must now solicit customer’s perception about your organization, and its products and services.
+
+You should seek and record evidence that your organization has implemented a consistent and systematic approach to dealing with customer feedback and is obtaining information on customer perception.
+
+Just collecting data on customer perceptions is not sufficient, you should seek and record evidence that your organization has analyzed and evaluated customer data and that conclusions have been made with regard to the effectiveness of the management system.
+
+Are there any trends?
+Is the situation stable, improving, or deteriorating?
+Are customer needs and expectations changing?
+Both internal and external auditors will look for proof that a consistent and systematic approach has been implemented to deal with customer complaints. This approach would typically include defined responsibilities for logging and tracking complaints, clearing technical issues, determining problem causes and actions to address them. Specific examples of complaints must be sampled.
+
+The link between the customer complaint process and corrective action also requires special scrutiny. Determine appropriate methods for monitoring and measuring customer satisfaction by:
+
+Using customer satisfaction surveys;
+Providing methods for receiving and dealing with customer feedback;
+Providing suitable processes to monitoring trends in, and reviewing customer data.
+
+
+
 [Resources: ISO.org, Forbes.com, medium.com, businessInsider.com, smallbizclub.com, cnbc.com, tweakyourbiz.com, investopia.com, investment.com]
