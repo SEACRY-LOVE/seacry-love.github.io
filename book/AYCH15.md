@@ -11,6 +11,77 @@ Every musician plays scales. When you begin to study the piano, that's the first
 Every baseball player practices batting. It's the first thing you learn in Little League, and you never stop practicing. Every World Series game begins with batting practice. Basic skills must always remain sharp.
 
 
+# Competence
+7.2 Competence
+The guidance shown on this page is relevant to ISO 9001, ISO 14001 and ISO 45001. Organizations should establish a process for assessing existing staff competencies against changing business needs and prevailing trends. Check for evidence that all staff which work under your organization’s control are competent, and that evidence continuing competence is maintained as documented information in accordance Clause 7.5. Maintain documented information such as a skills matrix; training records, personnel files, CVs, job descriptions.
+
+Competency-based training programmes can vary greatly and are as unique as the facility and personnel working there. The distinct operations of the facility and the level of education, training, and experience of the personnel determine the necessary elements of a competency-based training programme. To establish and maintain a competency-based training programme, the following steps must be taken:
+
+## Training plan
+Identify competency-based training needs;
+Prepare the training materials;
+Conduct and evaluate the training.
+How does your organization determine the necessary competence of person(s) doing work under its control that affect its environmental, safety and quality performance? Ensure that those competencies are possessed by the people doing the work under your organization’s control including: the organization’s own personnel, contractors and outsourced personnel working either on site or off site.
+
+Training alone is not sufficient to demonstrate competence; this must be demonstrated through tests, observations, results, etc. Auditors need to find objective evidence in order to determine that the competency requirements have been met.
+
+If the people are found not to be competent, your organization is required to take action. The actions taken need to be evaluated for effectiveness in raising competence to the required level. Examples of action may include remedial training, recruitment or the use of external people in order to acquire the necessary competence.
+
+## Training needs analysis
+Identification of employee training needs is typically the first step in developing a competency-based training programme. In addition to existing workers, new hires, temporary workers and outside contractors must be included when identifying training needs. Your organization must demonstrate that the training needs for these employees were identified.
+
+Your organization should operate a comprehensive training programme. All employees should receive training as identified by an initial training needs assessment. The training requirements for employees must be assessed against wider organizational policies and objectives.
+
+Line Managers and Supervisors often determine the training required for workers under their supervision to fill the gap in training, knowledge, competence and skills of each person and the training required to satisfy any applicable hazard and task specific competencies.
+
+Where skill deficiencies are identified or when competencies expire, appropriate training, retraining and/or supervision must be provided before work commences or continues so that employees can perform their designated duties competently and without risk to health and safety. Gaps in training, knowledge or competence must be identified and filled.
+
+Line Managers and Supervisors should monitor the abilities of all their workers, their responsibilities and ensure the ongoing monitoring and review of employee competencies. Appropriate training requirements can be further identified through this process using a Competency Review Form. Training needs are also determined during the appraisals process where any needs identified are derived from annual appraisals and personal development reviews.
+
+## Competence matrix
+The aim of the competence matrix is to support the Human Resources Manager and Line Managers to ensure that training is targeted, managed, effective and comprehensive. A suitable matrix should be produced for each workplace. After developing a list of these employees, the Management Representative or the Human Resources Manager should establish the appropriate training programme for each worker, based on the type of employee interaction with each significant impact or risk.
+
+Other requirements for the position such as legislative requirements, including license requirements (e.g. radiation user’s license, high risk work license) should also be identified. The training needs can then be incorporated into individual annual appraisals and personal development reviews.
+
+Where employees are unskilled in the required task, or expired mandatory and statutory competencies are identified, appropriate training or re-training should be provided prior to commencement of work. Employee training and re-training is recorded, monitored and kept up to date by their Line Manager and Supervisor.
+
+A register containing information on specified levels of education, training, and experience must be established for each employee whose work is involved with any significant impact and safety hazard. The planned training programme for each individual then should be listed. The training sessions should, at a minimum:
+
+Make the employee aware of the aspects and hazards, and the impacts and risks associated with their work;
+Include training required by applicable regulatory requirements and management system requirements;
+Include training necessary to obtain/retain required licenses or registrations;
+Emphasize responsibility for minimizing significant impacts and risks associated with their work;
+Identify potential consequences of departures from specified operating procedures;
+Address the benefits of improved personal performance.
+Even though some personnel may have the same job, the type or level of training may vary according to each person’s past education, training, and experience. Training options may be as simple as on-the-job training, administered by senior, or more experienced members; formal training, including classroom instruction; training provided by external consultants.
+
+For some situations, commercially available training courses may be another alternative. Additional or customized training activities specific to individual needs, job descriptions, regulations and goals may be necessary depending on the existing skill level of each employee.
+
+## Specialist training
+Additional specialist training for particular workers may be identified through the training needs analysis with input from job safety analysis forms and risk assessments, and may include hazard-specific training (e.g. hazardous chemicals, electrical safety, manual handling, confined spaces, etc.), prescribed training for licensing requirements (e.g. ionizing radiation, diving, forklift) or health and safety responsibilities training (e.g. H&S, first aiders, or emergency control personnel).
+
+Staff with specific roles such as First Aiders, Fire Wardens or Health and Safety Representatives must attend nominated training for that specific role. The Human Resources Manager and the Line Managers and Supervisors should be responsible for sourcing suitable training from approved providers and for pre-course arrangements and administration.
+
+## On-the-job training
+On-the-job training should bes provided by a more experienced employee or by an external trainer, skilled in the requirements of that particular activity as indicated by their training record. The responsible person, together with the employee, ensures that the required level is achieved after undergoing training. Line Managers and Supervisors should be responsible for:
+
+Nominating training mentor;
+Devising basic training plan;
+Ensure training is provided;
+Evaluation of the effectiveness of the training (during the appraisal process).
+Training records should be updated when a competence is attained.
+
+
+## Contractor training
+Line Managers and Supervisors who engage contractors are responsible for providing a local area induction and for ensuring that the contractors are provided with information about potential known hazards of the environment in which they work. Records of contractor’s competency or licenses, their induction must be retained. Your organization must not allow a contractor to start work unless they have completed the following:
+
+General health and safety induction training;
+General safety induction;
+Work or task specific briefings.
+The selection, engagement and management of suitably trained and competent contractors is often managed by the Health & Safety Manager in conjunction with Line Managers and Supervisors, and any related guidelines.
+
+
+
 # An Outlook of Softskills for a Career Path
 You may be a computer whiz, a scientific genius, or a master of mathematical theories.  However, to be successful, you need more than just expertise in your given specialty. In fact, according to the National Association of Colleges and Employees (NACE), when participating employers were asked to name the attributes they seek in candidates, they gave their highest scores to the following three traits:
 
