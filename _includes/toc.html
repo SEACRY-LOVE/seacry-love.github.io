@@ -2,7 +2,7 @@
   <ul class="list">
     {% assign AYCHs = site.pages | where:'layout','AYCH' | sort:'AYCH' %}
     {% for page in AYCHs %}
-      {% include toc-entry.html url=page.url title=page.title chapter=page.chapter %}
+      {% include toc-entry.html url=page.url title=page.title aych=page.aych %}
     {% endfor %}
   </ul>
 </nav>
