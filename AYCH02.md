@@ -1,10 +1,10 @@
 ---
 layout: AYCH
 AYCH: 2
-title: "What leadwise isn't"
+title: What "leadwise" principle isn't
 ---
 
-Leadwise is a word. You have heard this word before, or you would never have picked up this book. The thinking process operates by association, and all sorts of ideas are associated with the word 'leadwise'. 
+"Leadwise" principle is a word. You have heard this word before, or you would never have picked up this book. The thinking process operates by association, and all sorts of ideas are associated with the word 'leadwise'. 
 
 When discontinuity is the only constant, the ability to lead wisely has nearly vanished. All the knowledge in the world did not prevent the collapse of the global financial system three years ago or stop institutions like Lehman Brothers and Washington Mutual from failing.
 
