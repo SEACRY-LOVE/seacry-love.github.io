@@ -1,21 +1,21 @@
-<!-- Lookup previous and next chapter -->
-{% assign prevChapterNumber = include.current.chapter | minus: 1 %}
-{% assign nextChapterNumber = include.current.chapter | plus: 1 %}
+<!-- Lookup previous and next AYCH -->
+{% assign prevChapterNumber = include.current.aych | minus: 1 %}
+{% assign nextChapterNumber = include.current.aych | plus: 1 %}
 
-{% assign chapters = site.pages | where:'layout','chapter' | sort:'chapter' %}
+{% assign aychs = site.pages | where:'layout','aych' | sort:'aych' %}
 
-{% for chapter in chapters %}
-{% if chapter.chapter == prevChapterNumber %}
-{% assign prevChapter = chapter %}
-{% elsif chapter.chapter == nextChapterNumber %}
-{% assign nextChapter = chapter %}
+{% for aych in aychs %}
+{% if aych.aych == prevAychNumber %}
+{% assign prevAych = aych %}
+{% elsif aych.aych == nextAychNumber %}
+{% assign nextAych = aych %}
 {% endif %}
 {% endfor %}
 
 <!-- Add previous and next links -->
 <nav class="flex flex-wrap f7 fw3 ttu tracked mt5">
-    {% if prevChapter.url %}
-      <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-previous" href="{{ prevChapter.url }}" style="height: 5em;">
+    {% if prevAych.url %}
+      <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-previous" href="{{ prevAych.url }}" style="height: 5em;">
           <span class="sans-serif mr2">←</span>{{ prevChapter.title }}
       </a>
     {% endif %}
@@ -23,10 +23,10 @@
     <a href="{{ site.url }}/" class="bt b--light-silver flex justify-center items-center tc w-100 pa3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-top" style="height: 5em;">Top</a>
 
 
-    {% if nextChapter.url %}
-      <a class="bt b--light-silver flex justify-end items-center w-100 tr pv3 pl3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-next" href="{{ nextChapter.url }}"
+    {% if nextAych.url %}
+      <a class="bt b--light-silver flex justify-end items-center w-100 tr pv3 pl3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-next" href="{{ nextAych.url }}"
       style="height: 5em;">
-          {{ nextChapter.title }}<span class="sans-serif ml2">→</span>
+          {{ nextAych.title }}<span class="sans-serif ml2">→</span>
       </a>
     {% endif %}
 </nav>
@@ -34,12 +34,12 @@
 <script>
 /* post pagination keyboard shortcuts */
 document.body.onkeyup = function(e){
-    {% if prevChapter.url %}
-    if (e.keyCode == '37') { window.location = '{{ prevChapter.url }}'; } // left arrow key
+    {% if prevAych.url %}
+    if (e.keyCode == '37') { window.location = '{{ prevAych.url }}'; } // left arrow key
     {% endif %}
 
-    {% if nextChapter.url %}
-    if (e.keyCode == '39') { window.location = '{{ nextChapter.url }}'; } // right arrow key
+    {% if nextAych.url %}
+    if (e.keyCode == '39') { window.location = '{{ nextAych.url }}'; } // right arrow key
     {% endif %}
 };
 </script>
