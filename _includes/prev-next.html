@@ -1,6 +1,6 @@
 <!-- Lookup previous and next AYCH -->
-{% assign prevChapterNumber = include.current.aych | minus: 1 %}
-{% assign nextChapterNumber = include.current.aych | plus: 1 %}
+{% assign prevAychNumber = include.current.aych | minus: 1 %}
+{% assign nextAychNumber = include.current.aych | plus: 1 %}
 
 {% assign aychs = site.pages | where:'layout','aych' | sort:'aych' %}
 
@@ -16,7 +16,7 @@
 <nav class="flex flex-wrap f7 fw3 ttu tracked mt5">
     {% if prevAych.url %}
       <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-previous" href="{{ prevAych.url }}" style="height: 5em;">
-          <span class="sans-serif mr2">←</span>{{ prevChapter.title }}
+          <span class="sans-serif mr2">←</span>{{ prevAych.title }}
       </a>
     {% endif %}
 
