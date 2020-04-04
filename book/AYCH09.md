@@ -4,71 +4,116 @@ AYCH: 9
 title: "Set up leadwise practices"
 ---
 
-In the developed countries, it is traditional to begin each meditation session with the recitation of a certain set of formulas. An American audience is likely to take one glance at these invocations and to dismiss them as harmless rituals and nothing more. The so-called rituals, however, have been devised and refined by a set of pragmatic and dedicated men and women, and they have a thoroughly practical purpose. They are therefore worthy of deeper inspection.
 
-The Buddha was considered contrary in his own day. He was born into an intensely over-ritualized society, and his ideas appeared thoroughly iconoclastic to the established hierarchy of his own era. On numerous occasions, he disavowed the use of rituals for their own sake, and he was quite adamant about it. This does not mean that ritual has no use. It means that ritual by itself, performed strictly for it's own sake, will not get you out of the trap. If you believe that mere recitation of words will save you, then you only increase your own dependence on words and concepts. This moves you away from the wordless perception of reality rather than toward it. Therefore, the formulae which follow must be practiced with a clear understanding of what they are and why they work. They are not magical incantations. They are psychological cleansing devices which require active mental participation in order to be effective. Mumbled words without intention are useless. Vipassana meditation is a delicate psychological activity, and the mental set of the practitioner is crucial to its success. The technique works best in an atmosphere of calm, benevolent confidence. And these recitations have been designed to foster those attitudes. Correctly used, they can act as a helpful tool on the path to liberation.
 
-## The Threefold Guidance
+Management system guidance
+4.0 Context of the Organization
+ISO Navigator Pro™ is a free tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
 
-Meditation is a tough job. It is an inherently solitary activity. One person battles against enormously powerful forces, part of the very structure of the mind doing the meditating. When you really get into it, you will eventually find yourself confronted with a shocking realization. One day you will look inside and realize the full enormity of what you are actually up against. What you are struggling to pierce looks like a solid wall so tightly knit that not a single ray of light shines through. You find yourself sitting there, staring at this edifice and you say to yourself, "That? I am supposed to get past that? But it's impossible! That is all there is. That is the whole world. That is what everything means, and that is what I use to define myself and to understand everything around me, and if I take that away the whole world will fall apart and I will die. I cannot get through that. I just can't."
+Our range of templates cover the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, and offer an easy way to implement your next management system.
+4.1 Understanding your organization and its context
+Determining the context of your organization is a requirement that is new to ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018. Also known as contextual intelligence, this approach is not new to those familiar with business planning and strategic development, but it is new in terms of its specific inclusion into ISO management system standards.
 
-It is a very scary feeling, a very lonely feeling. You feel like, "Here I am, all alone, trying to punch away something so huge it is beyond conception." To counteract this feeling, it is useful to know that you are not alone. Others have passed this way before. They have confronted that same barrier, and they have pushed their way through to the light. They have laid out the rules by which the job can be done, and they have banded together into a brotherhood for mutual encouragement and support. The **Buddha** found his way through this very same wall, and after him came many others. He left clear instructions in the form of the **Dhamma** to guide us along the same path. And he founded the **Sangha**, the brotherhood of monks to preserve that path and to keep each other on it. You are not alone, and the situation is not hopeless.
+Your organization is now required to identify and assess all internal issues and external issues that could impact upon your management system’s ability to deliver its intended results. You can read more about the different types of internal and external issues below. You will need to develop a methodology to understand the needs and expectations of all interested parties. If you need a procedure to help with determining your organization's context, click here.
 
-Meditation takes energy. You need courage to confront some pretty difficult mental phenomena and the determination to sit through various unpleasant mental states. Laziness just will not serve. In order to pump up your energy for the job, repeat the following statements to yourself. Feel the intention you put into them. Mean what you say.
+Identify the stakeholders of your organization's management system and capture their relevant requirements that might influence the type and complexity of your management system. We suggest that you use the context analysis template to help determine internal issues relevant to your organization's purpose and strategic direction that may affect its ability to achieve the intended result(s) of its management system.
 
-"I am about to tread the very path that has been walked by the Buddha and by his great and holy disciples. An indolent person cannot follow that path. May my energy prevail. May I succeed."
+This information should be retained as a strategy or tactical planning document to underpin your organization’s policies and to provide a road map to achieve future goals.
 
-## Universal Loving-Kindness
+You should allow time to develop an understanding of the key internal and external factors that influence your business, and to set up processes to capture, monitor and review these issues. The following types of documents and tools often help to provide a source of contextual information:
 
-Vipassana meditation is an exercise in mindfulness, egoless awareness. It is a procedure in which the ego will be eradicated by the penetrating gaze of mindfulness. The practitioner begins this process with the ego in full command of mind and body. Then, as mindfulness watches the ego function, it penetrates to the roots of the mechanics of ego and extinguishes ego piece by piece. There is a full blown Catch-22 in all this, however. Mindfulness is egoless awareness. If we start with ego in full control, how do we put enough mindfulness there at the beginning to get the job started? There is always some mindfulness present in any moment. The real problem is to gather enough of it to be effective. To do this we can use a clever tactic. We can weaken those aspects of ego which do the most harm, so that mindfulness will have less resistance to overcome.
+Policy statement(s) regarding your organization's purpose and strategic direction;
+Individual strategy documents underpinning your organization's policies that provide a road map to achieve its goals;
+Records of meetings where context is routinely discussed and monitored;
+Structured risk assessments of external and internal issues;
+Use of PESTLE template (Political, Economic, Social, Technological, Legal, Environmental) analysis tools for external issues;
+Use of SWOT template (Strengths, Weaknesses, Opportunities, Threats) analysis tools for internal issues;
+Documented information describing organizational context, included as part of a quality manual.
+A review of organizational context could include interviews with senior management, questionnaires, surveys and research. Cross-functional input is essential for the specific expertise required to identify the full breadth of issues, such as finance, training, human resources, commercial, engineering and design, etc.
 
-Greed and hatred are the prime manifestations of the ego process. To the extent that grasping and rejecting are present in the mind, mindfulness will have a very rough time. The results of this are easy to see. If you sit down to meditate while you are in the grip of some strong obsessive attachment, you will find that you will get nowhere. If you are all hung up in your latest scheme to make more money, you probably will spend most of your meditation period doing nothing but thinking about it. If you are in a black fury over some recent insult, that will occupy your mind just as fully. There is only so much time in one day, and your meditation minutes are precious. It is best not to waste them. The Theravada tradition has developed a useful tool which will allow you to remove these barriers from your mind at least temporarily, so that you can get on with the job of removing their roots permanently.
+Not only will this ensure a broader appreciation of organizational context but also wider engagement, particularly with those functions not previously involved with the management system.
 
-You can use one idea to cancel another. You can balance a negative emotion by instilling a positive one. Giving is the opposite of greed. Benevolence is the opposite of hatred. Understand clearly now: This is not an attempt to liberate yourself by autohypnosis. You cannot condition Enlightenment. Nibbana is an unconditioned state. A liberated person will indeed be generous and benevolent, but not because he has been conditioned to be so. He will be so purely as a manifestation of his own basic nature, which is no longer inhibited by ego. So this is not conditioning. This is rather psychological medicine. If you take this medicine according to directions, it will bring temporary relief from the symptoms of the malady from which you are currently suffering. Then you can get to work in earnest on the illness itself.
+You will need to determine and understand the various quality, safety and environmental conditions that could become inputs to internal and external issues, which are typically experienced in your type of organization that can have positive or negative impacts. It is important to remember that Clause 4.1 'Understanding the Organization and its Context' interacts with the following clauses:
 
-You start out by banishing thoughts of self-hatred and self- condemnation. You allow good feelings and good wishes first to flow to yourself, which is relatively easy. Then you do the same for those people closest to you. Gradually, you work outward from your own circle of intimates until you can direct a flow of those same emotions to your enemies and to all living beings everywhere. Correctly done, this can be a powerful and transformative exercise in itself.
+Clause 4.3 - 'When determining the scope, the organization shall consider the external and internal issues referred to in 4.1';
+Clause 5.1.1 - 'Top management shall ensure that the quality, environmental or health & safety policies and objectives are established for the management system and are compatible with the organization’s strategic direction and its context';
+Clause 5.2.1a - 'Top management shall establish, review and maintain its quality, environmental or health and safety policies appropriate to the purpose and context of the organization';
+Clause 6.1.1 - 'When planning the management system, the organization shall consider issues referred to in 4.1 and determine risks and opportunities that need to be addressed';
+Clause 9.3.1 - 'The management review shall be planned and carried out taking into consideration changes in external and internal issues relevant to its management system that includes its strategic direction'.
+There should be no need to have separate a contextual description for each environmental, health and safety or quality management system. In theory; a single, integrated, contextual statement that suits the requirements of each management system since there would be a degree of overlap between the context of a OHSMS, a QMS or an EMS.
 
-At the beginning of each meditation session, say the following sentences to yourself. Really feel the intention:
+In practice however, the needs and expectations; and the types of interested party will likely have some degree of overlap too, as well as, subtle but important differences which would require clear definition. You should consider the focus of your QMS as being different to the focus of your EMS, or your OHS management system; your organizational context must reflect that. 
+Identifying internal issues
+To help understand your business's internal issues, at the micro-level, you need to understand its strengths and weaknesses and be able to identify relevant opportunities and threats. Undertake a SWOT analysis to review and evaluate current business strategies, the position and direction of your organization, business propositions and other commercial leads.
 
-1.  May I be well, happy and peaceful. May no harm come to me. May no difficulties come to me. May no problems come to me. May I always meet with success. May I also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+The SWOT analysis should be developed in such a way that the weaknesses and threats become inputs to determining risk and opportunity. Internal issues might typically be influenced the following:
 
-2.  May my parents be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+Organizational activities;
+Types of product and service;
+Strategic direction;
+Capabilities (people, knowledge, processes, systems);
+Working practices;
+Employment practices;
+Location and conditions;
+Worker knowledge;
+Organizational structure;
+Policy and objectives;
+Values;
+Strategy;
+Competence;
+Culture;
+Knowledge;
+Performance;
+Quality, safety and environmental conditions capable of affecting or being affected by your organization.
+Sources of information relating to internal issues might include:
 
-3.  May my teachers be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+Organizational structure, including the identification of roles and responsibilities and governance arrangements;
+External reports showing how well your business is performing;
+Statements relating to your organization's mission, vision and core values;
+Emphasis placed upon business ethics and organizational codes of conduct;
+Feedback obtained from employees through opinion surveys;
+Information management systems and processes for capturing and deploying knowledge and lessons learned;
+Organizational capability studies, identification of load/capacity and resource requirements to achieve demand;
+Register of identified internal risks and their treatment.
+The ISO standards do not specify that internal issues, or their monitoring and review be documented, so there might not be ‘lists of internal issues’ or records of reviews. However, information can be obtained via interviews with relevant Top management in relation to your organization’s context and its strategic direction, the identified issues and conditions, and how these may affect the intended outcomes of your management system.
 
-4.  May my relatives be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+Identifying external issues
+External issues might include political, financial or economic trends, customer demographics or emerging product developments. You should undertake a PESTLE analysis in order to establish a suitable understanding of these circumstances, and the market in which your business operates at the macro level.
 
-5.  May my friends be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+PESTLE analysis provides a framework for measuring market and growth potential according to external political, economic, social, technological, legal and environmental factors. External issues might typically be influenced the following:
 
-6.  May all indifferent persons be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+Cultural, social, political and regulatory;
+Innovation, technology, industry requirements, market requirements, suppliers and partners;
+Financial, economic, natural and competitive issues, whether international, national, regional or local;
+Quality, safety and environmental conditions capable of affecting or being affected by your organization.
+Sources of information relating to external issues might include:
 
-7.  May my enemies be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+Reports relating to market environment, economic conditions, new technology, new markets, customer expectations;
+Reports relating to supplier intelligence, political considerations, investment opportunities, social factors etc.;
+Identification of factors relating to changes in legislation and regulation, including environmental and H&S impact;
+Feedback relating to product/service performance and lessons learned;
+Register of identified external risks and their treatment.
+A workshop approach often allows ideas to be shared and provides an effective and efficient way of achieving a valuable outcome. The workshop could simply be a discussion identifying the issues that can be mapped out using Political, Economic, Social, Technological, Legal and Environmental (PESTLE) analysis. This method helps to structure the conversation and will also help to achieve buy-in to what is often seen as a peripheral or niche area.
 
-8.  May all living beings be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+To be compliant, evidence should be reviewed that proves that your business has identified all pertinent internal and external issues at periodic intervals. Although there is no requirement for any documented information to defining organizational context, it is helpful to retain the following types of documented information to help justify compliance:
 
-Once you have completed these recitations, lay aside all your troubles and conflicts for the period of practice. Just drop the whole bundle. If they come back into your meditation later, just treat them as what they are, distractions.
+Business plans and strategy reviews;
+Quality manual
+Competitor analysis;
+Economic reports from business sectors or consultant’s reports;
+SWOT template analysis output;
+PESTLE template analysis output;
+Risk and opportunity assessments;
+Statement contained within a Management System Manual;
+Minutes of management review meetings (that show decisions and actions relating organizational context);
+Process maps, tables, spreadsheets, mind mapping diagrams.
+To assess whether your organization has a high-level, conceptual understanding of its internal and external issues that affect it, either positively or negatively, its ability to achieve the intended outcomes, you should describe the processes used by your organization to identify internal and external issues and make reference to all objective evidence, including examples of these issues.
 
-The practice of Universal Loving-Kindness is also recommended for bedtime and just after arising. It is said to help you sleep well and to prevent nightmares. It also makes it easier to get up in the morning. And it makes you more friendly and open toward everybody, friend or foe, human or otherwise.
 
-The most damaging psychic irritant arising in the mind particularly at the time when the mind is quiet, is resentment. You may experience indignation remembering some incident that caused you psychological and physical pain. This experience can cause you uneasiness, tension, agitation and worry. You might not be able to go on sitting and experiencing this state of mind. Therefore, we strongly recommend that you should start your meditation with generating Universal Loving-Kindness.
 
-You sometimes may wonder how can we wish: "May my enemies be well, happy and peaceful. May no harm come to them; may no difficulty come to them; may no problems come to them; may they always meet with success. May they also have patience, courage, understanding and determination to meet and overcome inevitable difficulties, problems and failures in life"?
 
-You must remember that you practice loving-kindness for the purification of your own mind, just as you practice meditation for your own attainment of peace and liberation from pain and suffering. As you practice loving-kindness within yourself, you can behave in a most friendly manner without biases, prejudices, discrimination or hate. Your noble behavior helps you to help others in a most practical manner to reduce their pain and suffering. It is compassionate people who can help others. Compassion is a manifestation of loving-kindness in action, for one who does not have loving-kindness cannot help others. Noble behavior means behaving in a most friendly and most cordial manner. Behavior includes your thought speech and action. If this triple mode of expression of your behavior is contradictory, your behavior cannot be noble behavior. On the other hand, pragmatically speaking, it is much better to cultivate the noble thought, "May all beings be happy minded" than the thought, "I hate him". Our noble thought will one day express itself in noble behavior and our spiteful thought in evil behavior.
 
-Remember that your thoughts are transformed into speech and action in order to bring the expected result. Thought translated into action is capable of producing tangible result. You should always speak and do things with mindfulness of loving-kindness. While speaking of loving-kindness, if you act or speak in a diametrically opposite way you will be reproached by the wise. As mindfulness of loving-kindness develops, your thoughts, words and deeds should be gently, pleasant, meaningful, truthful and beneficial to you as well as to others. If your thoughts, words or deeds cause harm to you, to others or to both, then you must ask yourself whether you are really mindful of loving-kindness.
 
-For all practical purposes, if all of your enemies are well, happy and peaceful, they would not be your enemies. If they are free from problems, pain, suffering, affliction, neurosis, psychosis, paranoia, fear, tension, anxiety, etc., they would not be your enemies. Your practical solution to your enemies is to help them to overcome their problems, so you can live in peace and happiness. In fact, if you can, you should fill the minds of all your enemies with loving-kindness and make all of them realize the true meaning of peace, so you can live in peace and happiness. The more they are in neurosis, psychosis, fear, tension, anxiety, etc., the more trouble, pain and suffering they can bring to the world. If you could convert a vicious and wicked person into a holy and saintly individual, you would perform a miracle. Let us cultivate adequate wisdom and loving- kindness within ourselves to convert evil minds to saintly minds.
+[Sources: iso9000family, ]
 
-When you hate somebody you think, "Let him be ugly. Let him lie in pain. Let him have no prosperity. Let him not be right. Let him not be famous. Let him have no friends Let him, after death, reappear in an unhappy state of depravation in a bad destination in perdition." However, what actually happens is that your own body generates such harmful chemistry that you experience pain, increased heart beat, tension, change of facial expression, loss of appetite for food, deprivation of sleep and appear very unpleasant to others. You go through the same things you wish for your enemy. Also you cannot see the truth as it is. Your mind is like boiling water. Or you are like a patient suffering from jaundice to whom any delicious food tastes bland. Similarly, you cannot appreciate somebody's appearance, achievement, success, etc. As long as this condition exists, you cannot meditate well.
-
-Therefore we recommend very strongly that you practice loving- kindness before you start your serious practice of meditation. Repeat the proceeding passages very mindfully and meaningfully. As you recite these passages, feel true loving-kindness within yourself first and then share it with others, for you cannot share with others what you do not have within yourself.
-
-Remember, though, these are not magic formulas. They don't work by themselves. If you use them as such, you will simply waste time and energy. But if you truly participate in these statements and invest them with your own energy, they will serve you will. Give them a try. See for yourself.
+   
