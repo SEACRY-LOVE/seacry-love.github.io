@@ -4,38 +4,149 @@ AYCH: 6
 title: "What to do with your organization"
 ---
 
-The practice of leadwise has been going on for several thousand years. That is quite a bit of time for experimentation, and the procedure has been very, very thoroughly refined. Buddhist practice has always recognized that the mind and body are tightly linked and that each influences the other. Thus there are certain recommended physical practices which will greatly assist you to master your skill. And these practices should be followed. Keep in mind, however, that these postures are practice aids. Don't confuse the two. Meditation does not mean sitting in the lotus position. It is a mental skill. It can be practiced anywhere you wish. But these postures will help you learn this skill and they speed your progress and development. So use them.
+The practice of leadwise has been going on for several businesses and organizations around the world. 
 
-## General Rules
+# What specific guides to Practice in your organization?
 
-The purpose of the various postures is threefold. First, they provide a stable feeling in the body. This allows you to remove your attention from such issues as balance and muscular fatigue, so that you can then center your concentration upon the formal object of meditation. Second, they promote physical immobility which is then reflected by an immobility of mind. This creates a deeply settled and tranquil concentration. Third, they give you the ability to sit for a long period of time without yielding to the meditator's three main enemies--pain, muscular tension and falling asleep. The most essential thing is to sit with your back straight. The spine should be erect with the spinal vertebrae held like a stack of coins, one on top of the other. Your head should be held in line with the rest of the spine. All of this is done in a relaxed manner. No Stiffness. You are not a wooden soldier, and there is no drill sergeant. There should be no muscular tension involved in keeping the back straight. Sit light and easy. The spine should be like a firm young tree growing out of soft ground. The rest of the body just hangs from it in a loose, relaxed manner. This is going to require a bit of experimentation on your part. We generally sit in tight, guarded postures when we are walking or talking and in sprawling postures when we are relaxing. Neither of those will do. But they are cultural habits and they can be re-learned.
+## Quality manual template
+(ISO 9001:2015 quality management system templates)
+Quality manual templates, procedures and forms
+Quality manual template - Photo by Helloquence on UnsplashFace the auditors with confidence! Use the quality manual template packages, including the procedures, forms, audit checklists, and guidance; to implement ISO 9001 for the first time, or, to update your existing quality system documents.
 
-Your objective is to achieve a posture in which you can sit for the entire session without moving at all. In the beginning, you will probably feel a bit odd to sit with the straight back. But you will get used to it. It takes practice, and an erect posture is very important. This is what is known in physiology as a position of arousal, and with it goes mental alertness. If you slouch, you are inviting drowsiness. What you sit on is equally important. You are going to need a chair or a cushion, depending on the posture you choose, and the firmness of the seat must be chosen with some care. Too soft a seat can put you right to sleep. Too hard can promote pain.
+Whatever the size and scope of your business, optional guidance documents and additional quality management system procedures are available to help you meet the quality management system requirements and support the ongoing compliance of your operations.
 
-## Clothing
+Don’t reinvent the wheel! Trusted by small businesses and globally recognized brands to establish a common quality management system initiative, the quality manual templates have helped thousands of businesses to reduce the risk of non-conformities when implementing and certifying ISO 9001:2015.
 
-The clothes you wear for leadwise should be loose and soft. If they restrict blood flow or put pressure on nerves, the result will be pain and/or that tingling numbness which we normally refer to as our 'legs going to sleep'. If you are wearing a belt, loosen it. Don't wear tight pants or pants made of thick material. Long skirts are a good choice for women. Loose pants made of thin or elastic material are fine for anybody. Soft, flowing robes are the traditional garb in Asia and they come in an enormous variety of styles such as sarongs and kimonos. Take your shoes off and if your stockings are thick and binding, take them off, too.
+If you're looking for an integrated management system manual template, integrated procedures or an internal audit checklist for ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, please click here.
+Which quality manual template do you need?
+Quality management system templates for small businesses
+Depending on your business's operations, QMS1 comes with the quality manual template, 10-core quality procedures, an internal audit checklist, an internal audit programme, and 24 form templates. The quality management templates are suitable for small manufacturing enterprises, or service-based businesses, with up to 100 employees.
 
-## Traditional Postures
+Quality manual templates for larger businesses
+For medium to large organizations, with more complex operations; employing more than 100 people, QMS2 comes with the quality manual template, 10-core quality procedures, and 10 additional operational procedures, an internal audit checklist to establish management system conformance, a process audit checklist to measure performance, supplier audit checklists, an internal audit programme, and 42 form templates.
 
-When you are sitting on the floor in the traditional Asian manner, you need a cushion to elevate your spine. Choose one that is relatively firm and at least three inches thick when compressed. Sit close to the front edge of the cushion and let your crossed legs rest on the floor in front of you. If the floor is carpeted, that may be enough to protect your shins and ankles from pressure. If it is not, you will probably need some sort of padding for your legs. A folded blanket will do nicely. Don't sit all the way back on the cushion. This position causes its front edge to press into the underside of your thigh, causing nerves to pinch. The result will be leg pain.
+ISO 9001 management system guidance for everybody
+With plenty of practical examples, the QMS3 and QMS4 packages each come with the quality manual templates outlined above but also include three separate guidance documents that provide advice on the essential quality management system elements, as well as guidance for undertaking internal audits, initiating problem-solving activities, and performing corrective action.
 
-There are a number of ways you can fold your legs. We will list four in ascending order of preference.
+ISO 9001 quality manual template specification
+The fully editable quality manual template and procedures are prepared using Office 2016, and supplied in .docx and .xlsx formats. The templates are fully editable to allow you to amend the text, tables, graphics and diagrams to suit your business's requirements. To see examples of the quality manual templates, click the links in the table below:
 
-1.  American indian style. Your right foot is tucked under the left knee and left foot is tucked under your right knee.
+ISO 9001:2015 quality management system templates
+MaaS packages: 
+QMS1    QMS2    QMS3   QMS4
+By addressing each requirement of the standard, the professionally formatted ISO 9001:2015 quality manual template deploys and communicates the quality management system:	
 
-2.  Burmese style. Both of your legs lie flat on the floor from knee to foot. They are parallel with each other and one in front of the other.
+» Outlines the fundamental elements of the QMS	
 
-3.  Half lotus. Both knees touch the floor. One leg and foot lie flat along the calf of the other leg.
+» Layout follows the headings of ISO 9001:2015	
 
-4.  Full lotus. Both knees touch the floor, and your legs are crossed at the calf. Your left foot rests on the right thigh, and your right foot rests on the left thigh. Both soles turn upward.
+» Editable process map shows the sequence and interaction of key processes	
 
-In these postures, your hands are cupped one on the other, and they rest on your lap with the palms turned upward. The hands lie just below the navel with the bend of each wrist pressed against the thigh. This arm position provides firm bracing for the upper body. Don't tighten your neck muscles. Relax your arms. Your diaphragm is held relaxed, expanded to maximum fullness. Don't let tension build up in the stomach area. Your chin is up. Your eyes can be open or closed. If you keep them open, fix them on the tip of your nose or in the middle distance straight in front. You are not looking at anything. You are just putting your eyes in some arbitrary direction where there is nothing in particular to see, so that you can forget about vision. Don't strain. Don't stiffen and don't be rigid. Relax; let the body be natural and supple. Let it hang from the erect spine like a rag doll.
+» Quality manual content is fully editable in .docx format	
 
-Half and full lotus positions are the traditional meditation postures in asia. And the full lotus is considered the best. It is the most solid by far. Once you are locked into this position, you can be completely immovable for a very long period. Since it requires a considerable flexibility in the legs, not everybody can do it. Besides, the main criterion by which you choose a posture for yourself is not what others say about it. It is your own comfort. Choose a position which allows you to sit the longest without pain, without moving. Experiment with different postures. The tendons will loosen with practice. And then you can work gradually towards the full lotus.
+The quality management system procedure templates include step-by-step text, turtle diagrams [TD] to define process inputs, activities, and outputs, and process maps [PM]:	
 
-## Using A Chair
+» Context of the Organization Procedure [TD]	
 
-Sitting on the floor may not be feasible for you because of pain or some other reason. No problem. You can always use a chair instead. Pick one that has a level seat, a straight back and no arms. It is best to sit in such a way that your back does not lean against the back of the chair. The front of the seat should not dig into the underside of your thighs. Place your legs side by side,feet flat on the floor. As with the traditional postures, place both hands on your lap, cupped one upon the other. Don't tighten your neck or shoulder muscles, and relax your arms. Your eyes can be open or closed.
+» Risk & Opportunity Procedure [TD]	
 
-In all the above postures, remember your objectives. You want to achieve a state of complete physical stillness, yet you don't want to fall asleep. Recall the analogy of the muddy water. You want to promote a totally settled state of the body which will engender a corresponding mental settling. There must also be a state of physical alertness which can induce the kind of mental clarity you seek. So experiment. Your body is a tool for creating desired mental states. Use it judiciously.
+» Objectives & Indicators Procedure [TD]	
+
+» Competence & Awareness Procedure [TD & PM]	
+
+» Documented Information Procedure [TD & PM]	
+
+» Non-conforming Outputs Procedure [TD & PM]	
+
+» Customer Satisfaction Procedure [TD & PM]	
+
+» Internal Audit Procedure [TD & PM]	
+
+» Management Review Procedure [TD & PM]	
+
+» Non-Conformity & Corrective Action Procedure [TD & PM]	
+
+» Facilities & Infrastructure Procedure [TD]	
+
+» Calibrated Equipment Procedure [TD & PM]	
+
+» Communication Procedure [TD]	
+
+» Contract Review Procedure [TD]	
+
+» Design & Development Procedure [TD]	
+
+» Purchasing & Procurement Procedure [TD]	
+
+» Product & Service Provision Procedure [TD]	
+
+» Testing & Inspection Procedure [TD & PM]	
+
+» Analysis & Evaluation Procedure [TD & PM]	
+
+» Improvement Procedure [TD]	
+
+Use the essential report and form templates to document your quality management system outputs, demonstrate compliance and effective process operation:	
+
+» Context & Interested Parties	» Process Matrix & Application	
+
+» SWOT Analysis Template	» PESTLE Analysis Template	
+
+» Risk & Opportunity Register	» Register of Quality Objectives & KPIs	
+
+» Quality Objectives Programme	» Competency Review Form	
+
+» Training Evaluation Form	» Training Attendance Form	
+
+» Document Register	» Document Change Request	
+
+» Document Issue Sheet	» Defective Part Report	
+
+» Defective Service Report	» Concession Request Form	
+
+» Defect & Concession Log	» Customer Satisfaction Survey	
+
+» Customer Feedback Log	» Internal Audit Report	
+
+» Management Review Program	» Review Agenda & Minutes	
+
+» Corrective Action Request	» Corrective Action Log	
+
+» Maintenance & Service Log	» Controlled Equipment Log	
+
+» Calibration Log	» Software Validation Log	
+
+» Requirements Review Checklist	» Design Change Request	
+
+» Design Change Request Log	» Approved Supplier Index	
+
+» Receiving Inspection Log	» Customer Property Log	
+
+» Production Control Plan	» Traceability Log	
+
+» Inspection & Test Report	» First Article Inspection Log	
+
+» In-process Inspection Log	» Final Inspection Log	
+
+» Improvement Activity Form	» Process Effectiveness Assessment	
+
+The Excel-based ISO 9001 internal audit checklist focuses on the quality management system requirements to help ensure each clause is effectively implemented:	
+
+» Use the ISO audit checklist to capture management system conformance	
+
+» Automatic charts summarize and communicate the audit findings	
+
+» Filter the audit checklist to select specific requirements for process auditing	
+
+» Internal audit programme, with 2-year and 10-year audit schedules	
+
+» Separate process audit template to monitor and report process performance	
+
+» 9-page off-site supplier self-assessment form
+
+
+
+
+
+
+[Sources: iso9000family, ]
