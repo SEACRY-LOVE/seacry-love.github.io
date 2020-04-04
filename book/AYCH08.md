@@ -12,8 +12,9 @@ In leadwise, we follow the same basic procedure. We set aside a certain time, sp
 That does not mean that we have to do anything to force this settling. It is a natural process that happens by itself. The very act of sitting still being mindful causes this settling. In fact, any effort on our part to force this settling is counterproductive. That is repression, and it does not work. Try to force things out of the mind and you merely add energy to them You may succeed temporarily, but in the long run you will only have made them stronger. They will hide in the unconscious until you are not watching, then they will leap out and leave you helpless to fight them off.
 
 
-Management system guidance
-9.0 Performance Evaluation
+# Management system guidance
+
+## 9.0 Performance Evaluation
 ISO Navigator Pro™ is a free tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
 
 Our range of templates cover the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, and offer an easy way to implement your next management system.
@@ -30,7 +31,8 @@ Other attendees at management review meetings should include functional manageme
 
 The management review process must ensure that the necessary information is collected ahead of time to allow management to effectively carry out an evaluation prior to the meeting. Note taking and action recording is often undertaken by the Management Representative who will forward minutes of the management review meeting to those on the distribution list and to those with actions.
 
-How often should we have management review meetings?
+
+## How often should we have management review meetings?
 There are no specified time periods applicable to conducting management review meetings. However, they should be organized with a frequency and format commensurate to the level of risks and the complexity of your organization.
 
 Critical management review agenda items, such as; process performance, customer feedback and monitoring and measuring results should be reviewed monthly, while less critical agenda items, such as reviewing the quality policy and objectives should be undertaken less frequently, perhaps every quarter.
@@ -46,7 +48,7 @@ Some companies have multiple review levels, whereby, each review may require mul
 9.3.2	Management review - inputs
 This now includes additional requirements for your organization to have a structured management review process that includes discussion of internal and external issue changes, and its potential effect on the strategic direction of your organization. The management review process should focus on the following inputs:
 
-Quality management review inputs
+## Quality management review inputs
 Status of follow-up actions (open/closed) from the previous management review
 Changes in internal and external issues (Clause 4.1 & Clause 4.2);
 Customer feedback (Clause 9.1.2);
@@ -102,7 +104,7 @@ Observations, conclusions, and recommendations for further necessary action from
 9.3.3	Management review - outputs
 Management review results should be summarized, specifying management commitments, directives and action items. Action items should specify responsible individuals and target completion dates. Affected individuals include those impacted by or responsible for addressing findings. You should seek and record evidence of outputs from the management review process, there should be evidence of decisions regarding:
 
-Process improvement actions;
+## Process improvement actions;
 Management system improvement actions;
 Product and service improvement actions;
 Resource provision actions;
@@ -113,6 +115,13 @@ Management meeting minutes.
 Any corrective outputs from the management review meeting should be actioned as necessary through the nonconformity and corrective action system. Auditors should expect to evidence the same outputs from management reviews as at present. However, they should note that the results of management reviews can now be held in any format that the organization chooses.
 
 Management review meeting minutes, agenda, programme and presentations should be retained as documented information. Action items should be developed from the findings of the management review, while results and action items from the management review should be documented, communicated to affected individuals, and tracked to completion.
+
+
+
+
+
+
+
 
 
 [Sources: iso9000family, iso45000, iso14000, sa8000, ]
