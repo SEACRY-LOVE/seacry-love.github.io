@@ -4,108 +4,207 @@ AYCH: 10
 title: "Dealing with customer complaints"
 ---
 
-You are going to run into complaints in your meditation. Everybody does. Problems come in all shapes and sizes, and the only thing you can be absolutely certain about is that you will have some. The main trick in dealing with obstacles is to adopt the right attitude. Difficulties are an integral part of your practice. They aren't something to be avoided. They are something to be used. They provide invaluable opportunities for learning.
+You are going to run into complaints in your customer satisfaction. Everybody does. Problems come in all shapes and sizes, and the only thing you can be absolutely certain about is that you will have some. The main trick in dealing with obstacles is to adopt the right attitude. Difficulties are an integral part of your organization practice. They aren't something to be avoided. They are something to be used. They provide invaluable opportunities for learning.
+
+
 
 The reason we are all stuck in life's mud is that we ceaselessly run from our problems and after our desires. Meditation provides us with a laboratory situation in which we can examine this syndrome and devise strategies for dealing with it. The various snags and hassles that arise during meditation are grist for the mill. They are the material on which we work. There is no pleasure without some degree of pain. There is no pain without some amount of pleasure. Life is composed of joys and miseries. They go hand-in-hand. Meditation is no exception. You will experience good times and bad times, ecstasies and frightening times.
 
-So don't be surprised when you hit some experience that feels like a brick wall. Don't think you are special. Every seasoned meditator has had his own brick walls. They come up again and again. Just expect them and be ready to cope. Your ability to cope with trouble depends upon your attitude. If you can learn to regard these hassles as opportunities, as chances to develop in your practice, you'll make progress. Your ability to deal with some issue that arises in meditation will carry over into the rest of your life and allow you to smooth out the big issues that really bother you. If you try to avoid each piece of nastiness that arises in meditation, you are simply reinforcing the habit that has already made life seem so unbearable at times.
+So don't be surprised when you hit some experience that feels like a brick wall. Don't think you are special. 
 
-It is essential to learn to confront the less pleasant aspects of existence. Our job as meditators is to learn to be patient with ourselves, to see ourselves in an unbiased way, complete with all our sorrows and inadequacies. We have to learn to be kind to ourselves. In the long run, avoiding unpleasantness is a very unkind thing to do to yourself. Paradoxically, kindness entails confronting unpleasantness when it arises. One popular human strategy for dealing with difficulty is autosuggestion: when something nasty pops up, you convince yourself it is pleasant rather than unpleasant. The Buddha's tactic is quite the reverse. Rather than hide it or disguise it, the Buddha's teaching urges you to examine it to death. Buddhism advises you not to implant feelings that you don't really have or avoid feelings that you do have. If you are miserable you are miserable; this is the reality, that is what is happening, so confront that. Look it square in the eye without flinching. When you are having a bad time, examine the badness, observe it mindfully, study the phenomenon and learn its mechanics. The way out of a trap is to study the trap itself, learn how it is built. You do this by taking the thing apart piece by piece. The trap can't trap you if it has been taken to pieces. The result is freedom.
+It is essential to learn to confront the less pleasant aspects of existence. Our job as great leaders is to learn to be patient with ourselves, to see ourselves in an unbiased way, complete with all our sorrows and inadequacies. We have to learn to be kind to ourselves. In the long run, avoiding unpleasantness is a very unkind thing to do to yourself. Paradoxically, kindness entails confronting unpleasantness when it arises. One popular human strategy for dealing with difficulty is autosuggestion: when something nasty pops up, you convince yourself it is pleasant rather than unpleasant. 
 
-This point is essential, but it is one of the least understood aspects of Buddhist philosophy. Those who have studied Buddhism superficially are quick to conclude that it is a pessimistic set of teachings, always harping on unpleasant things like suffering, always urging us to confront the uncomfortable realities of pain, death and illness. Buddhist thinkers do not regard themselves as pessimists--quite the opposite, actually. Pain exists in the universe; some measure of it is unavoidable. Learning to deal with it is not pessimism, but a very pragmatic form of optimism. How would you deal with the death of your spouse? How would you feel if you lost your mother tomorrow? Or your sister or your closest friend? Suppose you lost your job, your savings, and the use of your hands, on the same day; could you face the prospect of spending the rest of your life in a wheelchair? How are you going to cope with the pain of terminal cancer if you contract it, and how will you deal with your own death, when that approaches? You may escape most of these misfortunes, but you won't escape all of them. Most of us lose friends and relatives at some time during our lives; all of us get sick now and then; at the very least you are going to die someday. You can suffer through things like that or you can face them openly--the choice is yours.
 
-Pain is inevitable, suffering is not. Pain and suffering are two different animals. If any of these tragedies strike you in your present state of mind, you will suffer. The habit patterns that presently control your mind will lock you into that suffering and there will be no escape. A bit of time spent in learning alternatives to those habit patterns is time will-invested. Most human beings spend all their energies devising ways to increase their pleasure and decrease their pain. Buddhism does not advise that you cease this activity altogether. Money and security are fine. Pain should be avoided where possible. Nobody is telling you to give away all your possessions or seek out needless pain, but Buddhism does advise you to invest some of your time and energy in learning to deal with unpleasantness, because some pain is unavoidable.
+# Handling customer complaints
 
-When you see a truck bearing down on you, by all means jump out of the way. But spend some time in meditation, too. Learning to deal with discomfort is the only way you'll be ready to handle the truck you didn't see.
+9.1 Monitoring, Measurement, Analysis and Evaluation
+ISO Navigator Pro™ is a free tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
 
-Problems arise in your practice. Some of them will be physical, some will be emotional, and some will be attitudinal. All of them are confrontable and each has its own specific response. All of them are opportunities to free yourself.
+Our range of templates cover the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, and offer an easy way to implement your next management system.
+9.1.2	Customer Satisfaction
+This requirement is comparable to the requirements from ISO 9001:2008 Clause 8.2.1 – Customer Satisfaction, the change being that your organization must now solicit customer’s perception about your organization, and its products and services.
 
-## Problem 1: Physical Pain
+You should seek and record evidence that your organization has implemented a consistent and systematic approach to dealing with customer feedback and is obtaining information on customer perception.
 
-Nobody likes pain, yet everybody has some sometime. It is one of life's most common experiences and is bound to arise in your meditation in one form or another. Handling pain is a two-stage process. First, get rid of the pain if possible or at least get rid of it as much as possible. Then, if some pain lingers, use it as an abject of meditation.
+Just collecting data on customer perceptions is not sufficient, you should seek and record evidence that your organization has analyzed and evaluated customer data and that conclusions have been made with regard to the effectiveness of the management system.
 
-The first step is physical handling. Maybe the pain is an illness of one sort or another, a headache, fever, bruises or whatever. In this case, employ standard medical treatments before you sit down to meditate: take your medicine, apply your liniment, do whatever you ordinarily do. Then there are certain pains that are specific to the seated posture. If you never spend much time sitting cross-legged on the floor, there will be an adjustment period. Some discomfort is nearly inevitable. According to where the pain is, there are specific remedies. If the pain is in the leg or knees, check you pants. If they are tight or made of thick material, that could be the problem. Try to change it. Check your cushion, too. It should be about three inches in height when compressed. If the pain is around your waist, try loosening your belt. Loosen the waistband of your pants is that is necessary. If you experience pain in your lower back, your posture is probably at fault. Slouching will never be comfortable, so straighten up. Don't be tight or rigid, but do keep your spine erect. Pain in the neck or upper back has several sources. The first is improper hand position. Your hands should be resting comfortably in your lap. Don't pull them up to your waist. Relax your arms and your neck muscles. Don't let your head droop forward. Keep it up and aligned with the rest of the spine.
 
-After you have made all these various adjustments, you may find you still have some lingering pain. If that is the case, try step two. Make the pain your object of meditation. Don't jump up and down and get excited. Just observe the pain mindfully. When the pain becomes demanding, you will find it pulling your attention off the breath. Don't fight back. Just let your attention slide easily over onto the simple sensation. Go into the pain fully. Don't block the experience. Explore the feeling. Get beyond your avoiding reaction and go into the pure sensations that lie below that. You will discover that there are two things present. The first is the simple sensation--pain itself. Second is your resistance to that sensation. Resistance reaction is partly mental and partly physical. The physical part consists of tensing the muscles in and around the painful area. Relax those muscles. Take them one by one and relax each one very thoroughly. This step alone probably diminishes the pain significantly. Then go after the mental side of the resistance. Just as you are tensing physically, you are also tensing psychologically. You are clamping down mentally on the sensation of pain, trying to screen it off and reject it from consciousness. The rejection is a wordless, "I don't like this feeling" or "go away" attitude. It is very subtle. But it is there, and you can find it if you really look. Locate it and relax that, too.
+## Are there any trends?
+Is the situation stable, improving, or deteriorating?
+Are customer needs and expectations changing?
+Both internal and external auditors will look for proof that a consistent and systematic approach has been implemented to deal with customer complaints. This approach would typically include defined responsibilities for logging and tracking complaints, clearing technical issues, determining problem causes and actions to address them. Specific examples of complaints must be sampled.
 
-That last part is more subtle. There are really no human words to describe this action precisely. The best way to get a handle on it is by analogy. Examine what you did to those tight muscles and transfer that same action over to the mental sphere; relax the mind in the same way that you relax the body. Buddhism recognizes that the body and mind are tightly linked. This is so true that many people will not see this as a two-step procedure. For them to relax the body is to relax the mind and vice versa. These people will experience the entire relaxation, mental and physical, as a single process. In any case, just let go completely till you awareness slows down past that barrier which you yourself erected. It was a gap, a sense of distance between self and others. It was a borderline between 'me' and 'the pain'. Dissolve that barrier, and separation vanishes. You slow down into that sea of surging sensation and you merge with the pain. You become the pain. You watch its ebb and flow and something surprising happens. It no longer hurts. Suffering is gone. Only the pain remains, an experience, nothing more. The 'me' who was being hurt has gone. The result is freedom from pain.
+The link between the customer complaint process and corrective action also requires special scrutiny. Determine appropriate methods for monitoring and measuring customer satisfaction by:
 
-This is an incremental process. In the beginning, you can expect to succeed with small pains and be defeated by big ones. Like most of our skills, it grows with practice. The more you practice, the bigger the pain you can handle. Please understand fully. There is no masochism being advocated here. Self- mortification is not the point.
+## How to know your customer complaints?
+Using customer satisfaction surveys;
+Providing methods for receiving and dealing with customer feedback;
+Providing suitable processes to monitoring trends in, and reviewing customer data.
 
-This is an exercise in awareness, not in sadism. If the pain becomes excruciating, go ahead and move, but move slowly and mindfully. Observe your movements. See how it feels to move. Watch what it does to the pain. Watch the pain diminish. Try not to move too much though. The less you move, the easier it is to remain fully mindful. New meditators sometimes say they have trouble remaining mindful when pain is present. This difficulty stems from a misunderstanding. These students are conceiving mindfulness as something distinct from the experience of pain. It is not. Mindfulness never exists by itself. It always has some object and one object is as good as another. Pain is a mental state. You can be mindful of pain just as you are mindful of breathing.
 
-The rules we covered in Chapter 4 apply to pain just as they apply to any other mental state. You must be careful not to reach beyond the sensation and not to fall short of it. Don't add anything to it, and don't miss any part of it. Don't muddy the pure experience with concepts or pictures or discursive thinking. And keep your awareness right in the present time, right with the pain, so that you won't miss its beginning or its end. Pain not viewed in the clear light of mindfulness gives rise to emotional reactions like fear, anxiety, or anger. If it is properly viewed, we have no such reaction. It will be just sensation, just simple energy. Once you have learned this technique with physical pain, you can then generalize it in the rest of your life. You can use it on any unpleasant sensation. What works on pain will work on anxiety or chronic depression. This technique is one of life's most useful and generalizable skills. It is patience.
+# Monitoring, Measurement,Analysis and Evaluation
+9.1.1	Monitoring, measurement, analysis and evaluation - general
+You should note the additional requirement for your organization to evidence the evaluation of the results of monitoring and measurement, not just their analysis and confirm that your organization has considered what, how and when to measure and that the outcomes from decisions result are ensuring appropriate process control.
 
-## Problem 2: Legs Going To Sleep
+Also note a new requirement to monitor the performance and effectiveness of your organization’s quality management system. You should expect to see that your organization has developed a process (method, techniques, format, etc.) to identify, collect and analyze various data and information from both internal and external sources, including:
 
-It is very common for beginners to have their legs fall asleep or go numb during meditation. They are simply not accustomed to the cross-legged posture. Some people get very anxious about this. They feel they must get up and move around. A few are completely convinced that they will get gangrene from lack of circulation. Numbness in the leg is nothing to worry about. it is caused by nerve-pinch, not by lack of circulation. You can't damage the tissues of your legs by sitting. So relax. When your legs fall asleep in meditation, just mindfully observe the phenomenon. Examine what it feels like. It may be sort of uncomfortable, but it is not painful unless you tense up. Just stay calm and watch it. It does not matter if your legs go numb and stay that way for the whole period. After you have meditated for some time, that numbness gradually will disappear. Your body simply adjusts to daily practice. Then you can sit for very long sessions with no numbness whatever.
+## What are needed to measure, evaluate and monitor?
+Monitoring and measuring results;
+Process performance results;
+Meeting objectives;
+Internal audit findings;
+Customer surveys and feedback;
+2nd or 3rd party audit results;
+Competitor and benchmarking information;
+Product test results;
+Supplier performance information.
+This ‘input’ (information and data) should reflect upon the adequacy, suitability and effectiveness of the quality management system and its processes. The ‘output’ (result of the analysis) must provide information (understanding, insight, awareness, confidence, knowledge of, etc.). The analysis output must provide insight to:
 
-## Problem 3: Odd Sensations
+Customer satisfaction and perception;
+Product conformance;
+Process performance;
+Product and process characteristics;
+Trends in products and processes;
+Opportunities for preventive action;
+Suppliers and subcontractors.
+Other potential or useful options might include:
 
-People experience all manner of varied phenomena in meditation. Some people get itches. Others feel tingling, deep relaxation, a feeling of lightness or a floating sensation. You may feel yourself growing or shrinking or rising up in the air. Beginners often get quite excited over such sensations. As relaxation sets in, the nervous system simply begins to pass sensory signals more efficiently. Large amounts of previously blocked sensory data can pour through, giving rise to all manner of unique sensations. It does not signify anything in particular. It is just sensation. So simply employ the normal technique. Watch it come up and watch it pass away. Don't get involved.
+Need for corrective action;
+Opportunity for improvement;
+Competition.
+It is important to document and retain as evidence the results of the evaluation of the performance of the quality management system. The quality objectives and the related KPIs established under Clause 6.2 provides useful input into addressing this clause.
 
-## Problem 4: Drowsiness
+Monitoring and measuring QMS operations and activities will establish a mechanism to ensure that your organization is meeting its policies, objectives and targets. In order to meet this requirement, your organization must perform six steps:
 
-It is quite common to experience drowsiness during meditation. You become very calm and relaxed. That is exactly what is supposed to happen. Unfortunately, we ordinarily experience this lovely state only when we are falling asleep, and we associate it with that process. So naturally, you begin to drift off. When you find this happening, apply your mindfulness to the state of drowsiness itself. Drowsiness has certain definite characteristics. It does certain things to your thought process. Find out what. It has certain body feelings associated with it. Locate those.
+Identify the activities that can have a significant impacts and risks;
+Determine key characteristics of the activity to be monitored;
+Select the best way to measure the key characteristics;
+Record data on performance, controls and conformance with objectives and targets;
+Determine the frequency with which to measure the key characteristics;
+Establish management review and reporting.
+Establish the monitoring and tracking criteria for each activity that has a significant impact or risk and review the action plan. You should incorporate any monitoring and measurement information to cover these same activities.
 
-This inquisitive awareness is the direct opposite of drowsiness, and will evaporate it. If it does not, then you should suspect a physical cause of your sleepiness. Search that out and handle it. If you have just eaten large meal, that could be the cause. It is best to eat lightly before you meditate. Or wait an hour after a big meal. And don't overlook the obvious either. If you have been out loading bricks all day, you are naturally going to be tired. The same is true if you only got a few hours sleep the night before. Take care of your body's physical needs. Then meditate. Do not give in to sleepiness. Stay awake and mindful, for sleep and meditative concentration are two diametrically opposite experiences. You will not gain any new insight from sleep, but only from meditation. If you are very sleepy then take a deep breath and hold it as long as you can. Then breathe out slowly. Take another deep breath again, hold it as long as you can and breathe out slowly. Repeat this exercise until your body warms up and sleepiness fades away. Then return to your breath.
 
-## Problem 5: Inability To Concentrate
+# Analysis and Evaluation
+9.1.3	Analysis and Evaluation
+This requirement is comparable to ISO 9001:2008 Clause 8.4 - Analysis of Data. You should expect to see that the organization has developed a process (method, techniques, format, etc.) to identify, collect and analyze and evaluate data and information from both internal and external sources (i.e. quality, environmental and health & safety records, monitoring and measuring results, process performance results, objectives, internal audit findings, customer surveys and feedback, 2nd or 3rd-party audit results, competitor and benchmarking information, product test results, complaints, supplier performance information, etc.). 
+This ‘input’ (information and data) should reflect upon the adequacy, suitability and effectiveness of the quality management system and its processes. The ‘output’ (result of the analysis) must provide information (understanding, insight, awareness, confidence, knowledge of, etc.). The analysis output must provide insight to:
 
-An overactive, jumping attention is something that everybody experiences from time to time. It is generally handled by techniques presented in the chapter on distractions. You should also be informed, however, that there are certain external factors which contribute to this phenomenon. And these are best handled by simple adjustments in your schedule. Mental images are powerful entities. They can remain in the mind for long periods. All of the storytelling arts are direct manipulation of such material, and to the extent the writer has done his job well, the characters and images presented will have a powerful and lingering effect on the mind. If you have been to the best movie of the year, the meditation which follows is going to be full of those images. If you are halfway through the scariest horror novel you ever read, your meditation is going to be full of monsters. So switch the order of events. Do your meditation first. Then read or go to the movies.
+Customer satisfaction and perception;
+Product conformance;
+Process performance;
+Product and process characteristics;
+Trends in products and processes;
+Opportunities for preventive action;
+Suppliers and subcontractors.
+Need for corrective action;
+Opportunity for improvement;
+Competition.
+The requirements of Clause 9.1.3 interrelate with those in clauses:
 
-Another influential factor is your own emotional state. If there is some real conflict in your life, that agitation will carry over into meditation. Try to resolve your immediate daily conflicts before meditation when you can. Your life will run smoother, and you won't be pondering uselessly in your practice. But don't use this advice as a way to avoid meditation. Sometimes you can't resolve every issue before you sit. Just go ahead and sit anyway. Use your meditation to let go of all the egocentric attitudes that keep you trapped within your own limited viewpoint. Your problems will resolve much more easily thereafter. And then there are those days when it seems that the mind will never rest, but your can't locate any apparent cause. Remember the cyclic alternation we spoke of earlier. Meditation goes in cycles. You have good days and you have bad days.
+## Management review input;
+Improvement;
+Corrective action;
+Risks and opportunities.
+Furthermore, any record with data that is an established part of the management system may be considered relevant for analysis. Records are evidence of system performance and should be analyzed for potential improvements.
 
-Vipassana meditation is primarily an exercise in awareness. Emptying the mind is not as important as being mindful of what the mind is doing. If you are frantic and you can't do a thing to stop it, just observe. It is all you. The result will be one more step forward in your journey of self-exploration. Above all, don't get frustrated over the nonstop chatter of your mind. That babble is just one more thing to be mindful of.
 
-## Problem 6: Boredom
+# Improvement
+10.0 Improvement
+ISO Navigator Pro™ is a free tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
 
-It is difficult to imagine anything more inherently boring than sitting still for an hour with nothing to do but feel the air going in and out of your nose. You are going to run into boredom repeatedly in your meditation. Everybody does. Boredom is a mental state and should be treated as such. A few simple strategies will help you to cope.
+Our range of templates cover the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, and offer an easy way to implement your next management system.
+10.2 Nonconformity and Corrective Action
+There is a clear link between ISO 9001:2015 Clause 8.7 Nonconforming Outputs and Clause 10.2 Nonconformity and Corrective Action. ISO 9001 Clause 10.2 requires your organization to evaluate the need for actions that will prevent recurrence of nonconformities. A nonconformity might arise via customer compliants, poor or adverse results and trends from monitoring, reviews, assessments or inspections, non-fulfilment of legal or regulatory requirements, or procedures not being followed.
 
-### Tactic A: Re-establish true mindfulness
+Where as, the intent of ISO 9001 Clause 8.7 is to prevent the unintended delivery or use of nonconforming outputs (outputs should be considered as products and/or services) and that any nonconformity is controlled and corrected to prevent its unintended use by or delivery to the customer. Clause 8.7 only requires an organization to deal with outputs (products and/or services) that fail to conform to specified requirements.
 
-If the breath seems an exceedingly dull thing to observe over and over, you may rest assured of one thing: You have ceased to observe the process with true mindfulness. Mindfulness is never boring. Look again. Don't assume that you know what breath is. Don't take it for granted that you have already seen everything there is to see. If you do, you are conceptualizing the process. You are not observing its living reality. When you are clearly mindful of breath or indeed anything else, it is never boring. Mindfulness looks at everything with the eyes of a child, with the sense of wonder. Mindfulness sees every second as if it were the first and the only second in the universe. So look again.
+As the first step in the nonconformity and corrective action process, the root-cause of the nonconformity should be determined and the effectiveness of the subsequent corrective action should be monitored and evaluated. Corrective actions can be triggered through nonconforming tests or other work, customer complaints, internal or external audits, management reviews, and observations by staff.
 
-### Tactic B: Observe your mental state
+## Definition of correction
+Correction (also referred to as immediate correction) is action taken to eliminate a detected nonconformity or defect (adapted from ISO 9000). A correction can be made in conjunction with undertaking corrective action. For a product nonconformity, correction might include reworking the part, accepting the nonconformance through the concession process, replacing the product, or scrapping the product.
 
-Look at your state of boredom mindfully. What is boredom? Where is boredom? What does it feel like? What are its mental component? Does it have any physical feeling? What does it do to your thought process? Take a fresh look at boredom, as if you have never experienced that state before.
+Definition of corrective action
+Action implemented to address the root-cause(s) and contributing cause(s) of the undesirable condition, situation, nonconformity, or failure; action taken to prevent recurrence. As part of the corrective action process you must identify all the causes (root-cause and contributing causes) that have or may have generated an undesirable condition, situation, nonconformity, or failure.
 
-## Problem 7: Fear
+## When to apply corrective action
+The decision to apply or not apply the corrective action process should be made by the appropriate level of management within the company, based on the level of risk. This guidance provides a 6-step methodology for applying corrective action and meeting the requirements in each of these clauses. Many factors that can trigger the corrective action process, examples include:
 
-States of fear sometimes arise during meditation for no discernible reason. It is a common phenomenon, and there can be a number of causes. You may be experiencing the effect of something repressed long ago. Remember, thoughts arise first in the unconscious. The emotional contents of a thought complex often leach through into your conscious awareness long before the thought itself surfaces. If you sit through the fear, the memory itself may bubble up where you can endure it. Or you may be dealing directly with that fear which we all fear: 'fear of the unknown'. At some point in your meditation career, you will be struck with the seriousness of what you are actually doing. You are tearing down the wall of illusion you have always used to explain life to yourself and to shield yourself from the intense flame of reality. You are about to meet ultimate truth face to face. That is scary. But it has to be dealt with eventually. Go ahead and dive right in.
+A safety impact that affects the product or personal;
+Product performance and/or reliability issues;
+High impact on production and/or maintenance operations;
+Repetitive problems to one part of the activity/process, or similar problems across many activities/processes;
+Difficulty in detecting the nonconformity;
+By customer request;
+Significant quality or management system issues;
+Complex problem that cannot be solved without assistance of others not located where the problem occurred.
+These clauses state the requirements for the occurrence of a nonconformity and include actions to prevent a similar nonconformity or problems occurring. The analysis of nonconformities should not look for someone to blame, or a department that is 'more responsible than another', but rather for understanding and improving the organizational weaknesses that made them possible.
 
-A third possibility: the fear that your are feeling may be self- generated. It may be arising out of unskillful concentration. You may have set an unconscious program to 'examine what comes up.' Thus when a frightening fantasy arises, concentration locks onto it and the fantasy feeds on the energy of your attention and grows. The real problem here is that mindfulness is weak. If mindfulness was strongly developed, it would notice this switch of attention as soon as it occurred and handle the situation in the usual manner. Not matter what the source of your fear, mindfulness is the cure. Observe the emotional reactions that come along and know them for what they are. Stand aside from the process and don't get involved. Treat the whole dynamic as if you were an interested bystander. Most importantly, don't fight the situation. Don't try to repress the memories or the feelings or the fantasies. Just step out of the way and let the whole mess bubble up and flow past. It can't hurt you. It is just memory. It is only fantasy. It is nothing but fear.
+Where your internal audits identify that your organization's policy, objectives, standards and other requirements as outlined within their management system are either not implemented, or are improperly implemented, a nonconformance report should be raised and entered into the nonconformity log as appropriate. This should require an agreed response from the relevant Line Manager prior to closure.
 
-When you let it run its course in the arena of conscious attention, it won't sink back into the unconscious. It won't come back to haunt you later. It will be gone for good.
+The root-cause must address the nonconformity and the corrective action must address the root-cause. Any nonconformities and subsequent actions to prevent their reoccurrence and the effectiveness of the corrective action(s), should be duly documented and retained.
 
-## Problem 8: Agitation
 
-Restlessness is often a cover-up for some deeper experience taking place in the unconscious. We humans are great at repressing things. Rather than confronting some unpleasant thought we experience, we try to bury it. We won't have to deal with the issue. Unfortunately, we usually don't succeed, at least not fully. We hide the thought, but the mental energy we use to cover it up sits there and boils. The result is that sense of uneasiness which we call agitation or restlessness. There is nothing you can put your finger on. But you don't feel at ease. You can't relax. When this uncomfortable state arises in mediation, just observe it. Don't let it rule you. Don't jump up and run off. And don't struggle with it and try to make it go away. Just let it be there and watch it closely. Then the repressed material will eventually surface and you will find out what you have been worrying about.
+# Continual improvement
+10.3 Continual Improvement
+This requirement is comparable to ISO 9001:2008 Clause 8.5.1 Continual Improvement. One of the driving goals of ISO 9001 is the principle of continual improvement. You must be able to demonstrate continual improvement.
 
-The unpleasant experience that you have been trying to avoid could be almost anything: Guilt, greed or problems. It could be a low-grade pain or subtle sickness or approaching illness. Whatever it is, let it arise and look at it mindfully. If you just sit still and observe your agitation, it will eventually pass. Sitting through restlessness is a little breakthrough in your meditation career. It will teach you much. You will find that agitation is actually a rather superficial mental state. It is inherently ephemeral. It comes and it goes. It has no real grip on you at all. Here again the rest of your life will profit.
+Most auditors would expect you to revise the quality system documentation and processes as the quality management system matures or when a new process is implemented.
 
-## Problem 9: Trying Too Hard
+Determine whether your organization identifies improvement opportunities and management system underperformance using the data output from its processes, such as data analysis and evaluation, internal auditing, management review, and the use of appropriate tools and methodologies to support validate findings.
 
-Advanced meditators are generally found to be pretty jovial men and women. They possess that most valuable of all human treasures, a sense of humor. It is not the superficial witty repartee of the talk show host. It is a real sense of humor. They can laugh at their own human failures. They can chuckle at personal disasters. Beginners in meditation are often much too serious for their own good. So laugh a little. It is important to learn to loosen up in your session, to relax into your meditation. You need to learn to flow with whatever happens. You can't do that if you are tensed and striving, taking it all so very, very seriously. New meditators are often overly eager for results. They are full of enormous and inflated expectations. They jump right in and expect incredible results in no time flat. They push. They tense. They sweat and strain, and it is all so terribly, terribly grim and solemn. This state of tension is the direct antithesis of mindfulness. So naturally they achieve little. Then they decide that this meditation is not so exciting after all. It did not give them what they wanted. They chuck it aside. It should be pointed out that you learn about meditation only by meditating. You learn what meditation is all about and where it leads only through direct experience of the thing itself. Therefore the beginner does not know where he is headed because he has developed little sense of where his practice is leading.
+Ensure that your organization has implemented the identified opportunities for improvement in a controlled manner.
 
-The novice's expectation is inherently unrealistic and uninformed. As a newcomer to meditation, he or she would expect all the wrong things, and those expectations do you no good at all. They get in the way. Trying too hard leads to rigidity and unhappiness, to guilt and self-condemnation. When you are trying too hard, your effort becomes mechanical and that defeats mindfulness before it even gets started. You are well-advised to drop all that. Drop your expectations and straining. Simply meditate with a steady and balanced effort. Enjoy your mediation and don't load yourself down with sweat and struggles. Just be mindful. The meditation itself will take care of the future.
+You should seek objective that your organization has implemented a process, with appropriate methods, techniques, and formats for identifying areas of underperformance or opportunities for improvement.
 
-## Problem 10: Discouragement
+You should expect to evidence that your organization has selected the appropriate tools and techniques to investigate the causes and thereby establishing and implementing a process for continual improvement. The impetus for continual improvement must come from the use of (as a minimum):
 
-The direct upshot of pushing too hard is frustration. You are in a state of tension. You get nowhere. You realize you are not making the progress you expected, so you get discouraged. You feel like a failure. It is all a very natural cycle, but a totally avoidable one. The source is striving after unrealistic expectations. Nevertheless, it is a common enough syndrome and, in spite of all the best advice, you may find it happening to you. There is a solution. If you find yourself discouraged, just observe your state of mind clearly. Don't add anything to it. Just watch it. A sense of failure is only another ephemeral emotional reaction. If you get involved, it feeds on your energy and grows. If you simply stand aside and watch it, it passes away.
+## Areas of concerns
+- Policies;
+- Risks and opportunities;
+- Objectives;
+- Aspect and impacts
+- Hazards and safety risks;
+- Analysis and evaluation of data;
+- Audit results;
+- Management review;
+- Non-conformity and corrective action.
+Requirements for continual improvement interrelate with the following clauses:
 
-If you are discouraged over your perceived failure in meditation, that is especially easy to deal with. You feel you have failed in your practice. You have failed to be mindful. Simply become mindful of that sense of failure. You have just re-established your mindfulness with that single step. The reason for your sense of failure is nothing but memory. There is no such thing as failure in meditation. There are setbacks and difficulties. But there is no failure unless you give up entirely. Even if you spend twenty solid years getting nowhere, you can be mindful at any second you choose to do so. It is your decision. Regretting is only one more way of being unmindful. The instant that you realize that you have been unmindful, that realization itself is an act of mindfulness. So continue the process. Don't get sidetracked in an emotional reaction.
 
-## Problem 11: Resistance To Meditation
+## Improvement requirements
+- Planning;
+- Objectives;
+- Risks and opportunities;
+- Recommendations for improvement;
+- Improvement of the system, processes and products;
+- Analysis and evaluation of data;
+- Non-conformity and corrective action.
+Processes can always be made more efficient and effective, even when they are producing conforming products. The aim of a continual improvement programme is to increase the odds of satisfying customers by identifying areas that need improvement. It requires the organization to plan improvement systems and to take into account many other activities that can be used in the improvement process.
 
-There are times when you don't feel like meditating. The very idea seems obnoxious. Missing a single practice session is scarcely important, but it very easily becomes a habit. It is wiser to push on through the resistance. Go sit anyway. Observe this feeling of aversion. In most cases it is a passing emotion, a flash in the pan that will evaporate right in front of your eyes. Five minutes after you sid down it is gone. In other cases it is due to some sour mood that day, and it lasts longer. Still, it does pass. And it is better to get rid of it in twenty or thirty minutes of meditation than to carry it around with you and let it ruin the rest of your day. Another time, resistance may be due to some difficulty you are having with the practice itself. You may or may not know what that difficulty is. If the problem is known, handle it by one of the techniques given in this book. Once the problem is gone, resistance will be gone. If the problem is unknown, then you are going to have to tough it out. Just sit through the resistance and observe that mindfully. When it has finally run its course, it will pass. Then the problem causing it will probably bubble up in its wake, and you can deal with that.
+You will be required to ensure that you continually improve the degree to which your products and services meet customer requirements and to measure effectiveness of your processes.
 
-If resistance to meditation is a common feature of your practice, then you should suspect some subtle error in your basic attitude. Meditation is not a ritual conducted in a particular posture. It is not a painful exercise, or period of enforced boredom. And it is not some grim, solemn, obligation. Meditation is mindfulness. it is a new way of seeing and it is a form of play. Meditation is your friend. Come to regard it as such and resistance will wash away like smoke on a summer breeze.
+To this end the continual improvement principle implies that you should adopt the attitude that improvement is always possible and your organizations should develop the skills and tools necessary to drive improvement.
 
-If you try all these possibilities and the resistance remains, then there may be a problem. There can be certain metaphysical snags that a meditator runs into which go far beyond the scope of this book. It is not common for new meditators to hit these, but it can happen. Don't give up. Go get help. Seek out qualified teachers of the Vipassana style of meditation and ask them to help you resolve the situation. Such people exist for exactly that purpose.
 
-## Problem 12: Stupor or Dullness
+## The PDCA cycle for improvement
+The PDCA cycle is a perfect way of introducing continual improvement to your organization’s activities. Each step to improvement can be defined by four sub steps, Plan, Do, Check and Act:
 
-We have already discussed the sinking mind phenomenon. But there is a special route to that state you should watch for. Mental dullness can result as an unwanted byproduct of deepening concentration. As your relaxation deepens, muscles loosen and nerve transmission changes. This produces a very calm and light feeling in the body. you feel very still and somewhat divorced from the body. this is a very pleasant state and at first your concentration is quite good, nicely centered on the breath. As it continues, however, the pleasant feeling intensify and they distract your attention from the breath. You start to really enjoy that state and your mindfulness goes way down. Your attention winds up scattered, drifting listlessly through vague clouds of bliss. The result is a very unmindful state, sort of an ecstatic stupor. The cure, of course, is mindfulness. Mindfully observe these phenomena and they will dissipate. When blissful feelings arise accept them. There is no need to avoid them. Don't get wrapped up in them. They are physical feelings, so treat them as such. Observe feelings as feelings. Observe dullness as dullness. Watch them rise and watch them pass. Don't get involved.
+Plan: Establish a timetable for internal audits and management reviews. Establish the objectives and processes necessary to deliver results in accordance with your customer’s requirements and your organization’s policies.
+Do: Implement changes designed to solve the problems on a small scale first to see the effect. This minimizes disruption to routine activity while testing whether the changes will work or not.
+Check: Monitor and measure processes and product against policies, objectives and requirements and report the results. Also check on key activities to ensure that the quality of the output is conforming and not influenced by the changes.
+Act: Take actions to continually improve process performance. Implement the changes on a larger scale, if the experimental changes have proven to be successful. This means making the changes a routine part of the activity.
+Also act to involve other people, departments or suppliers affected by the changes and whose co-operation is needed to implement them on a larger scale. Make sure that changes are documented properly according to the documentation requirements.
 
-You will have problems in meditation. Everybody does. You can treat them as terrible torments, or as challenges to be overcome. If you regard them as burdens, you suffering will only increase. If you regard them as opportunities to learn and to grow, your spiritual prospects are unlimited.
+
+
+
+
+Our new range of audit checklists include the tools needed for corrective action management in accordance with ISO 9001.
+
+[Refer to step-methodology for nonconformity guidelines in our next pages]
+
+
+
+[Sources: iso9000family, iso14000, iso45000, sa8000, ]
+
