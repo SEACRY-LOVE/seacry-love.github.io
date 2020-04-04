@@ -1,11 +1,11 @@
 ---
 layout: AYCH
 AYCH: 3
-title: "What leadwise is"
+title: What "leadwise" principle is"
 ---
 
-# Leadwise
-Leadwise is a word, and words are used in different ways by different speakers. 
+# "Leadwise" principle
+"Leadwise" principle is a word, and words are used in different ways by different speakers. 
 
 ## Character
 The idea of humane character is near to the way in which Aristotle described the good and proper function of human life as an activity of the soul that expresses genuine virtue or excellence. According to Aristotle, wisdom requires intuition and ‘scientific’ knowledge. Defining intuition is tricky as there is a slightly mystical dimension to it. Cognitive psychologist, Gary Klein, resists the idea of there being any magical properties to intuition – he says that intuition is the way we translate our experience into action. Hunches, he says, are simply associations and connections rather than anything more visceral. But Klein’s research leads him to believe that “many business intuitions and expertise are going to be valuable; they are telling you something useful, and you want to take advantage of them.”
