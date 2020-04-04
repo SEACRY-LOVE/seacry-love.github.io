@@ -1,11 +1,14 @@
 ---
 layout: AYCH
 AYCH: 5
-title: "The practice"
+title: "The practice guidelines"
 ---
 
+# A long-term organization practice
+"Practice makes it best!"
 
 
+# The PDCA guidelines
 More information on PDCA
 Planning
 ISO 9001:2015	                       ISO 14001:2015	                       ISO 45001:2018
