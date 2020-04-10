@@ -84,5 +84,24 @@ Providing methods for receiving and dealing with customer feedback;
 Providing suitable processes to monitoring trends in, and reviewing customer data.
 
 
+# Why AYCH?
+At AYCH inc, we have some visible description of AYCH. It varies from category like technology, business, marketing, etc. You are reading some following explanation for AYCH in term of technology.
+
+A: [Algorithms](https://www.hackerrank.com/domains/algorithms/).
+Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth. 
+
+Y: [Y2K bug 2000](https://www.britannica.com/technology/Y2K-bug/).
+Y2K bug, also called Year 2000 bug or Millennium Bug, a problem in the coding of computerized systems that was projected to create havoc in computers and computer networks around the world at the beginning of the year 2000 (in metric measurements K stands for thousand). After more than a year of international alarm, feverish preparations, and programming corrections, few major failures occurred in the transition from December 31, 1999, to January 1, 2000.
+
+C: Celsius in NanoNeuron](https://weekly-geekly-es.github.io/articles/479220/index.html/).
+A Nano-Neuron is an over-simplified version of the Neuron concept from Neural Networks.
+Nano-neuron performs the simplest task and is trained to convert temperature from degrees Celsius to degrees Fahrenheit.
+
+H: [Hyper Tech](http://www.hypertechresearch.com/):
+Superconductors carry high current with near zero ohmic loss. In coil form, such as in an electromagnet, a charged and closed loop can carry current, and hence magnetic field, for long periods of time (of the order of months to years depending on the detail design). This makes a superconductor ideal for high field magnets. It is commonly used in MRI and nuclear magnetic resonance (NMR) systems throughout the world. Hyper Tech is well equipped to produce two wire formed superconductors: MgB2 and Nb3Sn.
+In short, Hyper Tech is a selection of cutting-edge technologies and [solutions](https://www.hypertech.co.il/).
+
+
+
 
 [Resources: ISO.org, Forbes.com, medium.com, businessInsider.com, smallbizclub.com, cnbc.com, tweakyourbiz.com, investopia.com, investment.com]
