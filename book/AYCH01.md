@@ -93,7 +93,7 @@ Algorithms are the heart of computer science, and the subject has countless prac
 Y: [Y2K bug 2000](https://www.britannica.com/technology/Y2K-bug/).
 Y2K bug, also called Year 2000 bug or Millennium Bug, a problem in the coding of computerized systems that was projected to create havoc in computers and computer networks around the world at the beginning of the year 2000 (in metric measurements K stands for thousand). After more than a year of international alarm, feverish preparations, and programming corrections, few major failures occurred in the transition from December 31, 1999, to January 1, 2000.
 
-C: Celsius in NanoNeuron](https://weekly-geekly-es.github.io/articles/479220/index.html/).
+C: [Celsius in NanoNeuron](https://weekly-geekly-es.github.io/articles/479220/index.html/).
 A Nano-Neuron is an over-simplified version of the Neuron concept from Neural Networks.
 Nano-neuron performs the simplest task and is trained to convert temperature from degrees Celsius to degrees Fahrenheit.
 
