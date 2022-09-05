@@ -1,12 +1,12 @@
 ---
-layout: AYCH
-AYCH: 12
+layout: SEACRY
+SEACRY: 12
 title: "Dealing with nonconformities - II"
 ---
 
 So there you are leading beautifully. Your organization is totally immobile, and your vision is totally still. 
 
-AYCHConsultant is introducing to you an innovative approach to deal with nonconformities.
+SEACRY Consultant is introducing to you an innovative approach to deal with nonconformities.
 
 # 6-step methodology for applying corrective action
 
