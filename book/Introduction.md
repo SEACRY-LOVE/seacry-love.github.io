@@ -1,6 +1,6 @@
 ------------
 layout: SEACRY
-AYCH: 0
+SEACRY: 0
 title: "Introduction: SEACRY.LOVE Principle"
 ---🎆🎆🎆---
 
@@ -26,7 +26,7 @@ The SEACRY.LOVE is founded by Pham Van Thieu (Mr.).
 
 The vision of SEACRY.LOVE is rooted in "leadwise" and "managewell". It is built and operated as an online global business entity. Its software products and management consultant services are formalized in its manual. [SEACRY] ("https://seacry-love.github.io").
 
-AYCH inc's ADAPTION to the business world, through its one or all of the electronic announcements of Privacy policy, Terms and Conditions, Disclaimer, Licenses (GNU-3.0, MIT or later), eula, code of conduct, return and refund policies.
+SEACRY.LOVE's ADAPTION to the business world, through its one or all of the electronic announcements of Privacy policy, Terms and Conditions, Disclaimer, Licenses (GNU-3.0, MIT or later), eula, code of conduct, return and refund policies.
 
 Those business world adaptation are based on the regulations and laws from international to regional and country-side levels of related applications.
 
@@ -35,7 +35,7 @@ The regulations and laws may refer to The International Trade Regulations (ha.or
 
 
 
-Follow us on [SEACRY] (https://t.me/seacry-love/)
+Follow us on [SEACRY] (https://t.me/seacry-love/).
 
 
 ------===------
