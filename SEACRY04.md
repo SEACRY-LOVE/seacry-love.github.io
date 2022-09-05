@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 4
+layout: SEACRY
+SEACRY: 4
 title: "Attitude"
 ---
 
