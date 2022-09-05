@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 15
+layout: SEACRY
+SEACRY: 15
 title: "Leadwise in work and life"
 ---
 
