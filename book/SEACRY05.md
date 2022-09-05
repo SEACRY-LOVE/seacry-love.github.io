@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 5
+layout: SEACRY
+SEACRY: 5
 title: "The practice guidelines"
 ---
 
