@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 7
+layout: SEACRY
+SEACRY: 7
 title: "What to do with your mindset"
 ---
 
