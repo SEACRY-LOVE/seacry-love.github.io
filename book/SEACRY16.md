@@ -12,7 +12,7 @@ Those things that we called hindrances or defilements are more than just unpleas
 # SEACRY Management as-a-Service (MaaS)
 Continuous improvement is a bilateral trust in business and individual contacts nowadays.
 ISO standards? FAO standards? ILO standards? WHO standards? WTO standards? And other related standards for humans and businesses.
-Visit us at [SEACRY] (https://seacry-love.github.io).
+Visit us at [SEACRY](https://seacry-love.github.io).
 - International management standards such as ISO9001, ISO14001, ISO22000, ISO45000, SA8000, EUCODE, 55/Kaizen, Best performance practices, etc.
 - Training of internal management auditing, improvement team, cost effectiveness and managerial accounting practices.
 
@@ -29,7 +29,7 @@ The principle of "leadwise" - "managewell" has helped SEACRY.LOVE to rethink abo
 The term ERM is deployed by AYCH inc. We believe in ourselves and trust in our relationships with our clients / customers.
 When an enterprise expects to a software APPLICATION, we always ask them why do you need to do so? (We, and our people are trained not to handle other's responsibility rather than give an advice when some one is willing to listen to.
 
-Whenever you need some one to take care of your business, you may leave an email to (tokeneconomy@eclipso.eu, or leave a message at [SEACRY] (https://t.me/seacry-love/).
+Whenever you need some one to take care of your business, you may leave an email to [our workspace](https://seacry.slack.com), or leave a message at [SEACRY](https://t.me/seacry-love).
 
 A suggestion for ERM or ERP: Whole package or partial package (s):
 - Whole package of enterprise resource management:
@@ -43,7 +43,7 @@ Departmental or functional customization resource management available are:
 - Sales,
 - ....
 The simple answer is technology can help resolve the issue.
-If you would need to join us or make a contribution, you are advised to [join us] (https://github.com/seacry-love/contributing/)
+If you would need to join us or make a contribution, you are advised to [join us](https://github.com/seacry-love/contributing).
 
 © 2022 SEACRY.LOVE. All right reserved.
 
