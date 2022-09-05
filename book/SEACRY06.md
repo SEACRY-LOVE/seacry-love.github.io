@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 6
+layout: SEACRY
+SEACRY: 6
 title: "What to do with your organization"
 ---
 
