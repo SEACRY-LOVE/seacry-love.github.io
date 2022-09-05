@@ -1,6 +1,6 @@
 ---
 layout: SEACRY
-AYCH: 1
+SEACRY: 1
 title: "Customer satisfaction: Why does it bother?"
 ---
 
