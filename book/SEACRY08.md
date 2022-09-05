@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 8
+layout: SEACRY
+SEACRY: 8
 title: "Structuring your organization"
 ---
 
