@@ -1,5 +1,5 @@
 ---
-layout: AYCH
+layout: SEACRY
 AYCH: 3
 title: What "leadwise" principle is"
 ---
