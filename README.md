@@ -3,7 +3,7 @@
 The SEACRY is developed by the SEACRY Developer. This web site is the official release and documentation of SEACRY.LOVE. Its license is under the GNU-3.0 (https://www.gnu.org/licenses/).
 This publication online includes management projects and software development updates. Plain text gets you the simple and efficient approach to the SEACRY.LOVE. 
 
-[SEACRY](https://seacry-love.github.io/) this online for the users of SEACRY.LOVE software and  management consultants around the world. One interesting has been discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to Developers on world leading bigPlatforms and  SEACRY Developer for our inheritances.
+[SEACRY](https://seacry-love.github.io) this online for the users of SEACRY.LOVE software and  management consultants around the world. One interesting has been discovered that 🎁🎁 'sharing is caring' 🎁🎁. Thanks to Developers on world leading bigPlatforms and  SEACRY Developer for our inheritances.
 
 
 ## SEACRY, a customer-driven project
