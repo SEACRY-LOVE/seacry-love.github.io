@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 2
+layout: SEACRY
+SEACRY: 2
 title: What "leadwise" principle isn't
 ---
 
