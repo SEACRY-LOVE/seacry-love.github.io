@@ -1,5 +1,5 @@
 ---
-layout: AYCH
+layout: SEACRY
 AYCH: 1
 title: "Customer satisfaction: Why does it bother?"
 ---
