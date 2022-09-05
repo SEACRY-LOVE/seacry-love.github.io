@@ -24,7 +24,7 @@ The SEACRY.LOVE is founded by Pham Van Thieu (Mr.).
 
 ## Part 2: SEACRY.LOVE ADAPTATION to business world:
 
-The vision of SEACRY.LOVE is rooted in "leadwise" and "managewell". It is built and operated as an online global business entity. Its software products and management consultant services are formalized in its manual. [SEACRY] ("https://seacry-love.github.io").
+The vision of SEACRY.LOVE is rooted in "leadwise" and "managewell". It is built and operated as an online global business entity. Its software products and management consultant services are formalized in its manual. [SEACRY](https://seacry-love.github.io).
 
 SEACRY.LOVE's ADAPTION to the business world, through its one or all of the electronic announcements of Privacy policy, Terms and Conditions, Disclaimer, Licenses (GNU-3.0, MIT or later), eula, code of conduct, return and refund policies.
 
@@ -35,7 +35,7 @@ The regulations and laws may refer to The International Trade Regulations (ha.or
 
 
 
-Follow us on [SEACRY] (https://t.me/seacry-love/).
+Follow us on [SEACRY](https://t.me/seacry-love).
 
 
 ------===------
@@ -203,8 +203,8 @@ Market: Expected compound annual growth rate of 38.2% from 2016 to 2020.
 
 ## Part 4: Contribution to SEACRY.LOVE
 
-Developers are welcome to make their contributions to [SEACRY.LOVE](https://github.com/apps/seacry-love/")
-Consultants and others who are of interest of SEACRY.LOVE may contribute by visiting [SEACRY]("http://t.me/seacry-love/")
+Developers are welcome to make their contributions to [SEACRY.LOVE](https://github.com/apps/seacry-love)
+Consultants and others who are of interest of SEACRY.LOVE may contribute by visiting [SEACRY](http://t.me/seacry-love)
 
 
 
