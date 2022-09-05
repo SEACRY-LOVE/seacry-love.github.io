@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 11
+layout: SEACRY
+SEACRY: 11
 title: "Dealing with nonconformities - I"
 ---
 
