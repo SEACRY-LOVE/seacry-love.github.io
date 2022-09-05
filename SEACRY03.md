@@ -1,6 +1,6 @@
 ---
 layout: SEACRY
-AYCH: 3
+SEACRY: 3
 title: What "leadwise" principle is"
 ---
 
