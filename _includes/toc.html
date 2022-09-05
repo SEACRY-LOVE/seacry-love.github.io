@@ -1,7 +1,7 @@
 <nav>
   <ul class="list">
-    {% assign AYCHs = site.pages | where:'layout','AYCH' | sort:'AYCH' %}
-    {% for page in AYCHs %}
+    {% assign SEACRYs = site.pages | where:'layout','SEACRY' | sort:'SEACRY' %}
+    {% for page in SEACRYs %}
       {% include toc-entry.html url=page.url title=page.title chapter=page.chapter %}
     {% endfor %}
   </ul>
