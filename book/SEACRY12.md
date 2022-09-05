@@ -186,7 +186,7 @@ Escalation to top management or transfer to another function (procurement, engin
 
 
 
-AYCH "leadwise" principle is not a game. 
+SEACRY "leadwise" principle is not a game. 
 
 
 [Sources: iso9000 family, isoorg, ]
