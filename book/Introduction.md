@@ -1,14 +1,14 @@
 ------------
-layout: AYCH
+layout: SEACRY
 AYCH: 0
-title: "Introduction: AYCH inc Principle"
+title: "Introduction: SEACRY.LOVE Principle"
 ---🎆🎆🎆---
 
 
 ## Part 1: Principle
 
-The subject of this manual book is AYCH inc induction and practice. Principle, practice. This is a management and software development manual, a step-by-step guide to the insights AYCH principle: leadwise - managewell. It is meant to be practical. It is meant simple and efficient.
-There are already many comprehensive books on AYCH inc as a philosophy, and on the theoretical aspects of AYCH inc principle. If you are interested in that material we urge you to read this manual. Many of them are excellent. This manual is written for those who intend to acquire professional software products and management practices offered by AYCH inc into their business activities. Initial full understanding of these pages will take you a very long way.
+The subject of this manual book is SEACRY.LOVE induction and practice. Principle, practice. This is a management and software development manual, a step-by-step guide to the insights SEACRY principle: leadwise - managewell. It is meant to be practical. It is meant simple and efficient.
+There are already many comprehensive books on AYCH inc as a philosophy, and on the theoretical aspects of SEACRY.LOVE principle. If you are interested in that material we urge you to read this manual. Many of them are excellent. This manual is written for those who intend to acquire professional software products and management practices offered by SEACRY.LOVE into their business activities. Initial full understanding of these pages will take you a very long way.
 
 Leadwise principle: 🎁
 "Innovation distinguishes between a leader and a follower."
@@ -16,17 +16,17 @@ Leadwise principle: 🎁
 Managewell principle: 🎁
 "A company is stronger if it is bound by love rather than by fear.” 
 
-The AYCH inc is founded by Jean Wallet (JW).
+The SEACRY.LOVE is founded by Pham Van Thieu (Mr.).
 
 
 ------===------
 
 
-## Part 2: AYCH inc ADAPTATION to business world:
+## Part 2: SEACRY.LOVE ADAPTATION to business world:
 
-The vision of AYCH inc is rooted in "leadwise" and "managewell". It is built and operated as an online global business entity. Its software products and management consultant services are formalized in its manual. [AYCHOME] ("https://aychome.github.io").
+The vision of SEACRY.LOVE is rooted in "leadwise" and "managewell". It is built and operated as an online global business entity. Its software products and management consultant services are formalized in its manual. [SEACRY] ("https://seacry-love.github.io").
 
-AYCH inc's ADAPTION to the business world, through its one or all of the electronic announcements of Privacy policy, Terms and Conditions, Disclaimer, Licenses (AGPL-3.0, MIT or later), eula, code of conduct, return and refund policies.
+AYCH inc's ADAPTION to the business world, through its one or all of the electronic announcements of Privacy policy, Terms and Conditions, Disclaimer, Licenses (GNU-3.0, MIT or later), eula, code of conduct, return and refund policies.
 
 Those business world adaptation are based on the regulations and laws from international to regional and country-side levels of related applications.
 
@@ -35,13 +35,13 @@ The regulations and laws may refer to The International Trade Regulations (ha.or
 
 
 
-Follow us on [AYCH] (https://twubs.com/aych/)
+Follow us on [SEACRY] (https://t.me/seacry-love/)
 
 
 ------===------
 
 
-## Part 3: AYCH inc terms for market and business opportunities 
+## Part 3: SEACRY.LOVE terms for market and business opportunities 
 
 BaaS:
 Backend as a Service
@@ -201,15 +201,15 @@ Market: Expected compound annual growth rate of 38.2% from 2016 to 2020.
 ------===------
 
 
-## Part 4: Contribution to AYCH inc
+## Part 4: Contribution to SEACRY.LOVE
 
-Developers are welcome to make their contributions to [AYCH inc](https://github.com/apps/aychome/")
-Consultants and others who are of interest of AYCH inc may contribute by visiting [AYCH]("http://twubs.com/aych/")
+Developers are welcome to make their contributions to [SEACRY.LOVE](https://github.com/apps/seacry-love/")
+Consultants and others who are of interest of SEACRY.LOVE may contribute by visiting [SEACRY]("http://t.me/seacry-love/")
 
 
 
-Thank you! On behalf of AYCH inc, Jean Wallet, Founder.
+Thank you! On behalf of SEACRY.LOVE, Pham Vam Thieu (Mr.), Founder.
 
 -----------------:::::🎆:::::-----------------
 
-© 2020 AYCH inc. All rights reserved.
+© 2022 SEACRY.LOVE. All rights reserved.
