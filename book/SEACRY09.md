@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 9
+layout: SEACRY
+SEACRY: 9
 title: "Set up leadwise practices"
 ---
 
