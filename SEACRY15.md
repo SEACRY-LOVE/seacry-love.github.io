@@ -208,7 +208,7 @@ Soft skills are increasingly becoming the hard skills of today's workforce. It's
 
 These people skills are more critical than ever as organizations struggle to find meaningful ways to remain competitive and be productive. Teamwork, leadership, and communication are underpinned by soft skills development. Since each is an essential element for organizational and personal success, developing these skills is very important and does matter.
 
-Traditionally, people don't receive adequate soft skills training – either during vocational instruction or as part of on-the-job training. That's why services like [AYCHConsultant](https://aychconsultant.github.io) are great for helping people build great people-skills.
+Traditionally, people don't receive adequate soft skills training – either during vocational instruction or as part of on-the-job training. That's why services like [SEACRY Consultant](https://seacry-love.github.io) are great for helping people build great people-skills.
 
 
 
