@@ -9,7 +9,7 @@ You can expect certain benefits from "leadwise" - "managewell" principle incorpo
 Those things that we called hindrances or defilements are more than just unpleasant mental habits. They are the primary manifestations of the ego process itself. The ego sense itself is essentially a feeling of separation -- a perception of distance between that which we call me, and that which we call other. This perception is held in place only if it is constantly exercised, and the hindrances constitute that exercise.
 
 
-# AYCH Management as-a-Service (MaaS)
+# SEACRY Management as-a-Service (MaaS)
 Continuous improvement is a bilateral trust in business and individual contacts nowadays.
 ISO standards? FAO standards? ILO standards? WHO standards? WTO standards? And other related standards for humans and businesses.
 Visit us at [SEACRY] (https://seacry-love.github.io).
@@ -43,9 +43,8 @@ Departmental or functional customization resource management available are:
 - Sales,
 - ....
 The simple answer is technology can help resolve the issue.
-If you would need to join us or make a contribution, you are advised to [join us] (https://github.com/aych-inc/contributing/)
+If you would need to join us or make a contribution, you are advised to [join us] (https://github.com/seacry-love/contributing/)
 
-uhh
 © 2022 SEACRY.LOVE. All right reserved.
 
 <p class="tc mt5 i">End</p>
