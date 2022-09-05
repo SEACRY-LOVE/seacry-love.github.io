@@ -8,7 +8,7 @@ title: "Introduction: SEACRY.LOVE Principle"
 ## Part 1: Principle
 
 The subject of this manual book is SEACRY.LOVE induction and practice. Principle, practice. This is a management and software development manual, a step-by-step guide to the insights SEACRY principle: leadwise - managewell. It is meant to be practical. It is meant simple and efficient.
-There are already many comprehensive books on AYCH inc as a philosophy, and on the theoretical aspects of SEACRY.LOVE principle. If you are interested in that material we urge you to read this manual. Many of them are excellent. This manual is written for those who intend to acquire professional software products and management practices offered by SEACRY.LOVE into their business activities. Initial full understanding of these pages will take you a very long way.
+There are already many comprehensive books on SEACRY.LOVE as a philosophy, and on the theoretical aspects of SEACRY.LOVE principle. If you are interested in that material we urge you to read this manual. Many of them are excellent. This manual is written for those who intend to acquire professional software products and management practices offered by SEACRY.LOVE into their business activities. Initial full understanding of these pages will take you a very long way.
 
 Leadwise principle: 🎁
 "Innovation distinguishes between a leader and a follower."
