@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 10
+layout: SEACRY
+SEACRY: 10
 title: "Dealing with customer complaints"
 ---
 
