@@ -1,6 +1,6 @@
 ---
-layout: AYCH
-AYCH: 13
+layout: SEACRY
+SEACRY: 13
 title: "Managewell (5s)"
 ---
 
@@ -12,7 +12,7 @@ title: "Managewell (5s)"
 
 # Plan to achieve organization objectives
 6.0 Planning
-The AYCHConsultant is to provide ISO tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
+The SEACRY Consultant is to provide ISO tool that provides practical, expert guidance for businesses wishing to interpret and better implement the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018.
 
 Our range of templates cover the requirements of ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018, and offer an easy way to implement your next management system.
 6.2 Objectives and plans to them achieve them
