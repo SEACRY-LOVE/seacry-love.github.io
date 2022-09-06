@@ -15,6 +15,7 @@ There is a topic other than software and management for those who need concentra
 Join SEACRY.LOVE through:
 [SEACRY](https://github.com/apps/seacry-love/) this is a place to access SEACRY.LOVE services and products. All you need to do is follow the link and complete a simple step. You are on the go!🐩🐩
 
+[SEACRY on Discord](https://cutt.ly/eCx2YiX).
 
 ## Code of conduct
 SEACRY.LOVE respects the privacy, and legal issues on business and human matters.  
